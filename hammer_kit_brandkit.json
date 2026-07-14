@@ -1,0 +1,106 @@
+{
+  "brand_name": "Hammer",
+  "domain": "hammeronline.in",
+  "url": "https://www.hammeronline.in/",
+  "slug": "hammer_kit",
+  "prefix": "HAM",
+  "colors": {
+    "brand": "#007aff",
+    "light": "#e0efff",
+    "header_bg": "#111111",
+    "header_icon": "#fff",
+    "header_border": "none",
+    "header_dark": true,
+    "body_bg": "#ffffff",
+    "body_text": "#000000",
+    "ann_bg": "#111111",
+    "ann_text": "#ffffff"
+  },
+  "typography": {
+    "body_font": "'Poppins',system-ui,-apple-system,sans-serif",
+    "font_face_css": "@font-face{font-family:'Poppins';src:local('Poppins');font-weight:600}\n@font-face{font-family:'Poppins';src:local('Poppins');font-weight:400}\n@font-face{font-family:'Poppins';src:local('Poppins');font-weight:600}\n@font-face{font-family:'Poppins';src:local('Poppins');font-weight:400}\n@font-face{font-family:'Poppins';src:local('Poppins');font-weight:600}",
+    "google_font": ""
+  },
+  "cta_radius": "0px",
+  "logo": {
+    "mode": "img",
+    "src": "https://hammeronline.in/cdn/shop/files/hAMMER_lOGO_GOOOGLE.png?v=1641298293&width=280",
+    "filter": "filter:brightness(0) invert(1);",
+    "svg": ""
+  },
+  "announcement": "Free delivery on orders above ₹499",
+  "hero": {
+    "image": "http://hammeronline.in/cdn/shop/files/Hammer_Bluetooth_Calling_Smartwatch_in_India.jpg?v=1654579569",
+    "l1": "SMART TECH",
+    "l2": "THAT MOVES",
+    "sub": "From TWS to smartwatches, gear up with everyday essentials."
+  },
+  "ad": {
+    "eyebrow": "Top Picks",
+    "l1": "Sound That",
+    "l2": "Moves With You",
+    "sub": "Smart audio and wearables built for everyday performance."
+  },
+  "products": [
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0337/7102/8616/files/HammerAirflowFlex.webp?v=1780034839&width=400",
+      "name": "Hammer Airflow Flex Ea",
+      "price": "₹549"
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0337/7102/8616/files/1_copy_9ff0dd28-6aa8-45f4-96da-ae497c3a49cf.webp?v=1779859171&width=400",
+      "name": "Hammer Solo Earbuds wi",
+      "price": "₹599"
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0337/7102/8616/files/1_8a7fc0fc-a2b9-4763-8bf6-c597426184f9.webp?v=1775478891&width=400",
+      "name": "HAMMER Splendor 2 Blue",
+      "price": "₹499"
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0337/7102/8616/files/sunrise2.webp?v=1773298807&width=400",
+      "name": "HAMMER Drop Sunrise 5W",
+      "price": "₹699"
+    }
+  ],
+  "showcase_image": "http://hammeronline.in/cdn/shop/files/Hammer_Bluetooth_Calling_Smartwatch_in_India.jpg?v=1654579569",
+  "instagram": {
+    "handle": "hammer_kit",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0337/7102/8616/files/sunrise2.webp?v=1773298807&width=200",
+      "https://cdn.shopify.com/s/files/1/0337/7102/8616/files/HammerPulseX.webp?v=1694851661&width=200",
+      "https://cdn.shopify.com/s/files/1/0337/7102/8616/files/1_8a7fc0fc-a2b9-4763-8bf6-c597426184f9.webp?v=1775478891&width=200",
+      "https://cdn.shopify.com/s/files/1/0337/7102/8616/files/1_100f79c7-0347-4416-8277-dbec09de5c0c.webp?v=1767160182&width=200",
+      "https://hammeronline.in/cdn/shop/files/Bash_Pro_ANC_Bluetooth_Headphones.webp?v=1724838958&width=200"
+    ]
+  },
+  "social": {
+    "instagram": "https://www.instagram.com/hammerlifestyle_/",
+    "facebook": "https://www.facebook.com/HammerLifestyle",
+    "youtube": "https://www.youtube.com/channel/UC_mxCd3tf3VshVQiSuALgGQ/videos?view_as=subscriber",
+    "twitter": "https://twitter.com/HammerLifestyle"
+  },
+  "meta": {
+    "platform": "shopify",
+    "tiers": [
+      "static",
+      "ai_digest",
+      "shopify_products"
+    ],
+    "ai_applied": [
+      "brand_color",
+      "body_font",
+      "brand_name",
+      "hero_copy",
+      "ad_copy",
+      "hero_image",
+      "showcase_image",
+      "instagram_images"
+    ],
+    "weak_after_static": [],
+    "weak_final": [],
+    "ai_notes": "Logo luminance was measured, so logo_treatment left null. No portrait product images were available; square product images used. Wide image options were limited to og:image.",
+    "elapsed_s": 8.5,
+    "images_found": 44
+  }
+}

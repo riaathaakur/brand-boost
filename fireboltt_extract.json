@@ -1,0 +1,743 @@
+{
+  "headerBg": "rgb(0, 0, 0)",
+  "logoSrc": "https://www.fireboltt.com/cdn/shop/files/Fireboltt_logo-white_200x@2x.png?v=1765798289",
+  "logoAlt": "Fire-Boltt",
+  "logoSvg": "",
+  "logoLum": 248.11100632111248,
+  "logoOpaque": 0.3433159722222222,
+  "accentCandidates": [
+    "rgb(251, 85, 27)",
+    "rgb(251, 85, 27)",
+    "rgb(251, 85, 27)",
+    "rgb(251, 85, 27)",
+    "rgb(251, 85, 27)",
+    "rgb(251, 85, 27)",
+    "rgb(251, 85, 27)",
+    "rgb(251, 85, 27)",
+    "rgb(251, 85, 27)",
+    "rgb(251, 85, 27)",
+    "rgb(251, 85, 27)",
+    "rgb(251, 85, 27)",
+    "rgb(251, 85, 27)",
+    "rgb(251, 85, 27)",
+    "rgb(251, 85, 27)",
+    "rgb(251, 85, 27)",
+    "rgb(251, 85, 27)",
+    "rgb(251, 85, 27)",
+    "rgb(251, 85, 27)",
+    "rgb(251, 85, 27)",
+    "rgb(251, 85, 27)",
+    "rgb(251, 85, 27)",
+    "rgb(251, 85, 27)",
+    "rgb(251, 85, 27)",
+    "rgb(251, 85, 27)",
+    "rgb(251, 85, 27)",
+    "rgb(251, 85, 27)",
+    "rgb(251, 85, 27)",
+    "rgb(251, 85, 27)",
+    "rgb(251, 85, 27)",
+    "rgb(251, 85, 27)",
+    "rgb(251, 85, 27)"
+  ],
+  "images": [
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/2_74588860-c035-48bf-95d7-af2096d9259f_x80.jpg?v=1768051882",
+      "w": 0,
+      "h": 0,
+      "alt": "All Smart Watches"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/card_1_ninja_series_5dfa0397-dce9-4ce9-ac85-4583125a2a83_x130.png?v=1765878446",
+      "w": 105,
+      "h": 130,
+      "alt": "Ninja<br>Series"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/card_2_phoenix_series_x130.png?v=1765869141",
+      "w": 105,
+      "h": 130,
+      "alt": "Phoenix Series"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/card_3_AMOLED_series_x130.png?v=1765944045",
+      "w": 105,
+      "h": 130,
+      "alt": "AMOLED<br>Series"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/card_4_square_dial_39bc8536-775b-49b3-8f00-21992be2bc13_x130.png?v=1765944065",
+      "w": 105,
+      "h": 130,
+      "alt": "Square<br>Dials"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/card_5_round_dial_0db85a3c-dee6-4b30-b638-6b7b9ab45593_x130.png?v=1765946885",
+      "w": 105,
+      "h": 130,
+      "alt": "Round<br>Dials"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/card_4_square_dial_x130.png?v=1765869156",
+      "w": 105,
+      "h": 130,
+      "alt": "Women<br>Series"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/card_7_metal_straps_x130.png?v=1765944045",
+      "w": 105,
+      "h": 130,
+      "alt": "Metal<br>Straps"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/card_8_braided_straps_1a080982-2487-439f-af3c-08a950ed7953_x130.png?v=1765945827",
+      "w": 105,
+      "h": 130,
+      "alt": "Braided<br>Straps"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/card_9_leather_straps_x130.png?v=1765945827",
+      "w": 105,
+      "h": 130,
+      "alt": "Leather<br>Straps"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/card_6_classic_straps_x130.png?v=1765944044",
+      "w": 105,
+      "h": 130,
+      "alt": "Classic<br>Strap"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/card_11_tech_spotlight_67314f22-316e-46c5-8145-06c5fc302a61_x130.png?v=1765955216",
+      "w": 105,
+      "h": 130,
+      "alt": "Tech<br>Spotlight"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/aero-black_x80.png?v=1775037508",
+      "w": 0,
+      "h": 0,
+      "alt": "Audio"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/card_1_half_in_ear_x130.png?v=1765877111",
+      "w": 105,
+      "h": 130,
+      "alt": "Half In-Ear"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/card_2_full_in_ear_x130.png?v=1765877126",
+      "w": 105,
+      "h": 130,
+      "alt": "Full In-Ear"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/card_3_OWS_x130.png?v=1765877144",
+      "w": 105,
+      "h": 130,
+      "alt": "OWS"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/card_4_lifestyle_x130.png?v=1765877181",
+      "w": 105,
+      "h": 130,
+      "alt": "Air Clips"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/card_5_sports_x130.png?v=1765877206",
+      "w": 105,
+      "h": 130,
+      "alt": "Lifestyle"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/card_6_sports_x130.png?v=1765877847",
+      "w": 105,
+      "h": 130,
+      "alt": "Sports"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/dune-active-black_1_x80.png?v=1751096616",
+      "w": 0,
+      "h": 0,
+      "alt": "Smart Glasses"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/card_1_fashion_audio_glasses_x130.png?v=1765877229",
+      "w": 105,
+      "h": 130,
+      "alt": "Fashion Audio Glasses"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/card_2_sports_audio_glasses_x130.png?v=1765877247",
+      "w": 105,
+      "h": 130,
+      "alt": "Sports Audio Glasses"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/card_3_firelens_camera_AI_glasses_x130.png?v=1765877265",
+      "w": 105,
+      "h": 130,
+      "alt": "Fire-Lens Camera AI Glasses"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Fireboltt_logo-white_200x@2x.png?v=1765798289",
+      "w": 200,
+      "h": 36,
+      "alt": "Fire-Boltt"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Fireboltt_logo-white_140x@2x.png?v=1765798289",
+      "w": 140,
+      "h": 25,
+      "alt": "Fire-Boltt"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Artboard_1_1_40848dee-4d6a-4146-ab8c-d4e2b71454ed_1759x.jpg?v=1775386081",
+      "w": 1759,
+      "h": 600,
+      "alt": ""
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Artboard_2_2a162cae-357d-4fc1-a032-0ac235b07238_800x.jpg?v=1775386081",
+      "w": 800,
+      "h": 1080,
+      "alt": ""
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Artboard_1_2_ab9c2373-3c20-4443-9d89-b868ec40b3d9_1759x.jpg?v=1774423375",
+      "w": 1759,
+      "h": 600,
+      "alt": ""
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Artboard_2_8aa4606d-563f-49dd-9afc-1f91ee130d89_800x.jpg?v=1774423376",
+      "w": 0,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Artboard_1_3_bfd7d57d-c6f5-48e4-aa36-ae501940732b_1759x.jpg?v=1774332941",
+      "w": 1759,
+      "h": 600,
+      "alt": ""
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Artboard_2_1_4d7a272a-9f5e-44a8-b6e1-e9c886311454_800x.jpg?v=1774332940",
+      "w": 0,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Artboard_1_1_6df41592-6673-4423-a60d-e068872bf6b3_1759x.png?v=1773830220",
+      "w": 1759,
+      "h": 600,
+      "alt": ""
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Artboard_2_1_d00fc911-333f-43e2-8eb2-a855cbdf6d6f_800x.png?v=1773830220",
+      "w": 0,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Artboard_1_2_15655de3-6d26-4123-866c-b5e5f7ab73a5_1759x.jpg?v=1772518610",
+      "w": 1759,
+      "h": 600,
+      "alt": ""
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Artboard_2_9570ee89-63fa-449b-88bb-dd7b50c82a1f_800x.jpg?v=1772518610",
+      "w": 0,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/9_1_1759x.jpg?v=1772258640",
+      "w": 1759,
+      "h": 600,
+      "alt": ""
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Artboard_1_5_f718635d-e253-4f0e-9b20-65519cbe4b1e_800x.jpg?v=1772258639",
+      "w": 0,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Artboard_1_4_07f427b0-98e6-42d2-acab-10b8147f9eed_1759x.jpg?v=1772087512",
+      "w": 1759,
+      "h": 600,
+      "alt": ""
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Artboard_2_2_ed55de30-8710-4b39-8060-86208ef1dbde_800x.jpg?v=1772087512",
+      "w": 0,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Artboard_1_2_9c7f986f-46b5-4d9b-9439-8376c98a4cef_1759x.jpg?v=1771588639",
+      "w": 1759,
+      "h": 600,
+      "alt": ""
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Artboard_2_1_70b58666-90b9-45c2-ba8a-c6bb889edc5b_800x.jpg?v=1771588639",
+      "w": 0,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Artboard_1_b4a5672d-b350-4b80-a303-6a5ede868bfc_1759x.png?v=1771478110",
+      "w": 1759,
+      "h": 600,
+      "alt": ""
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Artboard_2_36d766a3-ceb8-43aa-b083-c31c00dcd010_800x.png?v=1771478110",
+      "w": 0,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Artboard_1_2_d2d33e66-327c-457e-9604-d3b093ca740e_1759x.png?v=1771238494",
+      "w": 1759,
+      "h": 600,
+      "alt": ""
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Artboard_2_2_15c33003-f85e-4222-95a9-bbbaef39d7ea_800x.png?v=1771238494",
+      "w": 0,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Unit_1_100x.gif?v=1720089586",
+      "w": 100,
+      "h": 100,
+      "alt": "50Mn+"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Review_1_100x.gif?v=1720089618",
+      "w": 100,
+      "h": 100,
+      "alt": "05Mn+"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Graph_100x.gif?v=1720084637",
+      "w": 100,
+      "h": 100,
+      "alt": ""
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Timer_1_2_100x.gif?v=1720074184",
+      "w": 100,
+      "h": 100,
+      "alt": ""
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Category_Card_1_smartwatches_7498e533-3d3c-45eb-a65f-0c7f4e10912d.png?v=1766376208&width=600",
+      "w": 1280,
+      "h": 1877,
+      "alt": ""
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Category_Card_2_smart_audio_635ba694-f2fd-4df9-b8a3-d09e46c337d5.png?v=1766376208&width=600",
+      "w": 1280,
+      "h": 1877,
+      "alt": ""
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Category_Card_3_smart_glasses_0fc84e4f-94db-45c9-8f5d-30698b50e753.png?v=1766376208&width=600",
+      "w": 1280,
+      "h": 1877,
+      "alt": ""
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Category_Card_4_Women_collection_2ff90787-bf4e-4ba8-b5be-16f7f128471c.png?v=1766376208&width=600",
+      "w": 1280,
+      "h": 1877,
+      "alt": ""
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Category_Card_5_accessories_1_8bd2b78f-36b7-4c45-a89f-2d514f620b6e.png?v=1767603712&width=600",
+      "w": 1280,
+      "h": 1877,
+      "alt": ""
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Axiom_Black_1_1080x.png?v=1760003403",
+      "w": 218,
+      "h": 218,
+      "alt": "Axiom - Black"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/t/126/assets/soldout.png?v=25577100121486458011765795375",
+      "w": 200,
+      "h": 50,
+      "alt": ""
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/luxe-blue_1080x.png?v=1775036685",
+      "w": 218,
+      "h": 218,
+      "alt": "FirePods Aero Luxe"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/B0GGHGWZVM.MAIN_cadacbf5-f9b9-4e1d-a250-962ef74b47aa_1080x.jpg?v=1770012206",
+      "w": 218,
+      "h": 218,
+      "alt": "Ninja Blaze - Onyx Black"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/luxe-black_1080x.png?v=1775036706",
+      "w": 218,
+      "h": 218,
+      "alt": "FirePods Aero Luxe"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/aero-drift-sandstone-beige_1080x.png?v=1775476267",
+      "w": 218,
+      "h": 218,
+      "alt": "FirePods Aero Drift TWS - Sandstone Beige"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/luxe-white_1080x.png?v=1775036639",
+      "w": 218,
+      "h": 218,
+      "alt": "FirePods Aero Luxe"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/B0GGHFYH34.MAIN_3da0badc-ec10-4043-b656-ecee9e97c58b_1080x.jpg?v=1770012781",
+      "w": 218,
+      "h": 218,
+      "alt": "Ninja Blaze - Onyx Gold"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/aero-drift-black_1080x.png?v=1775476352",
+      "w": 218,
+      "h": 218,
+      "alt": "FirePods Aero Drift TWS - Stone Black"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/B0D2KK3DW4.MAIN_%7Bwidth%7Dx.jpg?v=1768650444",
+      "w": 0,
+      "h": 0,
+      "alt": "Brillia - Black"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/B0D2K9SBZ5.MAIN_%7Bwidth%7Dx.jpg?v=1768650342",
+      "w": 0,
+      "h": 0,
+      "alt": "Brillia - Blue"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/B0D2KGZZ4R.MAIN_%7Bwidth%7Dx.jpg?v=1768650980",
+      "w": 0,
+      "h": 0,
+      "alt": "Brillia - Champagne"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/B0D2KGBVX4.MAIN_%7Bwidth%7Dx.jpg?v=1768651568",
+      "w": 0,
+      "h": 0,
+      "alt": "Brillia - Dark Grey"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/dune-jet-black_1_%7Bwidth%7Dx.png?v=1751093258",
+      "w": 0,
+      "h": 0,
+      "alt": "Fire-Lens Dune Smart Glasses | Wireless Bluetooth"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/sway-black_1_%7Bwidth%7Dx.png?v=1751096715",
+      "w": 0,
+      "h": 0,
+      "alt": "Fire-Lens Sway Smart Glasses | Wireless Bluetooth"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/B0GHN3JMB7.MAIN_%7Bwidth%7Dx.jpg?v=1772686653",
+      "w": 0,
+      "h": 0,
+      "alt": "Glitz - Black"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/B0GH7RPRCD.MAIN_%7Bwidth%7Dx.jpg?v=1772685585",
+      "w": 0,
+      "h": 0,
+      "alt": "Glitz - Blush Rose Gold"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/deal_banner_1_desktop_5d33e594-e33a-4dde-8ffb-0a9424c1a1b2_1759x.png?v=1766057242",
+      "w": 1759,
+      "h": 733,
+      "alt": ""
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/deal_banner_1_mobile_d3debca6-aa66-4c2a-8e6f-f4b2c0b82c9b_800x.png?v=1766057463",
+      "w": 800,
+      "h": 1080,
+      "alt": ""
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/deal_banner_2_Combo_desktop_1759x.png?v=1765963108",
+      "w": 0,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/deal_banner_2_Combo_mobile_d97d5077-b655-4d77-aa9b-1685e1094390_800x.png?v=1765966336",
+      "w": 0,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/B0D2KK3DW4.MAIN_1080x.jpg?v=1768650444",
+      "w": 218,
+      "h": 218,
+      "alt": "Brillia - Black"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/B0D2K9SBZ5.MAIN_1080x.jpg?v=1768650342",
+      "w": 218,
+      "h": 218,
+      "alt": "Brillia - Blue"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/B0D2KGZZ4R.MAIN_1080x.jpg?v=1768650980",
+      "w": 218,
+      "h": 218,
+      "alt": "Brillia - Champagne"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/B0D2KGBVX4.MAIN_1080x.jpg?v=1768651568",
+      "w": 218,
+      "h": 218,
+      "alt": "Brillia - Dark Grey"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/dune-jet-black_1_1080x.png?v=1751093258",
+      "w": 218,
+      "h": 218,
+      "alt": "Fire-Lens Dune Smart Glasses | Wireless Bluetooth"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/sway-black_1_1080x.png?v=1751096715",
+      "w": 218,
+      "h": 218,
+      "alt": "Fire-Lens Sway Smart Glasses | Wireless Bluetooth"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/B0GHN3JMB7.MAIN_1080x.jpg?v=1772686653",
+      "w": 218,
+      "h": 218,
+      "alt": "Glitz - Black"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/B0GH7RPRCD.MAIN_1080x.jpg?v=1772685585",
+      "w": 218,
+      "h": 218,
+      "alt": "Glitz - Blush Rose Gold"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/blue_2a6055c5-2622-42dd-a543-194d2ae64aaa_%7Bwidth%7Dx.png?v=1778584781",
+      "w": 0,
+      "h": 0,
+      "alt": "Ninja Call Pro Plus - Blue"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/gold-black_ab8a6f7e-dde6-40d4-8350-4e5c54478e74_%7Bwidth%7Dx.png?v=1778584781",
+      "w": 0,
+      "h": 0,
+      "alt": "Ninja Call Pro Plus - Gold Black"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Axiom_Black_1_%7Bwidth%7Dx.png?v=1760003403",
+      "w": 0,
+      "h": 0,
+      "alt": "Axiom - Black"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/grey_44e004c3-292e-424f-befd-b86292fdf84f_%7Bwidth%7Dx.png?v=1778584781",
+      "w": 0,
+      "h": 0,
+      "alt": "Ninja Call Pro Plus - Grey"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/B0GH7S8882.MAIN_%7Bwidth%7Dx.jpg?v=1772685791",
+      "w": 0,
+      "h": 0,
+      "alt": "Glitz - Onyx Gold"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/black-metal_%7Bwidth%7Dx.png?v=1781598241",
+      "w": 0,
+      "h": 0,
+      "alt": "Phoenix Air - Onyx Black"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/silver-metal_%7Bwidth%7Dx.png?v=1781598241",
+      "w": 0,
+      "h": 0,
+      "alt": "Phoenix Air - Titan Silver"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/B0GH7X63PT.MAIN_%7Bwidth%7Dx.jpg?v=1772684805",
+      "w": 0,
+      "h": 0,
+      "alt": "Glitz - Pearl White"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/website-last-banner-web_e3b48123-0f9b-4733-aa21-2d69e1136aaa_1700x.jpg?v=1730794798",
+      "w": 1700,
+      "h": 800,
+      "alt": ""
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/website-last-banner-mobile_148a3b70-5e6e-4d27-a695-a6046a7f02fd_800x.jpg?v=1730794817",
+      "w": 0,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/articles/Blog-Banner-raw_074b3943-9815-4aee-9542-53a8add37a9c_1080x.png?v=1768220077",
+      "w": 281,
+      "h": 132,
+      "alt": "Smart watch faces"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0137/0292/2286/files/time-svgrepo-com.svg?v=1654864690",
+      "w": 150,
+      "h": 150,
+      "alt": "Read Time"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/articles/Blog_bannner_1080x.png?v=1727082205",
+      "w": 281,
+      "h": 132,
+      "alt": "Fire-Boltt Clickk- An Android Smartwatch with Selfie Camera & More"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/articles/Artboard_1_6_1080x.png?v=1723539353",
+      "w": 281,
+      "h": 132,
+      "alt": "Real-Life Scenarios: When Snapp Smartwatch\u2019s Selfie Camera Comes in Handy"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/articles/Artboard_1_54e7d782-3f3a-476d-9add-eaea5d768e7e_1080x.jpg?v=1722255844",
+      "w": 281,
+      "h": 132,
+      "alt": "Fire-Boltt Onyx- What to expect from the all-in-one smartwatch?"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Press-logo-2_2.png?v=1624868965",
+      "w": 200,
+      "h": 70,
+      "alt": "india tv"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Press-logo-4_2.png?v=1624869125",
+      "w": 200,
+      "h": 70,
+      "alt": "CNN"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Press-logo-3_2.png?v=1624869051",
+      "w": 200,
+      "h": 70,
+      "alt": "Forbes"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Press-logo-7_2.png?v=1624869221",
+      "w": 200,
+      "h": 70,
+      "alt": "Times of India"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Press-logo-5_2.png?v=1624869158",
+      "w": 200,
+      "h": 70,
+      "alt": "techradar"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Press-logo-8_2.png?v=1624869221",
+      "w": 200,
+      "h": 70,
+      "alt": "The Economics Times"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Press-logo-6_2.png?v=1624869180",
+      "w": 200,
+      "h": 70,
+      "alt": "NDTV"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Press-logo-1_2.png?v=1624868909",
+      "w": 200,
+      "h": 70,
+      "alt": "The Times of India"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Official-partners-logo-6_720x.png?v=1624865581",
+      "w": 160,
+      "h": 160,
+      "alt": ""
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Official-partners-logo-5_720x.png?v=1624865609",
+      "w": 160,
+      "h": 160,
+      "alt": "flipkart-store"
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Official-partners-logo-7_720x.png?v=1624865640",
+      "w": 160,
+      "h": 160,
+      "alt": ""
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Official-partners-logo-8-1_720x.png?v=1624865656",
+      "w": 160,
+      "h": 160,
+      "alt": ""
+    },
+    {
+      "src": "https://www.fireboltt.com/cdn/shop/files/Fireboltt_logo-white_63df47fe-ed52-49a0-8eff-a25703a96674_x32@2x.png?v=1766037982",
+      "w": 357,
+      "h": 64,
+      "alt": "Fire-Boltt"
+    },
+    {
+      "src": "https://pdp.gokwik.co/assets/icons/gokwik_gif.gif",
+      "w": 70,
+      "h": 70,
+      "alt": "gokwik_loading_gif"
+    }
+  ],
+  "bgImgs": [],
+  "fonts": [
+    {
+      "family": "Inter",
+      "weight": "600"
+    },
+    {
+      "family": "JudgemeStar",
+      "weight": "normal"
+    },
+    {
+      "family": "Euclid-Circular",
+      "weight": "400"
+    }
+  ],
+  "annBg": "rgb(255, 255, 255)",
+  "annColor": "rgb(0, 0, 0)",
+  "annText": "Buy 2 Get 15% Off",
+  "ogSiteName": "Fire-Boltt",
+  "social": {
+    "facebook": "https://www.facebook.com/bolttsports/",
+    "instagram": "https://instagram.com/fireboltt_?igshid=YmMyMTA2M2Y=",
+    "youtube": "https://www.youtube.com/channel/UCQh4jrmKaQdNlY_wsrCBAuQ"
+  },
+  "bodyBg": "rgb(255, 255, 255)",
+  "bodyColor": "rgb(0, 0, 0)",
+  "bodyFont": "Inter, sans-serif"
+}

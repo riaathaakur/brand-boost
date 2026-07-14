@@ -1,0 +1,483 @@
+{
+  "headerBg": "rgb(255, 255, 255)",
+  "logoSrc": "https://www.gonoise.com/cdn/shop/files/Artboard_1_wf_1_6629dd9f-9786-415b-9f2a-5bbd7e65e80e.png?v=1771130170",
+  "logoAlt": "Noise",
+  "logoSvg": "",
+  "logoLum": 255,
+  "logoOpaque": 0.532470703125,
+  "accentCandidates": [
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)",
+    "rgb(80, 90, 240)"
+  ],
+  "images": [
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/Artboard_1_wf_1_6629dd9f-9786-415b-9f2a-5bbd7e65e80e.png?v=1771130170",
+      "w": 350,
+      "h": 74,
+      "alt": "Noise"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/D_copy_2_result_473ba4f0-759c-47cf-ab72-e1b57cb19829.webp?v=1783492734",
+      "w": 1920,
+      "h": 992,
+      "alt": "noise banner image"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/D_copy_2_5__result.webp?v=1782195036",
+      "w": 1920,
+      "h": 992,
+      "alt": "noise banner image"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/image_-_2026-06-19T130324.304.png?v=1781855641",
+      "w": 1920,
+      "h": 992,
+      "alt": "noise banner image"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/Master_buds_2_D.png?v=1782891239",
+      "w": 1920,
+      "h": 992,
+      "alt": "noise banner image"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/SUMMER_DROP_GN_NJ_banner_result_1_d9003516-2798-4628-9391-23ef9b625c22.webp?v=1783615111",
+      "w": 5760,
+      "h": 2976,
+      "alt": "noise banner image"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/image_-_2025-01-28T174944.933_769f497e-1b44-45bf-bcc0-9ca167b270a6.webp?v=1743748998",
+      "w": 466,
+      "h": 576,
+      "alt": "category-img"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/Audio-D_c6175522-74cc-46eb-818a-c17e6d431026.webp?v=1743748998",
+      "w": 466,
+      "h": 576,
+      "alt": "category-img"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/image_48_1__result.webp?v=1761736184",
+      "w": 466,
+      "h": 576,
+      "alt": "category-img"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/image_39_3__result.webp?v=1759909118",
+      "w": 466,
+      "h": 576,
+      "alt": "category-img"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/Accessories-D_4a41c657-c033-47a8-b0f2-dedb17c285a7.webp?v=1743748998",
+      "w": 466,
+      "h": 576,
+      "alt": "category-img"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/Collection-D_f04f111e-8970-4ab1-8219-4dada61dc788.webp?v=1743748998",
+      "w": 466,
+      "h": 576,
+      "alt": "category-img"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0997/6284/files/gift_2.png?v=1756293255",
+      "w": 50,
+      "h": 50,
+      "alt": "p-tag-image"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/Halo_2_Black4.png?v=1780031243",
+      "w": 1500,
+      "h": 1500,
+      "alt": "prod-img"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/2.4_result.webp?v=1771311392",
+      "w": 1500,
+      "h": 1500,
+      "alt": "prod-img"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/Group_1321316750.svg?v=1762408068",
+      "w": 56,
+      "h": 56,
+      "alt": "discount-icon-image"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/3-removebg-preview_6.png?v=1775810551",
+      "w": 500,
+      "h": 500,
+      "alt": "prod-img"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/Artboard_1_4beae5ae-474c-4260-a6e0-f1dc5308df95.png?v=1776152882",
+      "w": 1500,
+      "h": 1500,
+      "alt": "prod-img"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/Artboard_46.webp?v=1773139487",
+      "w": 1500,
+      "h": 1500,
+      "alt": "prod-img"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/Artboard_8_Am5.webp?v=1776771237",
+      "w": 1500,
+      "h": 1500,
+      "alt": "prod-img"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/2_341f92d3-2df9-479b-b738-4935fead73ec.webp?v=1754739537",
+      "w": 1080,
+      "h": 1080,
+      "alt": "prod-img"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/2.1455copy_result.webp?v=1767347889",
+      "w": 2560,
+      "h": 2560,
+      "alt": "prod-img"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/ChosenBlue_2.webp?v=1782115646",
+      "w": 1500,
+      "h": 1500,
+      "alt": "prod-img"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/Chosen_Blue_5.webp?v=1782125510",
+      "w": 4324,
+      "h": 4324,
+      "alt": "prod-img"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/ChosenBlue_4d5d6e98-0310-4992-9800-c436ca3adf6f.webp?v=1782130023",
+      "w": 2560,
+      "h": 2560,
+      "alt": "prod-img"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/Artboard8_result_85b61dec-6edf-41ed-bfda-3c09c4091519.webp?v=1773898750",
+      "w": 1500,
+      "h": 1500,
+      "alt": "prod-img"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/Image_20260704_114013_928-removebg-preview.png?v=1783146133",
+      "w": 500,
+      "h": 500,
+      "alt": "prod-img"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/Artboard1_result_aacbdb98-7819-476f-80c4-702827e251ff.webp?v=1777626595",
+      "w": 1500,
+      "h": 1500,
+      "alt": "prod-img"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/Artboard_12_result_7405f2c0-15a0-4b31-8bd3-681406bbf6aa.webp?v=1778130844",
+      "w": 1500,
+      "h": 1500,
+      "alt": "prod-img"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/Artboard_1_copy_8-3_result.webp?v=1777032548",
+      "w": 1500,
+      "h": 1500,
+      "alt": "prod-img"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/10000_mAh_Powerbank_magsafe_D_P2.png?v=1782975935",
+      "w": 1920,
+      "h": 600,
+      "alt": "noise banner image"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/image_62_00da8299-9a0d-4989-8a59-50636d53b61a.png?v=1776842365",
+      "w": 1920,
+      "h": 600,
+      "alt": "noise banner image"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/1920X1_result.webp?v=1758003473",
+      "w": 1920,
+      "h": 600,
+      "alt": "noise banner image"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/image_-_2025-11-27T153128.258_60a5a6d5-a4f6-4c39-8739-404d05b39835.png?v=1764242346",
+      "w": 1920,
+      "h": 600,
+      "alt": "noise banner image"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/1__8_-removebg-preview.png?v=1758016595",
+      "w": 500,
+      "h": 500,
+      "alt": "prod-img"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/1_10_1__result.webp?v=1780580356",
+      "w": 1500,
+      "h": 1500,
+      "alt": "prod-img"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/3_19da2b40-5338-4fc6-bf5d-7445ea387972.webp?v=1737350374",
+      "w": 1080,
+      "h": 1080,
+      "alt": "prod-img"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/Artboard_5_55d4a7fc-a1d1-45b3-92cb-e5a4873ba1dc.webp?v=1748513563",
+      "w": 1080,
+      "h": 1080,
+      "alt": "prod-img"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/Untitled-1_0000s_0000_Layer-3_result.webp?v=1773385087",
+      "w": 1200,
+      "h": 1200,
+      "alt": "prod-img"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/Artboard1copy_2015a009-a77c-448a-b008-90748f61ff96.png?v=1770092365",
+      "w": 1500,
+      "h": 1500,
+      "alt": "prod-img"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/image_n_desk.png?v=1770795737",
+      "w": 1920,
+      "h": 600,
+      "alt": "noise banner image"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/image_new_desk.png?v=1770791992",
+      "w": 1920,
+      "h": 600,
+      "alt": "noise banner image"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/Untitled-1_2.png?v=1727772937",
+      "w": 185,
+      "h": 44,
+      "alt": "logo-noise"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/Home_1.png?v=1772191591",
+      "w": 0,
+      "h": 0,
+      "alt": "Home"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/Home_6.png?v=1772191592",
+      "w": 0,
+      "h": 0,
+      "alt": "Bestsellers"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/Home_9.png?v=1772191591",
+      "w": 0,
+      "h": 0,
+      "alt": "Master Series"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/Home_3_4_890663ac-f282-4eda-b272-9ddc5b564d8c.png?v=1779355914",
+      "w": 0,
+      "h": 0,
+      "alt": "New Launches"
+    },
+    {
+      "src": "https://www.gonoise.com/cdn/shop/files/Home_3_5_98b0be62-c570-4f68-95d7-fbe375310a81.png?v=1781762693",
+      "w": 0,
+      "h": 0,
+      "alt": "Sale"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0688/7587/8702/files/compare-page-loader.gif",
+      "w": 90,
+      "h": 90,
+      "alt": "Compare Page Loader"
+    },
+    {
+      "src": "https://pdp.gokwik.co/assets/icons/gokwik_gif.gif",
+      "w": 70,
+      "h": 70,
+      "alt": "gokwik_loading_gif"
+    }
+  ],
+  "bgImgs": [],
+  "fonts": [
+    {
+      "family": "Inter",
+      "weight": "400"
+    },
+    {
+      "family": "Instrument Serif",
+      "weight": "400"
+    },
+    {
+      "family": "Satoshi",
+      "weight": "400"
+    },
+    {
+      "family": "Oswald",
+      "weight": "400"
+    },
+    {
+      "family": "Gilroy-Medium",
+      "weight": "400"
+    },
+    {
+      "family": "Red Hat Display",
+      "weight": "400"
+    },
+    {
+      "family": "swiper-icons",
+      "weight": "400"
+    },
+    {
+      "family": "JudgemeStar",
+      "weight": "normal"
+    }
+  ],
+  "annBg": "rgb(244, 244, 244)",
+  "annColor": "rgb(0, 0, 0)",
+  "annText": "ALT - Chosen Not Default | Explore Now",
+  "ogSiteName": "Noise",
+  "social": {},
+  "bodyBg": "rgb(255, 255, 255)",
+  "bodyColor": "rgb(0, 0, 0)",
+  "bodyFont": "Inter, sans-serif"
+}

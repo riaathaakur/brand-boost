@@ -1,0 +1,73 @@
+{
+  "brand_name": "Mamaearth",
+  "domain": "mamaearth.in",
+  "url": "https://www.mamaearth.in/",
+  "slug": "mamaearth_kit",
+  "prefix": "MAM",
+  "colors": {
+    "brand": "#00afef",
+    "light": "#e0f5fd",
+    "header_bg": "#ffffff",
+    "header_icon": "#111",
+    "header_border": "1px solid #e8e8e8",
+    "header_dark": false,
+    "body_bg": "#ffffff",
+    "body_text": "#111111",
+    "ann_bg": "#111111",
+    "ann_text": "#ffffff"
+  },
+  "typography": {
+    "body_font": "'Open Sans',system-ui,-apple-system,sans-serif",
+    "font_face_css": "@font-face{font-family:'Open Sans';src:local('Open Sans');font-weight:400}\n@font-face{font-family:'Open Sans';src:local('Open Sans');font-weight:500}\n@font-face{font-family:'Open Sans';src:local('Open Sans');font-weight:600}\n@font-face{font-family:'Open Sans';src:local('Open Sans');font-weight:400}\n@font-face{font-family:'Open Sans';src:local('Open Sans');font-weight:500}\n@font-face{font-family:'Open Sans';src:local('Open Sans');font-weight:600}",
+    "google_font": ""
+  },
+  "cta_radius": "0px",
+  "logo": {
+    "mode": "img",
+    "src": "https://images.mamaearth.in/wysiwyg/mamaearth-logo.png?format=auto&fit=scale",
+    "filter": "",
+    "svg": ""
+  },
+  "announcement": "Free delivery on orders above ₹499",
+  "hero": {
+    "image": "https://st-images.honasa.in/Flash_Sale_GIF_8394413e39.gif?width=&qualilty=",
+    "l1": "NEW SEASON",
+    "l2": "NEW DROPS",
+    "sub": "Fresh styles, straight from Mamaearth"
+  },
+  "ad": {
+    "eyebrow": "Limited Offer",
+    "l1": "NEW",
+    "l2": "ARRIVALS",
+    "sub": "On all orders. Use code MAM25"
+  },
+  "products": [
+    {
+      "image": "",
+      "name": "Best Seller",
+      "price": "₹1,199"
+    },
+    {
+      "image": "",
+      "name": "New Arrival",
+      "price": "₹899"
+    }
+  ],
+  "showcase_image": "",
+  "instagram": {
+    "handle": "mamaearth_kit",
+    "images": []
+  },
+  "social": {},
+  "meta": {
+    "platform": "generic",
+    "tiers": [
+      "static"
+    ],
+    "ai_applied": [],
+    "weak_after_static": [],
+    "weak_final": [],
+    "elapsed_s": 1.1,
+    "images_found": 3
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "headerBg": "rgb(0, 0, 0)",
+  "logoSrc": "https://www.zudio.com/cdn/shop/files/logo_2048x.png?v=1613519896",
+  "logoAlt": "Zudio",
+  "logoSvg": "",
+  "logoLum": 241.06397674418608,
+  "logoOpaque": 0.43930288461538464,
+  "accentCandidates": [],
+  "images": [
+    {
+      "src": "https://www.zudio.com/cdn/shop/files/logo_2048x.png?v=1613519896",
+      "w": 135,
+      "h": 26,
+      "alt": "Zudio"
+    },
+    {
+      "src": "https://www.zudio.com/cdn/shop/files/Web_4cf54df8-1308-49a5-85e8-382830019429_1296x.jpg?v=1778063002",
+      "w": 1279,
+      "h": 487,
+      "alt": ""
+    },
+    {
+      "src": "https://www.zudio.com/cdn/shop/files/1_c5ef8ff4-78d7-4fc1-b6ad-21e758f6c3ea_1296x.jpg?v=1773724479",
+      "w": 1279,
+      "h": 487,
+      "alt": ""
+    },
+    {
+      "src": "https://www.zudio.com/cdn/shop/files/1_fab05a20-2d77-4e8c-8a27-0a4f4f1dd3f3_1296x.jpg?v=1773724493",
+      "w": 1279,
+      "h": 2097,
+      "alt": ""
+    },
+    {
+      "src": "https://www.zudio.com/cdn/shop/files/2_37aa5cd1-70be-4cd5-9507-29469f95aba7_1296x.jpg?v=1773724544",
+      "w": 1279,
+      "h": 487,
+      "alt": ""
+    },
+    {
+      "src": "https://www.zudio.com/cdn/shop/files/2_02defaea-9275-4af9-bb9b-daf37446eeed_1296x.jpg?v=1773724527",
+      "w": 1279,
+      "h": 2097,
+      "alt": ""
+    },
+    {
+      "src": "https://www.zudio.com/cdn/shop/files/3_8756a780-5cb2-4da9-92e1-07cbb634eac4_1296x.jpg?v=1773724560",
+      "w": 1279,
+      "h": 487,
+      "alt": ""
+    },
+    {
+      "src": "https://www.zudio.com/cdn/shop/files/3_c308419c-0623-411b-8420-9bd5b212015e_1296x.jpg?v=1773724564",
+      "w": 1279,
+      "h": 2097,
+      "alt": ""
+    },
+    {
+      "src": "https://www.zudio.com/cdn/shop/files/4_7a78ea50-6dad-408a-a4cd-8d1a4776f9b0_1296x.jpg?v=1773724589",
+      "w": 1279,
+      "h": 487,
+      "alt": ""
+    },
+    {
+      "src": "https://www.zudio.com/cdn/shop/files/4_14ab0e89-cfa0-4a7a-b424-d440d63336d5_1296x.jpg?v=1773724579",
+      "w": 1279,
+      "h": 2097,
+      "alt": ""
+    },
+    {
+      "src": "https://www.zudio.com/cdn/shop/files/5_c3604682-5b00-4b0b-acf3-1686ea05bb00_1296x.jpg?v=1773724607",
+      "w": 1279,
+      "h": 487,
+      "alt": ""
+    },
+    {
+      "src": "https://www.zudio.com/cdn/shop/files/5_6a458345-d68c-4887-905e-a858203b9cfe_1296x.jpg?v=1773724619",
+      "w": 1279,
+      "h": 2097,
+      "alt": ""
+    },
+    {
+      "src": "https://www.zudio.com/cdn/shop/files/6_b216ddfd-d082-465e-9d84-c02cc8f6b7cc_1296x.jpg?v=1773724662",
+      "w": 1279,
+      "h": 487,
+      "alt": ""
+    },
+    {
+      "src": "https://www.zudio.com/cdn/shop/files/6_814a95c1-a721-41b7-b925-2aba7d99d908_1296x.jpg?v=1773724652",
+      "w": 1279,
+      "h": 2097,
+      "alt": ""
+    },
+    {
+      "src": "https://www.zudio.com/cdn/shop/files/Imp_Notice_06th_Dec_Web_Banner-01_900x_745a9a67-fdb5-4e0c-8ee0-6f6072da449f.png?v=1714479786",
+      "w": 1280,
+      "h": 487,
+      "alt": ""
+    },
+    {
+      "src": "https://www.zudio.com/cdn/shop/files/App_Banner_4_613eccb8-a644-4d70-89d4-ca41c3507420.png?v=1714479804",
+      "w": 1280,
+      "h": 2069,
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0249/4155/9894/files/icons8-instagram-20_1.png?v=1692868821",
+      "w": 20,
+      "h": 20,
+      "alt": "instagram-icon"
+    },
+    {
+      "src": "https://cdn.cookielaw.org/logos/396992c7-1022-4c36-82e8-f180e6324448/01946822-220c-788e-9a15-66b2d48a2e52/08ae2364-8dff-4651-b065-3bb9ea3d2844/Zudio_Logo_(W)_1_x_(H)_1-01.png",
+      "w": 945,
+      "h": 945,
+      "alt": "Company Logo"
+    },
+    {
+      "src": "https://cdn.cookielaw.org/logos/396992c7-1022-4c36-82e8-f180e6324448/01946822-220c-788e-9a15-66b2d48a2e52/596b0ce1-8b87-4246-8b63-fc4a9e1971d4/Zudio_Logo_Clear_(W)_1_x_(H)_5-09_crop.png",
+      "w": 894,
+      "h": 201,
+      "alt": "Company Logo"
+    },
+    {
+      "src": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+      "w": 568,
+      "h": 53,
+      "alt": "Powered by Onetrust"
+    }
+  ],
+  "bgImgs": [
+    "https://www.zudio.com/cdn/shop/files/Web_4cf54df8-1308-49a5-85e8-382830019429_1296x.jpg?v=1778063002",
+    "https://www.zudio.com/cdn/shop/files/App_a7f50ef5-b8aa-42e4-abda-09d38ed6a51a_300x300.jpg?v=1778063037",
+    "https://www.zudio.com/cdn/shop/files/1_c5ef8ff4-78d7-4fc1-b6ad-21e758f6c3ea_1296x.jpg?v=1773724479",
+    "https://www.zudio.com/cdn/shop/files/1_fab05a20-2d77-4e8c-8a27-0a4f4f1dd3f3_1296x.jpg?v=1773724493",
+    "https://www.zudio.com/cdn/shop/files/2_37aa5cd1-70be-4cd5-9507-29469f95aba7_1296x.jpg?v=1773724544",
+    "https://www.zudio.com/cdn/shop/files/2_02defaea-9275-4af9-bb9b-daf37446eeed_1296x.jpg?v=1773724527",
+    "https://www.zudio.com/cdn/shop/files/3_8756a780-5cb2-4da9-92e1-07cbb634eac4_1296x.jpg?v=1773724560",
+    "https://www.zudio.com/cdn/shop/files/3_c308419c-0623-411b-8420-9bd5b212015e_1296x.jpg?v=1773724564",
+    "https://www.zudio.com/cdn/shop/files/4_7a78ea50-6dad-408a-a4cd-8d1a4776f9b0_1296x.jpg?v=1773724589",
+    "https://www.zudio.com/cdn/shop/files/4_14ab0e89-cfa0-4a7a-b424-d440d63336d5_1296x.jpg?v=1773724579",
+    "https://www.zudio.com/cdn/shop/files/5_c3604682-5b00-4b0b-acf3-1686ea05bb00_1296x.jpg?v=1773724607",
+    "https://www.zudio.com/cdn/shop/files/5_6a458345-d68c-4887-905e-a858203b9cfe_1296x.jpg?v=1773724619",
+    "https://www.zudio.com/cdn/shop/files/6_b216ddfd-d082-465e-9d84-c02cc8f6b7cc_1296x.jpg?v=1773724662",
+    "https://www.zudio.com/cdn/shop/files/6_814a95c1-a721-41b7-b925-2aba7d99d908_1296x.jpg?v=1773724652",
+    "https://www.zudio.com/cdn/shop/files/Imp_Notice_06th_Dec_Web_Banner-01_900x_745a9a67-fdb5-4e0c-8ee0-6f6072da449f.png?v=1714479786",
+    "https://www.zudio.com/cdn/shop/files/App_Banner_4_613eccb8-a644-4d70-89d4-ca41c3507420.png?v=1714479804"
+  ],
+  "fonts": [
+    {
+      "family": "Jost",
+      "weight": "700"
+    },
+    {
+      "family": "Futura-Light",
+      "weight": "400"
+    },
+    {
+      "family": "Futura",
+      "weight": "400"
+    },
+    {
+      "family": "Futura-Bold",
+      "weight": "400"
+    }
+  ],
+  "ogSiteName": "Zudio",
+  "social": {
+    "instagram": "https://www.instagram.com/myzudio"
+  },
+  "bodyBg": "rgb(255, 255, 255)",
+  "bodyColor": "rgb(61, 66, 70)",
+  "bodyFont": "Jost, sans-serif"
+}

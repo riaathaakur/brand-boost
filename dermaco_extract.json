@@ -1,0 +1,853 @@
+{
+  "headerBg": "rgb(255, 255, 255)",
+  "logoSrc": "https://thedermaco.com/cdn/shop/files/Group_1410131923.png?v=1764147419",
+  "logoAlt": "DRS app Logo",
+  "logoSvg": "",
+  "logoLum": 222.43671637168154,
+  "logoOpaque": 0.9809027777777778,
+  "accentCandidates": [
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(9, 103, 78)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)",
+    "rgb(33, 122, 110)"
+  ],
+  "ctaBg": "rgb(33, 122, 110)",
+  "ctaColor": "rgb(255, 255, 255)",
+  "ctaRadius": "8px",
+  "images": [
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/TheDermaCoLogo2-min.png?v=1755071586&width=220",
+      "w": 136,
+      "h": 40,
+      "alt": "The Derma Co"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/PDP_80gm_200x.jpg?v=1783575298",
+      "w": 0,
+      "h": 0,
+      "alt": "1% Hyaluronic Sunscreen Aqua Gel In-Vivo Tested (ISO 24444:2019 Certified, CTRI/2025/02/080287) with SPF 50 & PA++++ - 80g"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/2_PDP_5a75dfc1-fd49-4bc1-83bd-a10219434a8d_200x.jpg?v=1780310213",
+      "w": 0,
+      "h": 0,
+      "alt": "10% Vitamin C Face Serum with 5% Niacinamide & Hyaluronic Acid - 30ml"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/PDP_50gm_200x.jpg?v=1783575300",
+      "w": 0,
+      "h": 0,
+      "alt": "1% Hyaluronic Sunscreen Aqua Gel In Vivo Tested (ISO 24444:2019 Certified, CTRI/2025/02/080287) with SPF 50 & PA++++ - 50g"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/pdp_2_kojic_serum_new_200x.jpg?v=1758286610",
+      "w": 0,
+      "h": 0,
+      "alt": "2% Kojic Acid Face Serum with 1% Alpha Arbutin & Niacinamide - 30 ml"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/Group_1410131923.png?v=1764147419",
+      "w": 48,
+      "h": 48,
+      "alt": "DRS app Logo"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/TheDermaCoLogo2-min.png?v=1755071586&width=110",
+      "w": 1280,
+      "h": 372,
+      "alt": ""
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/Screenshot_2026-02-18_at_2.06.29_AM-removebg-preview_small.png?v=1771716340",
+      "w": 81,
+      "h": 74,
+      "alt": ""
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/Screenshot_2026-02-18_at_2.06.43_AM-removebg-preview_small.png?v=1771716340",
+      "w": 67,
+      "h": 69,
+      "alt": ""
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/Screenshot_2026-02-18_at_2.05.58_AM-removebg-preview_small.png?v=1771716340",
+      "w": 86,
+      "h": 94,
+      "alt": ""
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/Screenshot_2026-02-18_at_2.06.36_AM-removebg-preview_small.png?v=1771716340",
+      "w": 81,
+      "h": 92,
+      "alt": ""
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/Screenshot_2026-02-18_at_2.06.06_AM-removebg-preview_small.png?v=1771716340",
+      "w": 96,
+      "h": 91,
+      "alt": ""
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/Screenshot_2026-02-18_at_2.06.50_AM-removebg-preview_small.png?v=1771716340",
+      "w": 93,
+      "h": 91,
+      "alt": ""
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/Screenshot_2026-02-18_at_2.06.18_AM-removebg-preview_small.png?v=1771716339",
+      "w": 83,
+      "h": 94,
+      "alt": ""
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/Screenshot_2026-02-18_at_2.06.59_AM-removebg-preview_small.png?v=1771716340",
+      "w": 80,
+      "h": 93,
+      "alt": ""
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/background_e9135420-8d26-4467-a07e-407b68f59770_720x384.png?v=1773773878",
+      "w": 720,
+      "h": 299,
+      "alt": "The Derma Co"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/lightning_bg.png?v=1770984371&width=411",
+      "w": 411,
+      "h": 501,
+      "alt": ""
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/FOP_OILFREEAQUAGEL80GM.jpg?v=1762340815&width=1066",
+      "w": 224,
+      "h": 224,
+      "alt": "Broad Spectrum Protection Sunscreen"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/9_fb5a9244-0544-4b2c-b646-5765712e4840.jpg?v=1780054678&width=1066",
+      "w": 224,
+      "h": 224,
+      "alt": "1% Hyaluronic Sunscreen Aqua Gel In Vivo Tested (ISO 24444:2019 Certified, CTRI/2025/02/080287) with SPF 50 & PA++++ - 80g (Pack of 2)"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/fop_nia_new_pack-2_white_bg.jpg?v=1758286896&width=1066",
+      "w": 224,
+      "h": 224,
+      "alt": "10% Niacinamide Face Serum with 2% Zinc PCA for Acne Marks - 30ml (Pack Of 2)"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/1_10_nia_new_1.jpg?v=1772455320&width=1066",
+      "w": 224,
+      "h": 224,
+      "alt": "10% Niacinamide Face Serum with 2% Zinc PCA for Acne Marks - 30ml (Pack Of 2)"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/no_more_oily_skin_kitoily-skin.jpg?v=1758286745&width=1200",
+      "w": 224,
+      "h": 224,
+      "alt": "No More Oily Skin Kit"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/hyaluronic_oil_free_daily_face_wash.jpg?v=1758286745&width=720",
+      "w": 224,
+      "h": 224,
+      "alt": "No More Oily Skin Kit"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/FOP_oilfreeaquagel50gm.jpg?v=1762340662&width=1066",
+      "w": 224,
+      "h": 224,
+      "alt": "sunscreen for acne prone skin"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/9_847689c9-96ea-4fc4-854c-5d96bb68527a.jpg?v=1780054040&width=1066",
+      "w": 224,
+      "h": 224,
+      "alt": "1% Hyaluronic Sunscreen Aqua Gel In Vivo Tested (ISO 24444:2019 Certified, CTRI/2025/02/080287) for Broad Spectrum & Blue Light Protection for Oily, Dry, Acne-prone Skin - 50g (Pack of 2)"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/fop_pack_of_2_white_bg.jpg?v=1758286889&width=1066",
+      "w": 224,
+      "h": 224,
+      "alt": "2% Salicylic Acid Serum with Witch Hazel & Willow Bark for Active Acne - 30ml (Pack Of 2)"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/1_2_salicylic_serum_1.jpg?v=1772450476&width=1066",
+      "w": 224,
+      "h": 224,
+      "alt": "2% Salicylic Acid Serum with Witch Hazel & Willow Bark for Active Acne - 30ml (Pack Of 2)"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/2_fop_2-step_oil_control_duo.jpg?v=1758287173&width=1066",
+      "w": 224,
+      "h": 224,
+      "alt": "2-Step Oil Control Duo"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/2_bop_2-step_oil_control_duo.jpg?v=1758287173&width=1066",
+      "w": 224,
+      "h": 224,
+      "alt": "2-Step Oil Control Duo"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/8_FOP.jpg?v=1769077488&width=1200",
+      "w": 224,
+      "h": 224,
+      "alt": "2% Salicylic Acid Gel Face Wash with Salicylic Acid & Witch Hazel - 100ml (Pack Of 3)"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/5_2_salicylic_fw.jpg?v=1772703159&width=1066",
+      "w": 224,
+      "h": 224,
+      "alt": "2% Salicylic Acid Gel Face Wash with Salicylic Acid & Witch Hazel - 100ml (Pack Of 3)"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/fop_pack_of__2_2_kojic_serum_new.jpg?v=1772452662&width=1066",
+      "w": 224,
+      "h": 224,
+      "alt": "2% Kojic Acid Face Serum with 1% Alpha Arbutin & Niacinamide for Dark Spots And Pigmentation - 30 ml (Pack Of 2)"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/1_2_kojic_serum_new_1.jpg?v=1772452662&width=1066",
+      "w": 224,
+      "h": 224,
+      "alt": "2% Kojic Acid Face Serum with 1% Alpha Arbutin & Niacinamide for Dark Spots And Pigmentation - 30 ml (Pack Of 2)"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/FOP_OILFREEAQUAGEL80GM.jpg?v=1762340815&width=32",
+      "w": 32,
+      "h": 32,
+      "alt": "1% Hyaluronic Sunscreen Aqua Gel In Vivo Tested (ISO 24444:2019 Certified, CTRI/2025/02/080287) with SPF 50 & PA++++ - 80g (Pack of 2)"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/fop_nia_new_pack-2_white_bg.jpg?v=1758286896&width=32",
+      "w": 32,
+      "h": 32,
+      "alt": "10% Niacinamide Face Serum with 2% Zinc PCA for Acne Marks - 30ml (Pack Of 2)"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/no_more_oily_skin_kitoily-skin.jpg?v=1758286745&width=32",
+      "w": 32,
+      "h": 32,
+      "alt": "No More Oily Skin Kit"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/PDP_80gm.jpg?v=1783575298&width=1066",
+      "w": 224,
+      "h": 224,
+      "alt": "1% Hyaluronic Sunscreen Aqua Gel In-Vivo Tested (ISO 24444:2019 Certified, CTRI/2025/02/080287) with SPF 50 & PA++++ - 80g"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/9_b06e74f3-aeca-465d-b51d-98c669a19770.jpg?v=1780054494&width=1066",
+      "w": 224,
+      "h": 224,
+      "alt": "1% Hyaluronic Sunscreen Aqua Gel In-Vivo Tested (ISO 24444:2019 Certified, CTRI/2025/02/080287) with SPF 50 & PA++++ - 80g"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/2_PDP_5a75dfc1-fd49-4bc1-83bd-a10219434a8d.jpg?v=1780310213&width=1066",
+      "w": 224,
+      "h": 224,
+      "alt": "10% Vitamin C Face Serum with 5% Niacinamide & Hyaluronic Acid - 30ml"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/9_7b0c7ba5-20e4-4280-b24c-05d23ed2cf68.jpg?v=1780310213&width=1066",
+      "w": 224,
+      "h": 224,
+      "alt": "10% Vitamin C Face Serum with 5% Niacinamide & Hyaluronic Acid - 30ml"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/PDP_50gm.jpg?v=1783575300&width=1066",
+      "w": 224,
+      "h": 224,
+      "alt": "1% Hyaluronic Sunscreen Aqua Gel In Vivo Tested (ISO 24444:2019 Certified, CTRI/2025/02/080287) with SPF 50 & PA++++ - 50g"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/9_2a78e9a4-32df-45ca-a6bf-a60f558f6ee3.jpg?v=1780053523&width=1066",
+      "w": 224,
+      "h": 224,
+      "alt": "1% Hyaluronic Sunscreen Aqua Gel In Vivo Tested (ISO 24444:2019 Certified, CTRI/2025/02/080287) with SPF 50 & PA++++ - 50g"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/pdp_2_kojic_serum_new.jpg?v=1758286610&width=1066",
+      "w": 224,
+      "h": 224,
+      "alt": "2% Kojic Acid Face Serum with 1% Alpha Arbutin & Niacinamide - 30 ml"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/1_2_kojic_serum_new.jpg?v=1772447319&width=1066",
+      "w": 224,
+      "h": 224,
+      "alt": "2% Kojic Acid Face Serum with 1% Alpha Arbutin & Niacinamide - 30 ml"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/pdp_10_nia_new.jpg?v=1758286594&width=1066",
+      "w": 224,
+      "h": 224,
+      "alt": "10% Niacinamide Face Serum with 2% Zinc PCA - 30ml"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/1_10_nia_new.jpg?v=1772447560&width=1066",
+      "w": 224,
+      "h": 224,
+      "alt": "10% Niacinamide Face Serum with 2% Zinc PCA - 30ml"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/2_PDP_516d5d09-bf60-4181-9611-34bbcb9c4e81.jpg?v=1782729928&width=1066",
+      "w": 224,
+      "h": 224,
+      "alt": "2% Salicylic Acid Face Serum for Active Acne - 30ml"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/10_8bcda092-2080-4464-a9b4-3b1c3a9592a0.jpg?v=1782729927&width=1066",
+      "w": 224,
+      "h": 224,
+      "alt": "2% Salicylic Acid Face Serum for Active Acne - 30ml"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/1_pdp_2_sali_cinamide_new.jpg?v=1767606411&width=1066",
+      "w": 224,
+      "h": 224,
+      "alt": "2% Sali-Cinamide Anti-Acne Face Wash with 2% Salicylic Acid & 2% Niacinamide - 80ml"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/6_2_sali_cinamide_new.jpg?v=1772702914&width=1066",
+      "w": 224,
+      "h": 224,
+      "alt": "2% Sali-Cinamide Anti-Acne Face Wash with 2% Salicylic Acid & 2% Niacinamide - 80ml"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/1_pdp_ha_oil_free_ss_matte_gel.jpg?v=1772436688&width=1066",
+      "w": 224,
+      "h": 224,
+      "alt": "oil free sunscreen gel "
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/5_ha_oil_free_ss_matte_gel.jpg?v=1772436688&width=1066",
+      "w": 224,
+      "h": 224,
+      "alt": "hyaluronic sunscreen oil free gel benfits"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/PDP_80gm.jpg?v=1783575298&width=32",
+      "w": 32,
+      "h": 32,
+      "alt": "1% Hyaluronic Sunscreen Aqua Gel In-Vivo Tested (ISO 24444:2019 Certified, CTRI/2025/02/080287) with SPF 50 & PA++++ - 80g"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/2_PDP_5a75dfc1-fd49-4bc1-83bd-a10219434a8d.jpg?v=1780310213&width=32",
+      "w": 32,
+      "h": 32,
+      "alt": "10% Vitamin C Face Serum with 5% Niacinamide & Hyaluronic Acid - 30ml"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/PDP_50gm.jpg?v=1783575300&width=32",
+      "w": 32,
+      "h": 32,
+      "alt": "1% Hyaluronic Sunscreen Aqua Gel In Vivo Tested (ISO 24444:2019 Certified, CTRI/2025/02/080287) with SPF 50 & PA++++ - 50g"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/1920x512_1.jpg?v=1777886339&width=1600",
+      "w": 1240,
+      "h": 330,
+      "alt": "Dr. Sheths"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/Desktop_1920x512_9.jpg?v=1777887298&width=1600",
+      "w": 1240,
+      "h": 330,
+      "alt": "Dr. Sheths"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/Desktop_1920_x_512_6.jpg?v=1777886339&width=1600",
+      "w": 1240,
+      "h": 330,
+      "alt": "Dr. Sheths"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/Desktop_1920x512_8_677cea80-69e4-4c27-9fd7-8b2e517d1bb4.jpg?v=1777886338&width=1600",
+      "w": 1240,
+      "h": 330,
+      "alt": "Dr. Sheths"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/Desktop_1920x512_7_fad36f8d-4a98-4391-a08c-316154eaf4b5.jpg?v=1777886488&width=1600",
+      "w": 1240,
+      "h": 330,
+      "alt": "Dr. Sheths"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/BANNERS_c6a9c60158_1.jpg?v=1777886874&width=1600",
+      "w": 1240,
+      "h": 330,
+      "alt": "Dr. Sheths"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/sunny_days_71618948-c6d0-40b9-923c-f7820dac46e3.png?v=1779561248&width=1440",
+      "w": 1280,
+      "h": 661,
+      "alt": ""
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/niacinamide-daily-face-serum-2.jpg?v=1758286648&width=1066",
+      "w": 224,
+      "h": 224,
+      "alt": "5% Niacinamide Daily Face Serum with Alpha Arbutin & Multivitamin  - 30ml"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/niacinamide-daily-face-serum_revised.jpg?v=1772448392&width=1066",
+      "w": 224,
+      "h": 224,
+      "alt": "5% Niacinamide Daily Face Serum with Alpha Arbutin & Multivitamin  - 30ml"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/pdp_h_s_hydrating.jpg?v=1758287134&width=1066",
+      "w": 224,
+      "h": 224,
+      "alt": "Hydrating Sunscreen SPF 50 for  Dry Skin"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/4_h_s_hydrating.jpg?v=1772444816&width=1066",
+      "w": 224,
+      "h": 224,
+      "alt": "hydrating sunscreen benefits"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/1._10_2.jpg?v=1758287030&width=1066",
+      "w": 224,
+      "h": 224,
+      "alt": "1% Kojic Acid Face Wash with Niacinamide & Alpha Arbutin For Dark Spots & Pigmentation - 150 ml"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/6_9_1.jpg?v=1772697237&width=1066",
+      "w": 224,
+      "h": 224,
+      "alt": "1% Kojic Acid Face Wash with Niacinamide & Alpha Arbutin For Dark Spots & Pigmentation - 150 ml"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/1_PDP_8c9e2658-d482-42a0-aeed-5eace1d557dd.jpg?v=1766743619&width=1066",
+      "w": 224,
+      "h": 224,
+      "alt": "1% Salicylic Acid Oil-Free Moisturizer For Face with Oat Extract  - 50g"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/clinicalactivities_4ed4994d-990b-4fa3-a5cd-d9444888c77f.jpg?v=1766743834&width=1066",
+      "w": 224,
+      "h": 224,
+      "alt": "1% Salicylic Acid Oil-Free Moisturizer For Face with Oat Extract  - 50g"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/ultra-matte-sunscreen-gel_3_1.jpg?v=1772437749&width=1200",
+      "w": 224,
+      "h": 224,
+      "alt": "ultra matte sunscreen ingredients"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/ultra_matte_sunscreen.jpg?v=1758286466&width=1200",
+      "w": 224,
+      "h": 224,
+      "alt": "the derma co ultra matte sunscreen gel"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/1._2.jpg?v=1758286761&width=1066",
+      "w": 224,
+      "h": 224,
+      "alt": "Derma Co Vitamin C Moisturizer"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/5._1_2.jpg?v=1758286762&width=1066",
+      "w": 224,
+      "h": 224,
+      "alt": "5% Vitamin C Oil-Free Daily Face Moisturizer for Skin Radiance - 100g"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/1_pdp_2_sali_cinamide_new.jpg?v=1767606411&width=32",
+      "w": 32,
+      "h": 32,
+      "alt": "2% Sali-Cinamide Anti-Acne Face Wash with 2% Salicylic Acid & 2% Niacinamide - 80ml"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/niacinamide-daily-face-serum-2.jpg?v=1758286648&width=32",
+      "w": 32,
+      "h": 32,
+      "alt": "5% Niacinamide Daily Face Serum with Alpha Arbutin & Multivitamin  - 30ml"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/satbannerdesktop.gif?v=1777892477&width=1200",
+      "w": 512,
+      "h": 382,
+      "alt": ""
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/satbannerdesktop.gif?v=1777892477&width=2400",
+      "w": 2400,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/Happy_customer.svg?v=1774915530&width=32",
+      "w": 1280,
+      "h": 1280,
+      "alt": ""
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/Group_1410131828.png?v=1774915758&width=32",
+      "w": 1280,
+      "h": 1080,
+      "alt": ""
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/Young-scientist_2.png?v=1774915705&width=32",
+      "w": 1280,
+      "h": 1280,
+      "alt": ""
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/1_PDP_280d686f-bc88-46f2-856d-c7d88c1e26e4.jpg?v=1780984675&width=1066",
+      "w": 287,
+      "h": 287,
+      "alt": "2% Sali-Cinamide Anti-Acne Body Wash - 250 ml"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/6_de519eb2-0d23-441e-a43d-21ef9ed59b3f.jpg?v=1780984675&width=1066",
+      "w": 287,
+      "h": 287,
+      "alt": "2% Sali-Cinamide Anti-Acne Body Wash - 250 ml"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/FOP_fcade68f-2ed4-4ee5-a2b5-2c270ce6ea8c.jpg?v=1782128068&width=1066",
+      "w": 287,
+      "h": 287,
+      "alt": "Triple Actives Anti-Dandruff Shampoo - 400ml"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/PDP_5a63a17d-34ff-46e8-ac90-1b7f5d6d47ae.jpg?v=1782128069&width=1066",
+      "w": 287,
+      "h": 287,
+      "alt": "Triple Actives Anti-Dandruff Shampoo - 400ml"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/1_PDP_b1e2502e-d7d8-4e07-aa90-d7864c7dc4e1.jpg?v=1777634002&width=1066",
+      "w": 287,
+      "h": 287,
+      "alt": "Peptide-Stem Cell Hair Fall Control Shampoo - 400ml"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/clinical_0a0efd77-3f6c-42af-91db-1214e9016a40.jpg?v=1777634002&width=1066",
+      "w": 287,
+      "h": 287,
+      "alt": "Peptide-Stem Cell Hair Fall Control Shampoo - 400ml"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/FOP_dc30ee56-2f5d-4983-98c8-3f2f7bda9de7.jpg?v=1774872947&width=1066",
+      "w": 287,
+      "h": 287,
+      "alt": "Skin Renew Hyperpigmentation Peptide Serum - 30 ml"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/1_86252d42-bdbf-41c2-9470-fb14173ba633.jpg?v=1774872947&width=1066",
+      "w": 287,
+      "h": 287,
+      "alt": "Skin Renew Hyperpigmentation Peptide Serum - 30 ml"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/1_PDP_7fa2ede3-8564-4340-9593-ecc7ed652445.jpg?v=1774848931&width=1066",
+      "w": 287,
+      "h": 287,
+      "alt": "1% Hyaluronic Moisturizing Sunscreen Body Lotion In-Vivo Tested - 200 ml"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/9_112d5583-48c2-42f2-9498-e3ec1c1d0f79.jpg?v=1774859596&width=1066",
+      "w": 287,
+      "h": 287,
+      "alt": "1% Hyaluronic Moisturizing Sunscreen Body Lotion In-Vivo Tested - 200 ml"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/FOP_f2c78bf0-3dc1-4876-8ca4-8eee50263022.jpg?v=1766038021&width=1066",
+      "w": 287,
+      "h": 287,
+      "alt": "The Derma Co. X Dr V Skin Renew Peptide Under Eye Cream - 15 ml"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/Ingredients.jpg?v=1772704873&width=1066",
+      "w": 287,
+      "h": 287,
+      "alt": "The Derma Co. X Dr V Skin Renew Peptide Under Eye Cream - 15 ml"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/PDP.png?v=1764748034&width=1066",
+      "w": 287,
+      "h": 287,
+      "alt": "Triple Actives Anti-Dandruff Control Combo"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/1-Benefits.png?v=1764748034&width=1066",
+      "w": 287,
+      "h": 287,
+      "alt": "Triple Actives Anti-Dandruff Control Combo"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/1_PDP_b5a57fe3-da36-4f71-8f94-b479a4b52ab5.jpg?v=1762931620&width=1066",
+      "w": 287,
+      "h": 287,
+      "alt": "1% Kojic Acid Lip Balm with Alpha Arbutin & Hyaluronic Acid with SPF 50 - 4.5g"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/10_24c4fc51-7742-416d-a051-922306461dd8.jpg?v=1769067546&width=1066",
+      "w": 287,
+      "h": 287,
+      "alt": "1% Kojic Acid Lip Balm with Alpha Arbutin & Hyaluronic Acid with SPF 50 - 4.5g"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/1_PDP_280d686f-bc88-46f2-856d-c7d88c1e26e4.jpg?v=1780984675&width=32",
+      "w": 32,
+      "h": 32,
+      "alt": "2% Sali-Cinamide Anti-Acne Body Wash - 250 ml"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/FOP_fcade68f-2ed4-4ee5-a2b5-2c270ce6ea8c.jpg?v=1782128068&width=32",
+      "w": 32,
+      "h": 32,
+      "alt": "Triple Actives Anti-Dandruff Shampoo - 400ml"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/1_PDP_b1e2502e-d7d8-4e07-aa90-d7864c7dc4e1.jpg?v=1777634002&width=32",
+      "w": 32,
+      "h": 32,
+      "alt": "Peptide-Stem Cell Hair Fall Control Shampoo - 400ml"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/Young-scientist_1.png?v=1774915532&width=400",
+      "w": 200,
+      "h": 67,
+      "alt": "Every purchase educates a child and builds a brighter future."
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/Group_1410131874.png?v=1774915533&width=1200",
+      "w": 307,
+      "h": 172,
+      "alt": ""
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/apple-store-logo.webp?v=1755956896&width=180",
+      "w": 180,
+      "h": 54,
+      "alt": "Download on the App Store"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/google-play-logo.webp?v=1755956896&width=180",
+      "w": 180,
+      "h": 53,
+      "alt": "Get it on Google Play"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/Frame_cff9b1f4-786d-419d-8e14-b741ab148b1a.svg?v=1764750391&width=52",
+      "w": 52,
+      "h": 0,
+      "alt": "Free Shipping"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/Frame2.svg?v=1764750433&width=52",
+      "w": 52,
+      "h": 0,
+      "alt": "Easy Return"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/Frame3.svg?v=1764750504&width=52",
+      "w": 52,
+      "h": 0,
+      "alt": "COD Available"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shopifycloud/storefront/assets/payment_icons/visa-b614b878.svg",
+      "w": 38,
+      "h": 24,
+      "alt": "visa"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shopifycloud/storefront/assets/payment_icons/master-f5a74105.svg",
+      "w": 38,
+      "h": 24,
+      "alt": "master"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shopifycloud/storefront/assets/payment_icons/american_express-2bdbf0e2.svg",
+      "w": 38,
+      "h": 24,
+      "alt": "american express"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shopifycloud/storefront/assets/payment_icons/rupay-866b7e37.svg",
+      "w": 38,
+      "h": 24,
+      "alt": "rupay"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shopifycloud/storefront/assets/payment_icons/paytm-c8147fd8.svg",
+      "w": 38,
+      "h": 24,
+      "alt": "paytm"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shopifycloud/storefront/assets/payment_icons/google_pay-34c30515.svg",
+      "w": 38,
+      "h": 24,
+      "alt": "google pay"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shopifycloud/storefront/assets/payment_icons/freecharge-e030814b.svg",
+      "w": 38,
+      "h": 24,
+      "alt": "freecharge"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/footerTDC.svg?v=1777452570&width=760",
+      "w": 760,
+      "h": 0,
+      "alt": "The Derma Co"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/TheDermaCoLogo2-min.png?v=1755071586&width=240",
+      "w": 240,
+      "h": 71,
+      "alt": "The Derma Co"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/Frame_cff9b1f4-786d-419d-8e14-b741ab148b1a.svg?v=1764750391&width=56",
+      "w": 50,
+      "h": 50,
+      "alt": "Free Shipping"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/Frame2.svg?v=1764750433&width=56",
+      "w": 50,
+      "h": 50,
+      "alt": "Easy Return"
+    },
+    {
+      "src": "https://thedermaco.com/cdn/shop/files/Frame3.svg?v=1764750504&width=56",
+      "w": 50,
+      "h": 50,
+      "alt": "COD Available"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0670/3287/5233/files/tick-green.svg",
+      "w": 10,
+      "h": 8,
+      "alt": "tick-green-circle"
+    },
+    {
+      "src": "https://cdn.shopify.com/static/images/flags/in.svg?width=32",
+      "w": 32,
+      "h": 0,
+      "alt": "India"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0795/9858/4101/files/TDC_Chat_Icon_a6ab2837-6609-450a-8201-d3d33aa83bbc.gif?v=1780555666",
+      "w": 300,
+      "h": 300,
+      "alt": "Chat"
+    },
+    {
+      "src": "https://pdp.gokwik.co/assets/icons/gokwik_gif.gif",
+      "w": 70,
+      "h": 70,
+      "alt": "gokwik_loading_gif"
+    },
+    {
+      "src": "https://bat.bing.com/action/0?ti=137027518&tm=gtm002&Ver=2&mid=b19ffadd-6fc2-421f-a927-32fc794f2a3a&bo=1&sid=32de33107c4611f1a0ed8d4aef771932&vid=32de50307c4611f18f1041f86147e21e&vids=1&msclkid=N&pi=0&lg=en-US&sw=1280&sh=900&sc=24&nwd=1&tl=The%20Derma%20Co%20Skincare%20Products%3A%20Flat%2030%25%20Off%20on%20%E2%82%B91499%20%7C%20FLAT30&p=https%3A%2F%2Fthedermaco.com%2F%3Fpb%3D0&r=https%3A%2F%2Fthedermaco.com%2F&lt=3744&evt=pageLoad&sv=2&cdb=AQAS&rn=443721",
+      "w": 0,
+      "h": 0,
+      "alt": ""
+    }
+  ],
+  "bgImgs": [],
+  "fonts": [
+    {
+      "family": "Roboto",
+      "weight": "400"
+    },
+    {
+      "family": "JudgemeStar",
+      "weight": "normal"
+    }
+  ],
+  "annBg": "rgba(0, 0, 0, 0)",
+  "annColor": "rgb(29, 29, 29)",
+  "annText": "Buy any 2 @ \u20b9799 | Use Coupon - RUSH799 at cart",
+  "ogSiteName": "The Derma Co",
+  "social": {
+    "facebook": "https://m.facebook.com/groups/thedermachatroom/",
+    "x.com": "https://x.com/thedermaco",
+    "instagram": "https://www.instagram.com/thedermacoindia/",
+    "youtube": "https://www.youtube.com/channel/UCak8KQ1SJXPx7bHIINsWFEA"
+  },
+  "bodyBg": "rgb(255, 255, 255)",
+  "bodyColor": "rgb(29, 29, 29)",
+  "bodyFont": "Roboto, sans-serif"
+}

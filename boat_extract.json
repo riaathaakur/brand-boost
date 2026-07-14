@@ -1,0 +1,1310 @@
+{
+  "headerBg": "rgb(0, 0, 0)",
+  "logoSrc": "https://www.boat-lifestyle.com/cdn/shop/files/boAt_logo_black_24889e30-925c-4185-a028-9fef497a8e44.svg?v=1732879339",
+  "logoAlt": "",
+  "logoSvg": "",
+  "logoLum": 48.36971586931062,
+  "logoOpaque": 0.41845703125,
+  "accentCandidates": [
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(47, 91, 150)",
+    "rgb(47, 91, 150)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(25, 30, 35)",
+    "rgb(25, 30, 35)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(25, 30, 35)",
+    "rgb(25, 30, 35)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(25, 30, 35)",
+    "rgb(25, 30, 35)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(25, 30, 35)",
+    "rgb(25, 30, 35)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)",
+    "rgb(26, 32, 36)"
+  ],
+  "ctaBg": "rgb(26, 32, 36)",
+  "ctaColor": "rgb(255, 255, 255)",
+  "ctaRadius": "50%",
+  "images": [
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/collections/dropdown-TWS_100x.png?v=1684827062",
+      "w": 100,
+      "h": 100,
+      "alt": "Wireless Earbuds"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/collections/Neckbands_06214c1a-5e30-48ea-ac14-4a6bff679f48_100x.png?v=1684828287",
+      "w": 100,
+      "h": 100,
+      "alt": "boAt \u2014 Bluetooth Neckbands"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/collections/smartwatches_100x.png?v=1684827668",
+      "w": 100,
+      "h": 100,
+      "alt": "Smartwatches"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/collections/Rectangle271_100x.png?v=1763545192",
+      "w": 100,
+      "h": 100,
+      "alt": "Wired & Wireless Headphones"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/collections/box-5_512x.png?v=1767866639",
+      "w": 100,
+      "h": 100,
+      "alt": "Wireless Speakers"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/collections/Collections_5baef8f1-a67a-40a5-a537-4258c6caae6a_100x.png?v=1684827849",
+      "w": 100,
+      "h": 100,
+      "alt": "Home Theatre Systems & Soundbars"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/collections/sound_bar_4f111a6a-2482-41c8-87f2-db7e0ee19e69_1_100x.webp?v=1684827961",
+      "w": 100,
+      "h": 100,
+      "alt": "Party Speakers"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/collections/powerbank_100x.png?v=1684828045",
+      "w": 100,
+      "h": 100,
+      "alt": "Power Banks"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/collections/dashcam_pp.1173_1_100x.png?v=1769063709",
+      "w": 100,
+      "h": 100,
+      "alt": "Dash Cam for Car"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/collections/Projector_e1_category_1077x.png?v=1776666530",
+      "w": 100,
+      "h": 92,
+      "alt": "Best Projector for Home: Cinehead Projectors"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/collections/K100_category_2000x.png?v=1779430789",
+      "w": 100,
+      "h": 100,
+      "alt": "Slazer Trimmers"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/collections/Immortal_category_Image_100x.png?v=1684827903",
+      "w": 100,
+      "h": 100,
+      "alt": "Immortal Gaming"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/collections/Group_1707479022_224x.png?v=1767869619",
+      "w": 100,
+      "h": 121,
+      "alt": "Chargers and Cables"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/collections/Wiredearphones_100x.webp?v=1705399424",
+      "w": 100,
+      "h": 100,
+      "alt": "Wired Earphones"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/collections/Limited-Edition_37047a04-2d15-43d7-9083-510bc21b6381_100x.png?v=1776858986",
+      "w": 100,
+      "h": 100,
+      "alt": "Exclusive Limited Editions"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/hamburger-icon_e04a19e8-1d6b-48f9-842c-3cc7c96368ae.png?v=1693460503",
+      "w": 89,
+      "h": 72,
+      "alt": "hamburger-icon"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/hamburger-icon.png?v=1675762678",
+      "w": 89,
+      "h": 72,
+      "alt": "hamburger-icon"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/boAt_logo_black_24889e30-925c-4185-a028-9fef497a8e44.svg?v=1732879339",
+      "w": 300,
+      "h": 123,
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/boAt_logo_white.svg?v=1732875809",
+      "w": 300,
+      "h": 123,
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/search_558f3ad8-0ef9-4a9b-8576-a396b44aacd8.png?v=1680091847",
+      "w": 100,
+      "h": 100,
+      "alt": "search-icon"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/search_b57f9909-55e8-432a-95c3-734b258d2d9e.png?v=1693460577",
+      "w": 100,
+      "h": 100,
+      "alt": "search-icon"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/True-wireless-earbuds.png?v=1684842854",
+      "w": 100,
+      "h": 100,
+      "alt": ""
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/Nirvana-ION-Black-_-1_-1.1_100x_1.webp?v=1706100811",
+      "w": 100,
+      "h": 100,
+      "alt": ""
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/Smartwatches_88f12bcf-24bd-4e3a-aacb-ecc204f62179.png?v=1684842853",
+      "w": 100,
+      "h": 100,
+      "alt": ""
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/nirvana_icon_4508dc2e-62fb-477e-b4f5-b2291cb9a305.png?v=1778496368",
+      "w": 552,
+      "h": 585,
+      "alt": ""
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/Neckbands_bc6343f4-622f-4ebd-bb36-205643c3bf78.png?v=1684842854",
+      "w": 100,
+      "h": 100,
+      "alt": ""
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/Wireless-Speaker.png?v=1684842854",
+      "w": 100,
+      "h": 100,
+      "alt": ""
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/Wireless-Headphones.png?v=1684842854",
+      "w": 100,
+      "h": 100,
+      "alt": ""
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/Powerbanks.png?v=1684842853",
+      "w": 100,
+      "h": 100,
+      "alt": ""
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/100x100.png?v=1769063407",
+      "w": 100,
+      "h": 100,
+      "alt": ""
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/Projector_e1_category.png?v=1776665705",
+      "w": 1077,
+      "h": 1000,
+      "alt": ""
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/K100_category.png?v=1779430781",
+      "w": 2000,
+      "h": 2015,
+      "alt": ""
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/Wired-Earphones.png?v=1684842854",
+      "w": 100,
+      "h": 100,
+      "alt": ""
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/Soundbars_d9a7bdfd-e780-4581-ab85-f2e86f84cd28.png?v=1684842854",
+      "w": 100,
+      "h": 100,
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/final-loader.gif?v=1670845994",
+      "w": 250,
+      "h": 233,
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/user_6be0d230-5262-4e4c-94b2-e796ba39b697.png?v=1663761259",
+      "w": 0,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/user_22X22?.pngv=1614329938",
+      "w": 0,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/best_seller_100X100.svg?v=1748341370",
+      "w": 150,
+      "h": 150,
+      "alt": "Best Sellers"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/tws_aa22d83e-8823-4d76-91e9-e75fd34fb51d_100X100.png?v=1748428298",
+      "w": 0,
+      "h": 0,
+      "alt": "True Wireless Earbuds"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/WH_b225905d-9064-4f64-9772-07fbcc521f0f_100X100.png?v=1748428298",
+      "w": 0,
+      "h": 0,
+      "alt": "Wireless Headphones"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/neckband_660318e8-a68d-4572-bf8f-359f22319765_100X100.png?v=1748428772",
+      "w": 0,
+      "h": 0,
+      "alt": "Neckbands"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/smartwatch_4b47c9df-5ea9-4149-9cf8-ff5a9c8f5cc1_100X100.png?v=1748428298",
+      "w": 0,
+      "h": 0,
+      "alt": "Smart Watches"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/WS_100X100.png?v=1748428298",
+      "w": 0,
+      "h": 0,
+      "alt": "Wireless Speakers"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/LA_100X100.png?v=1748428298",
+      "w": 0,
+      "h": 0,
+      "alt": "Soundbars"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/PS_100X100.png?v=1748428298",
+      "w": 0,
+      "h": 0,
+      "alt": "Party Speakers"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/Powerbank_978fc76c-bfa8-4923-93e4-a4a40f4269fb_100X100.png?v=1748428298",
+      "w": 0,
+      "h": 0,
+      "alt": "Power Banks"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/Wired-Headphones_edbd6983-7c3e-43d9-b769-a153189effa0_100X100.png?v=1748428298",
+      "w": 0,
+      "h": 0,
+      "alt": "Wired Headphones"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/1080x1080_057c11d1-93b5-47c6-a947-e146c8046470_100X100.png?v=1769063408",
+      "w": 0,
+      "h": 0,
+      "alt": "Dashcams"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/Projector_e1_100X100.png?v=1776665704",
+      "w": 0,
+      "h": 0,
+      "alt": "Projectors"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/K100_category-2_100X100.png?v=1779430781",
+      "w": 0,
+      "h": 0,
+      "alt": "Trimmers"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/Wired-H_100X100.png?v=1748428297",
+      "w": 0,
+      "h": 0,
+      "alt": "Wired Earphones"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/15_14617b40-f00b-44d3-a798-219200e99409_100X100.png?v=1767870363",
+      "w": 0,
+      "h": 0,
+      "alt": "Chargers and Cables"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/NIrvana_d128f925-4744-4758-aa38-d68064d357f1_100X100.png?v=1748428298",
+      "w": 0,
+      "h": 0,
+      "alt": "Nirvana Series"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/Gaming_fa0a62ed-24ee-4d59-91a1-f792f114ee6e_100X100.png?v=1748428298",
+      "w": 0,
+      "h": 0,
+      "alt": "Gaming Series"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/mobile-size_dffe85b8-f69a-4cf8-9904-1a8abd4be523.gif?v=1783621709",
+      "w": 1316,
+      "h": 550,
+      "alt": ""
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/Mobile_Pro_clip_fc2d24a4-683d-4821-9457-b8882659f652.png?v=1783620852",
+      "w": 1316,
+      "h": 550,
+      "alt": ""
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/Eutpia_2_anc_mobile_copy.png?v=1783620874",
+      "w": 1316,
+      "h": 550,
+      "alt": ""
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/Stone_900_Mobile_c8d4e54a-114d-43d9-845c-b8636ca75212.png?v=1783621602",
+      "w": 1316,
+      "h": 550,
+      "alt": ""
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/Slazer-Series-GIF-Banner1.gif?v=1780381499",
+      "w": 1316,
+      "h": 550,
+      "alt": ""
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/MOBILE_65fcf04f-2ee8-410a-939d-022964cd07f4.png?v=1778477258",
+      "w": 1280,
+      "h": 535,
+      "alt": ""
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/Mobile_copy_4963babe-7176-4419-8876-5223d309eea3.png?v=1783620917",
+      "w": 1280,
+      "h": 535,
+      "alt": ""
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/StormCall4_Mobile-2.png?v=1783406019",
+      "w": 1280,
+      "h": 535,
+      "alt": ""
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/mobile_size.png?v=1766404077",
+      "w": 1280,
+      "h": 535,
+      "alt": ""
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/Artboard_2_73cbced1-4996-44ec-b4ee-7ddf99c9623b.png?v=1766040625",
+      "w": 1280,
+      "h": 535,
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/arrow_homepage.svg?v=1685355827",
+      "w": 58,
+      "h": 58,
+      "alt": "arrow"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/Property_1_Variant4_190441b4-cb21-44f1-9056-93e37c496a68_2400x.png?v=1737718002",
+      "w": 0,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/Group_1707479128_3000x.png?v=1737718244",
+      "w": 1280,
+      "h": 21,
+      "alt": ""
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/jshf_2-01-final-01_small.svg?v=1744365804",
+      "w": 150,
+      "h": 150,
+      "alt": ""
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/Group_334302_small.svg?v=1682336123",
+      "w": 72,
+      "h": 72,
+      "alt": ""
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/Group_334303_small.svg?v=1682336123",
+      "w": 72,
+      "h": 72,
+      "alt": ""
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/Group_334304_small.svg?v=1682336123",
+      "w": 72,
+      "h": 72,
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/star-5_20X20.png?v=1722331088",
+      "w": 20,
+      "h": 20,
+      "alt": "star"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Mask_group-10.png?v=1677571152",
+      "w": 60,
+      "h": 60,
+      "alt": "verified reviews"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/offer_4000e398-1550-49a4-8cf7-00ae10d6b50d.png?v=1726470069",
+      "w": 160,
+      "h": 160,
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/AD_181_pro_1.png?v=1745234576&width=200",
+      "w": 150,
+      "h": 150,
+      "alt": " Airdopes 181 Pro "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Wave_Fury.webp?v=1702287204&width=200",
+      "w": 150,
+      "h": 186,
+      "alt": " Wave Fury "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Rockerz_110.jpg?v=1698387127&width=200",
+      "w": 150,
+      "h": 186,
+      "alt": " Rockerz 110 "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/personalisation_ca8237cd-20ca-4da7-8ad2-7d8a50320b3c.png?v=1724308287",
+      "w": 100,
+      "h": 100,
+      "alt": "Personalization"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/ion_anc_1.png?v=1740725927&width=200",
+      "w": 150,
+      "h": 150,
+      "alt": " Nirvana Ion ANC "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/PB400_628ae039-11be-4f0b-b723-651e2bb05de7.jpg?v=1700300890&width=200",
+      "w": 150,
+      "h": 186,
+      "alt": " Energyshroom PB400 "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Stone_180.jpg?v=1702014281&width=200",
+      "w": 150,
+      "h": 186,
+      "alt": " Stone 180 "
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/mobile_Artboard_1_33669c67-99bd-41cf-b4a4-889b1bb5d6e6_600x.png?v=1761645643",
+      "w": 1280,
+      "h": 129,
+      "alt": "flash_timer"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/AD_161.png?v=1745235467&width=200",
+      "w": 150,
+      "h": 150,
+      "alt": " Airdopes 161 "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Storm_Call_3.jpg?v=1712640243&width=200",
+      "w": 150,
+      "h": 186,
+      "alt": " Storm Call 3 "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Nirvana_Ion.jpg?v=1697621745&width=200",
+      "w": 150,
+      "h": 186,
+      "alt": " Nirvana Ion "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/412.png?v=1752740230&width=200",
+      "w": 150,
+      "h": 150,
+      "alt": " Rockerz 412 "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/AB_480.jpg?v=1698304318&width=200",
+      "w": 150,
+      "h": 186,
+      "alt": " Aavante Bar 480 "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/300_bLACK-min.png?v=1725983268&width=200",
+      "w": 150,
+      "h": 126,
+      "alt": " EnergyShroom PB300 Pro "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/zenith_pro_LR.png?v=1751544158&width=200",
+      "w": 200,
+      "h": 0,
+      "alt": " Nirvana Zenith Pro "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/PRO_CLIP_lifestyle-2.png?v=1781847458&width=200",
+      "w": 150,
+      "h": 150,
+      "alt": " Airdopes ProClip "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/AD_Supreme_1.jpg?v=1711262453&width=200",
+      "w": 200,
+      "h": 0,
+      "alt": " Airdopes Supreme "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/AD_311_Pro.jpg?v=1716880848&width=200",
+      "w": 200,
+      "h": 0,
+      "alt": " Airdopes 311 PRO "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/CHROME_IVORY_Lifestyle.png?v=1772019474&width=200",
+      "w": 200,
+      "h": 0,
+      "alt": " Chrome Ivory "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/gem.png?v=1736855558&width=200",
+      "w": 200,
+      "h": 0,
+      "alt": " Enigma Gem "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Chrome_Iris_Lifestyle.png?v=1770270025&width=200",
+      "w": 200,
+      "h": 0,
+      "alt": " Chrome Iris "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/combined.jpg?v=1734959185&width=200",
+      "w": 200,
+      "h": 0,
+      "alt": " Enigma Daze "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Lunar_Vista.webp?v=1702287205&width=200",
+      "w": 200,
+      "h": 0,
+      "alt": " Lunar Vista "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Lifestyle_render_154400cd-4bd3-4dd8-9c4a-e56f27910199.jpg?v=1729580370&width=200",
+      "w": 200,
+      "h": 0,
+      "alt": " Lunar Discovery "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Stone_Arc__1.png?v=1754993441&width=200",
+      "w": 200,
+      "h": 0,
+      "alt": " Stone Arc "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/FIs_aavante_joy__1.png?v=1756207675&width=200",
+      "w": 200,
+      "h": 0,
+      "alt": " Aavante Bar Joy "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Stone_350_pro_1.png?v=1742303499&width=200",
+      "w": 200,
+      "h": 0,
+      "alt": " Stone 350 Pro "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Stone_Spinx_Pro.jpg?v=1709718328&width=200",
+      "w": 200,
+      "h": 0,
+      "alt": " Stone Spinx Pro "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Stone_Arc_pro__1.png?v=1754993440&width=200",
+      "w": 200,
+      "h": 0,
+      "alt": " Stone Arc Pro "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/413_lifestyle.png?v=1752737623&width=200",
+      "w": 200,
+      "h": 0,
+      "alt": " Rockerz 413 "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/LR_480.png?v=1733741345&width=200",
+      "w": 200,
+      "h": 0,
+      "alt": " Rockerz 480 "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/LR_fe121478-cff1-4470-bd51-447de036dd1e.png?v=1755498271&width=200",
+      "w": 200,
+      "h": 0,
+      "alt": " Rockerz 512 ANC "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Rockerz_650_pp_renders_main_banner.124.png?v=1740735495&width=200",
+      "w": 200,
+      "h": 0,
+      "alt": " Rockerz 650 Pro "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/R430-LR.jpg?v=1730279165&width=200",
+      "w": 200,
+      "h": 0,
+      "alt": " Rockerz 430 "
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/True-wireless-earbuds_small.png?v=1684842854",
+      "w": 100,
+      "h": 100,
+      "alt": "True Wireless Earbuds"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/Neckbands_bc6343f4-622f-4ebd-bb36-205643c3bf78_small.png?v=1684842854",
+      "w": 100,
+      "h": 100,
+      "alt": "Neckbands"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/Smartwatches_88f12bcf-24bd-4e3a-aacb-ecc204f62179_small.png?v=1684842853",
+      "w": 100,
+      "h": 100,
+      "alt": "Smart Watches"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/nirvana_52689447-c1bb-4bb8-8fa0-0496e3715fc0_small.png?v=1727229889",
+      "w": 100,
+      "h": 100,
+      "alt": "Nirvana"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/Wireless-Headphones_small.png?v=1684842854",
+      "w": 100,
+      "h": 100,
+      "alt": "Wireless Headphones"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/Wireless-Speaker_small.png?v=1684842854",
+      "w": 100,
+      "h": 100,
+      "alt": "Wireless Speakers"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/100x100_small.png?v=1769063407",
+      "w": 100,
+      "h": 100,
+      "alt": "Dashcams"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/Projector_e1_category_small.png?v=1776665705",
+      "w": 100,
+      "h": 93,
+      "alt": "Projectors"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/Soundbars_d9a7bdfd-e780-4581-ab85-f2e86f84cd28_small.png?v=1684842854",
+      "w": 100,
+      "h": 100,
+      "alt": "Soundbars"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/K100_category_small.png?v=1779430781",
+      "w": 99,
+      "h": 100,
+      "alt": "Trimmers"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Layer_1_1.png?v=1783418631&width=200",
+      "w": 150,
+      "h": 150,
+      "alt": " Airdopes Plus 214 "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/LI_3bf4895f-925d-471c-a5b7-740bdb514541.png?v=1783274390&width=200",
+      "w": 150,
+      "h": 150,
+      "alt": " Airdopes Plus 222 "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/440_plus_lifesty_e_1.png?v=1783072898&width=200",
+      "w": 150,
+      "h": 150,
+      "alt": " Rockerz Plus 440 "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/lifestyle_stride.png?v=1783084217&width=200",
+      "w": 150,
+      "h": 150,
+      "alt": " Airdopes Stride "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Stone_900_lifestyle.png?v=1782807696&width=200",
+      "w": 150,
+      "h": 150,
+      "alt": " Stone 900 "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/141_ls.jpg?v=1741083860&width=200",
+      "w": 150,
+      "h": 150,
+      "alt": " Airdopes 141 "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Airdopes-163.jpg?v=1682408982&width=200",
+      "w": 150,
+      "h": 186,
+      "alt": " Airdopes 163 "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/131_f04f74fd-45d4-4614-85cf-6ccf69c4cf90.jpg?v=1691395049&width=200",
+      "w": 150,
+      "h": 186,
+      "alt": " Airdopes 131 "
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/jemmi_d1dd51d5-8b8b-47ad-9920-f8594669cbb2_429X322.png?v=1726059408",
+      "w": 216,
+      "h": 322,
+      "alt": "For Fitness"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/Runnn-Bir__1_429X322.png?v=1782799138",
+      "w": 216,
+      "h": 322,
+      "alt": "For Parties"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/Aman_429X322.png?v=1726038424",
+      "w": 216,
+      "h": 322,
+      "alt": "For Work"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/YJ_429X322.png?v=1726059363",
+      "w": 216,
+      "h": 322,
+      "alt": "For Audiophiles"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/r255pro_55d805bc-f2e1-4861-9533-8eee57081305.jpg?v=1682573437&width=200",
+      "w": 150,
+      "h": 186,
+      "alt": " Rockerz 255 Pro+ "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/AD_Alpha_new_colors.png?v=1747634146&width=200",
+      "w": 150,
+      "h": 150,
+      "alt": " Airdopes Alpha "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Aavante_Prime_7.1.4_7050DA.png?v=1757914102&width=200",
+      "w": 200,
+      "h": 0,
+      "alt": " Aavante Prime 7.1.4 7050DA "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/lifestyle_bae842d7-5bf0-4e99-9614-88786d751c72.png?v=1753361523&width=200",
+      "w": 200,
+      "h": 0,
+      "alt": " Aavante Prime 5.2.4 6250DA "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/AB_Prime_5000.jpg?v=1749535940&width=200",
+      "w": 200,
+      "h": 0,
+      "alt": " Aavante Prime 5.1 5000DA "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/LR_1627f24c-e84d-4d64-98f7-5b4d59726b15.png?v=1752211050&width=200",
+      "w": 200,
+      "h": 0,
+      "alt": " Aavante Prime 5.1.2 5050DA "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Avante_2450.png?v=1756878458&width=200",
+      "w": 200,
+      "h": 0,
+      "alt": " Aavante 2.1 2450 "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/AB_Orion_Plus.jpg?v=1714468423&width=200",
+      "w": 200,
+      "h": 0,
+      "alt": " Aavante Bar 2400 Pro "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/AD_91.jpg?v=1706776330&width=200",
+      "w": 200,
+      "h": 0,
+      "alt": " Airdopes 91 "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Airdopes_138_Pro.jpg?v=1702618467&width=200",
+      "w": 200,
+      "h": 0,
+      "alt": " Airdopes 138 PRO "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Lunar_Discovery_lifestyle.png?v=1764238352&width=200",
+      "w": 200,
+      "h": 0,
+      "alt": " Lunar Discovery Neo "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Wave_call_2_plus__1.png?v=1759155974&width=200",
+      "w": 200,
+      "h": 0,
+      "alt": " Wave Call 2 Plus "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Lunar_Atlas.png?v=1770117760&width=200",
+      "w": 200,
+      "h": 0,
+      "alt": " Lunar Atlas "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/wave_sigma_3_co.png?v=1741770848&width=200",
+      "w": 200,
+      "h": 0,
+      "alt": " Wave Sigma 3 "
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Stormcall_1.webp?v=1709108774&width=200",
+      "w": 200,
+      "h": 0,
+      "alt": " Storm Call "
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/products/car-charger-main-image_1e0addf3-ca17-46c3-94ac-c7b60b752dea_300x.png?v=1663154266",
+      "w": 0,
+      "h": 0,
+      "alt": "Dual Port Rapid Car Charger Online"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/products/11_300x.png?v=1662706696",
+      "w": 0,
+      "h": 0,
+      "alt": "boAt Dual Port Rapid Car Charger 3.0 (Qualcomm Certified)"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/products/6875f924-20d3-4cb6-933d-5319504c7baa_36bb7013-05b6-4357-8048-f0e307a2a282_300x.png?v=1662706404",
+      "w": 0,
+      "h": 0,
+      "alt": "3 A Qualcomm 3.0 Turbo - Car Charger"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/products/main_29e36d5a-17aa-4793-a817-3aa56fd1bfdf_300x.png?v=1633002682",
+      "w": 0,
+      "h": 0,
+      "alt": "boAt Dual Port Rapid Car Charger Qualcomm Certified with Micro Cable"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/products/qc-pd_main_TC_300x.png?v=1627302470",
+      "w": 0,
+      "h": 0,
+      "alt": "Dual QC-PD Port rapid car charger - Buy car charger online"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/products/qc-pd_main_pd_300x.png?v=1627302177",
+      "w": 0,
+      "h": 0,
+      "alt": "Dual QC-PD Port rapid car charger - Buy car charger online"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/articles/Gaming_Earbuds_for_Travel-_Compact_and_Portable_Gaming_Solutions_1000x.png?v=1780385704",
+      "w": 425,
+      "h": 212,
+      "alt": "Gaming earbuds for travel"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/articles/BLOG4_fb485ac3-5b1f-4970-879d-cf283051cb1f_1000x.png?v=1780386254",
+      "w": 425,
+      "h": 212,
+      "alt": "How To Create Watch Faces Using The Watch Face Studio"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/articles/ANC_for_Work-_How_Noise-Canceling_Headphones_Can_Boost_Productivity_1000x.png?v=1709883646",
+      "w": 425,
+      "h": 212,
+      "alt": "ANC for Work: How Noise-Cancelling Headphones Can Boost Productivity"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/articles/Which_is_Best_Soundbars_For_TV_Under_10_000_in_India_2000x.png?v=1783341392",
+      "w": 425,
+      "h": 212,
+      "alt": "Which is Best Soundbars For TV Under \u20b910,000 in India"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/articles/blog_banner1_2000x.png?v=1780393571",
+      "w": 0,
+      "h": 0,
+      "alt": "Social Welfare Initiatives 2022 - A Look Back"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shopifycloud/storefront/assets/no-image-2048-a2addb12_2000x.gif",
+      "w": 0,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/articles/News_6ae7edf2-9193-4eb0-b7cf-bd358e6cc69e_1000x.png?v=1781085923",
+      "w": 0,
+      "h": 0,
+      "alt": "boAt Raises INR 500 Crore from Warburg & Malabar with IPO on Horizon"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/Business_World_231x.png?v=1705038093",
+      "w": 231,
+      "h": 77,
+      "alt": ""
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/Fashion_Network_231x.png?v=1705038134",
+      "w": 231,
+      "h": 77,
+      "alt": ""
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/Business_Standard_231x.png?v=1705038171",
+      "w": 231,
+      "h": 77,
+      "alt": ""
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/Hindustan_Times_1737c601-8f79-48c9-bca8-a1e0243acb3f_231x.png?v=1705038206",
+      "w": 231,
+      "h": 77,
+      "alt": ""
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/files/TOI_1_231x.png?v=1705555311",
+      "w": 231,
+      "h": 77,
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/boAt_logo_black_830768d4-b3b0-4bef-8d5c-494df9bd6cbc.svg?v=1732875809",
+      "w": 300,
+      "h": 123,
+      "alt": "logo"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/whtsapp.png?v=1709276301",
+      "w": 100,
+      "h": 100,
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Chat-Icon.jpg?v=1690367119",
+      "w": 93,
+      "h": 93,
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/rewards_0ac7af29-333c-465c-ae6a-5c88206a8638.png?v=1699258012",
+      "w": 100,
+      "h": 100,
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/personalisation-icon.png?v=1699258011",
+      "w": 100,
+      "h": 100,
+      "alt": ""
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/collections/Projector_e1_category_720x.png?v=1776666530",
+      "w": 0,
+      "h": 0,
+      "alt": "Best Projector for Home: Cinehead Projectors"
+    },
+    {
+      "src": "https://www.boat-lifestyle.com/cdn/shop/collections/K100_category_720x.png?v=1779430789",
+      "w": 0,
+      "h": 0,
+      "alt": "Slazer Trimmers"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/next.svg?v=1686829773",
+      "w": 83,
+      "h": 150,
+      "alt": "redirect arrow"
+    },
+    {
+      "src": "https://aax-eu.amazon-adsystem.com/s/iui3?d=forester-did&ex-fargs=%3Fid%3De372194b-1dc3-a11f-a6f3-e32dfe05654b%26type%3D55%26m%3D44571&ex-fch=416613&ex-src=https://www.boat-lifestyle.com/&ex-hargs=v%3D1.0%3Bc%3D4116814520102%3Bp%3DE372194B-1DC3-A11F-A6F3-E32DFE05654B",
+      "w": 1,
+      "h": 1,
+      "alt": ""
+    },
+    {
+      "src": "https://pdp.gokwik.co/assets/icons/gokwik_gif.gif",
+      "w": 70,
+      "h": 70,
+      "alt": "gokwik_loading_gif"
+    },
+    {
+      "src": "https://t.co/1/i/adsct?bci=4&dv=Asia%2FCalcutta%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26900%2612%2624%261280%26900%260%26na&eci=3&event=%7B%7D&event_id=095da874-f66f-42ee-a8af-674436bf616e&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=c78239d0-d95d-4291-9c34-69926c810b11&pt=Buy%20Earbuds%2C%20Headphones%2C%20Earphones%20at%20India%E2%80%99s%20No.1%20Earwear%20Brand%3A%20boAt&tw_document_href=https%3A%2F%2Fwww.boat-lifestyle.com%2F&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1783677449936.666005250519464949&txn_id=o4sxj&type=javascript&version=2.3.53",
+      "w": 1,
+      "h": 1,
+      "alt": ""
+    },
+    {
+      "src": "https://analytics.twitter.com/1/i/adsct?bci=4&dv=Asia%2FCalcutta%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26900%2612%2624%261280%26900%260%26na&eci=3&event=%7B%7D&event_id=095da874-f66f-42ee-a8af-674436bf616e&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=c78239d0-d95d-4291-9c34-69926c810b11&pt=Buy%20Earbuds%2C%20Headphones%2C%20Earphones%20at%20India%E2%80%99s%20No.1%20Earwear%20Brand%3A%20boAt&tw_document_href=https%3A%2F%2Fwww.boat-lifestyle.com%2F&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1783677449936.666005250519464949&txn_id=o4sxj&type=javascript&version=2.3.53",
+      "w": 1,
+      "h": 1,
+      "alt": ""
+    },
+    {
+      "src": "https://influencex-profile-pictures.nyc3.digitaloceanspaces.com/campaign/widget/1521_prod/252/widget_custom_icon.png",
+      "w": 90,
+      "h": 94,
+      "alt": "percent_icon"
+    }
+  ],
+  "bgImgs": [],
+  "fonts": [
+    {
+      "family": "Metropolis",
+      "weight": "100"
+    },
+    {
+      "family": "Montserrat",
+      "weight": "700"
+    },
+    {
+      "family": "JudgemeStar",
+      "weight": "normal"
+    },
+    {
+      "family": "Inter",
+      "weight": "100"
+    }
+  ],
+  "ogSiteName": "boAt Lifestyle",
+  "social": {
+    "facebook": "https://www.facebook.com/boat.lifestyle",
+    "twitter": "https://twitter.com/RockWithboAt",
+    "instagram": "https://www.instagram.com/boat.nirvana/",
+    "youtube": "https://www.youtube.com/channel/UCY3JXaO_v8H3E6hTYUp5qWQ"
+  },
+  "bodyBg": "rgba(0, 0, 0, 0)",
+  "bodyColor": "rgb(33, 37, 41)",
+  "bodyFont": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\""
+}

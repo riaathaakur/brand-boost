@@ -1,0 +1,1602 @@
+{
+  "headerBg": "rgb(255, 255, 255)",
+  "logoSrc": "https://aqualogica.in/cdn/shop/files/Aqualogica_app_icon_f7d8789f-1903-4b0c-8648-9bd5086be8a0_small.png?v=1745225271",
+  "logoAlt": "DRS app Logo",
+  "logoSvg": "",
+  "logoLum": 131.76298144530992,
+  "logoOpaque": 1,
+  "accentCandidates": [
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgba(0, 102, 204, 0.4)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(0, 102, 204)",
+    "rgb(13, 92, 92)"
+  ],
+  "ctaBg": "rgb(0, 102, 204)",
+  "ctaColor": "rgb(255, 255, 255)",
+  "ctaRadius": "10px",
+  "images": [
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/Aqualogica_LOGO.svg?v=1748586857&width=220",
+      "w": 127,
+      "h": 23,
+      "alt": "Aqualogica"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/Aqualogica_app_icon_f7d8789f-1903-4b0c-8648-9bd5086be8a0_small.png?v=1745225271",
+      "w": 100,
+      "h": 100,
+      "alt": "DRS app Logo"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/Glow_Dewy_Sunscreen_80g.png?v=1773222234&width=200",
+      "w": 1024,
+      "h": 1024,
+      "alt": ""
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/Cherry-Blossom.jpg?v=1750232786&width=200",
+      "w": 1024,
+      "h": 1024,
+      "alt": ""
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/Illuminate_-Hydragels.jpg?v=1750239290&width=200",
+      "w": 1024,
+      "h": 1024,
+      "alt": ""
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/Detan__Smoothie_Face_wash_100ml_71d9ce5c-5fb6-445c-b251-b14caeec061f.jpg?v=1750239386&width=200",
+      "w": 1024,
+      "h": 1024,
+      "alt": ""
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/glow_-concentrate-face-serum.jpg?v=1750239470&width=200",
+      "w": 1024,
+      "h": 1024,
+      "alt": ""
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/Radiance-Hydrate-Mist.jpg?v=1750232657&width=200",
+      "w": 1024,
+      "h": 1024,
+      "alt": ""
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/Crimson-Candy-Plump_-Luscious-Tinted-Lip-Balm.jpg?v=1750239610&width=200",
+      "w": 1024,
+      "h": 1024,
+      "alt": ""
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/Radiance_-Dew-Drops.jpg?v=1750239658&width=200",
+      "w": 1024,
+      "h": 1024,
+      "alt": ""
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/Desktop_bc948c12-9ee5-43b9-8a84-10fb038e229a.jpg?v=1781866144&width=1600",
+      "w": 1280,
+      "h": 400,
+      "alt": "Dr. Sheths"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/Desktop.gif?v=1776083176&width=1600",
+      "w": 1280,
+      "h": 400,
+      "alt": "Dr. Sheths"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/web_cta_bodymist-mar26.jpg?v=1774858179&width=1600",
+      "w": 1280,
+      "h": 400,
+      "alt": "Dr. Sheths"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/webcta_moisturizer-26.jpg?v=1774863773&width=1600",
+      "w": 1280,
+      "h": 400,
+      "alt": "Dr. Sheths"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/Desktop-NL-Refresh-CTA.jpg?v=1773726482&width=1600",
+      "w": 1280,
+      "h": 400,
+      "alt": "Dr. Sheths"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/FOP_white_BG_d069cefd-eaf1-42ec-87ab-59624769f196.jpg?v=1775110529&width=1450",
+      "w": 236,
+      "h": 236,
+      "alt": "Aqualogica glow dewy gel sunscreen SPF 50 80g"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/2_1_e4d7b9c8-7953-4f83-8f20-12c8a319cef1.jpg?v=1775110529&width=1450",
+      "w": 236,
+      "h": 236,
+      "alt": "Glow sunscreen comparison with old and new packaging "
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1_4336a9c9-8682-44a6-9eb4-e6d0a479f898.jpg?v=1776410522&width=1450",
+      "w": 236,
+      "h": 236,
+      "alt": "Refresh+ Perfume Body Mist - Salted Caramel Crush 150ml"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1.2FOPwithBand.jpg?v=1776410522&width=1450",
+      "w": 236,
+      "h": 236,
+      "alt": "Refresh+ Perfume Body Mist - Salted Caramel Crush 150ml"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/FOPwhiteBG_6b2fdef9-dd59-44b6-9695-2cc87e2e139b.jpg?v=1777971908&width=1450",
+      "w": 236,
+      "h": 236,
+      "alt": "Detan+ Dewy Gel Sunscreen SPF 50+ PA++++ with 2% Kojic-Hyaluron Complex\u2122 & Wild Berries - 80g"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1_33627636-a283-4ca5-8269-f8bd73c7a5f4.jpg?v=1777971908&width=1450",
+      "w": 236,
+      "h": 236,
+      "alt": "Detan+ Dewy Gel Sunscreen SPF 50+ PA++++ with 2% Kojic-Hyaluron Complex\u2122 & Wild Berries - 80g"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1_08950377-b098-4f2f-98c8-ed5483e6e72b.jpg?v=1753856922&width=1450",
+      "w": 236,
+      "h": 236,
+      "alt": "Aqualogica sun kissed vanilla body mist 150ml"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/White_Bg-1.jpg?v=1753856967&width=1450",
+      "w": 236,
+      "h": 236,
+      "alt": "Vanilla perfume body mist 150ml tube "
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/FOP_782d54d7-d981-4607-92f6-7bca0dd37e75.jpg?v=1775137627&width=1450",
+      "w": 236,
+      "h": 234,
+      "alt": "Aqualogica radiance dewy sunscreen SPF 50 80g watermelon"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1_fbfb17b4-7b42-44fa-b66b-08e1f632125a.jpg?v=1775137627&width=1450",
+      "w": 236,
+      "h": 236,
+      "alt": "Radiance+ Dewy Sunscreen In-Vivo Tested with Watermelon & Niacinamide with SPF 50 & PA++++ - 80g"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/Photoshoot_3ae2ac18-172f-4966-a6aa-64ba8ef37688.jpg?v=1745391094&width=1066",
+      "w": 236,
+      "h": 236,
+      "alt": "Aqualogica Midnight Bloom body mist "
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/WhiteBG-1_303a098f-2787-4381-97e1-954da559a9d2.jpg?v=1745391094&width=1066",
+      "w": 236,
+      "h": 236,
+      "alt": "Refresh+ Mid Night Bloom Perfume Body Mist long lasting fragrance"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1b_f8cb6cae-382a-4793-94f1-5f627f0dd73f.jpg?v=1719466573&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "Aqualogica Glow+ Hydra Gel moisturizer with jar and box "
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/Ecom_1.png?v=1739731583&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "Aqualogica moisturizer 200g  bright orange jar packaging"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/FOPwhiteBG_1989be6a-8b26-4f06-9327-892c8f2106b6.jpg?v=1775110529&width=1450",
+      "w": 236,
+      "h": 236,
+      "alt": "Aqualogica glow dewy sunscreen SPF 50 papaya vitamin C"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/2_3a61f316-a8b3-4555-ba79-21f3e98f6a10.jpg?v=1775110529&width=1450",
+      "w": 236,
+      "h": 236,
+      "alt": "Glow dewy sunscreen range just got smarter"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/FOPwhiteBG_322097cb-2f98-4592-94ad-a80eb6d80e08.jpg?v=1775134963&width=1450",
+      "w": 236,
+      "h": 236,
+      "alt": "Aqualogica radiance dewy sunscreen SPF 50 watermelon 50g"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1_b16c3b50-1239-4e55-8c34-62385b459764.jpg?v=1775134963&width=1450",
+      "w": 236,
+      "h": 236,
+      "alt": "Radiance dewy sunscreen range just got smarter"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1_e1556ac3-eba3-42e7-a71d-6105eac3dd26.jpg?v=1755510780&width=1450",
+      "w": 236,
+      "h": 236,
+      "alt": "Aqualogica Dewy Floral Kiss perfume body mist with lily petals and dewy glow\n"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1a_46637a6f-dadb-4f6b-abf5-1bbee44813ff.jpg?v=1755510780&width=1450",
+      "w": 236,
+      "h": 236,
+      "alt": "\nMinimal pink bottle of Refresh+ Dewy Floral Kiss body mist \n"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/Mistmenot.jpg?v=1753880617&width=1450",
+      "w": 236,
+      "h": 236,
+      "alt": "Aqualogica perfume body mist set with three colorful variants "
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/COLOUREDBG_b538be50-fd6d-4179-8f96-b29b068741e4.jpg?v=1753880617&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "Aqualogica mini body mist trio in travel-friendly bottles"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/FOPwhiteBG_15f8429d-a1f5-4c44-80bf-e3db7fccb267.jpg?v=1777988086&width=1450",
+      "w": 236,
+      "h": 236,
+      "alt": "Illuminate+ Dewy Sunscreen In-Vivo Tested SPF 50+ PA++++ with Wild Berries & Alpha Arbutin - 80 g"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1_e25ac1d7-8b9c-4f3a-92d1-fb9902745e99.jpg?v=1777988086&width=1450",
+      "w": 236,
+      "h": 236,
+      "alt": "Illuminate+ Dewy Sunscreen In-Vivo Tested SPF 50+ PA++++ with Wild Berries & Alpha Arbutin - 80 g"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0670/3287/5233/files/873a62341cff529046719495d09f932784a6a1ab.gif?v=1760344770",
+      "w": 92,
+      "h": 92,
+      "alt": ""
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/FOP_2_06058fd0-626a-4f6d-8c6f-610e21d0af2a.jpg?v=1773217217&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "Glow+ Dewy Gel Sunscreen In-Vivo Tested SPF 50+ PA++++ with Papaya & Vitamin C - 80g (Pack of 2)"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/2_9c0ea069-3e4c-4ae2-9250-436bc9ac25e6.jpg?v=1773217217&width=1450",
+      "w": 236,
+      "h": 236,
+      "alt": "Glow+ Dewy Gel Sunscreen In-Vivo Tested SPF 50+ PA++++ with Papaya & Vitamin C - 80g (Pack of 2)"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/FOP_16.jpg?v=1752474089&width=1066",
+      "w": 236,
+      "h": 236,
+      "alt": "Detan+ Dewy Sunscreen In-Vivo Tested SPF 50+ PA++++ with Cherry Tomato & HA - 80 g (Pack of 2)"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1.2_FOP_fa405b11-3b8b-480e-b602-1ae42021658d.jpg?v=1761205784&width=1450",
+      "w": 236,
+      "h": 236,
+      "alt": "Aqualogica sunscreen tube with SPF 50+"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/FOP_35.jpg?v=1760013244&width=1066",
+      "w": 1066,
+      "h": 0,
+      "alt": "Radiance+ Dewy Sunscreen In-Vivo Tested with Watermelon & Niacinamide with SPF 50 & PA++++ - 80g (Pack of 2)"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/8_535eed88-33f9-4cb2-bda3-82c9835f915a.jpg?v=1760013244&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Radiance+ Dewy Sunscreen In-Vivo Tested with Watermelon & Niacinamide with SPF 50 & PA++++ - 80g (Pack of 2)"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1_Shoot_01738c13-6fe2-4c97-8179-decb44b838b5.jpg?v=1743577996&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Illuminate+ Dewy Sunscreen In-Vivo Tested SPF 50+ PA++++ with Wild Berries & Alpha Arbutin - 80 g(Pack of 2)"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/FOP_1.1_b9f8e0c5-212c-43fd-aea3-8b0d95202e88.jpg?v=1761205208&width=1450",
+      "w": 1450,
+      "h": 0,
+      "alt": "Illuminate+ Dewy Sunscreen In-Vivo Tested SPF 50+ PA++++ with Wild Berries & Alpha Arbutin - 80 g(Pack of 2)"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/FOP_4_012f1461-6835-4fa2-a793-fc3049347122.jpg?v=1773221299&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "Glow+ Dewy Gel Sunscreen In-Vivo Tested SPF 50+ PA++++ with Papaya & Vitamin C - 50g (Pack of 2)"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/2_a207e1c6-a49b-46e0-ad77-d99acd3da35b.jpg?v=1773221299&width=1450",
+      "w": 236,
+      "h": 236,
+      "alt": "Glow+ Dewy Gel Sunscreen In-Vivo Tested SPF 50+ PA++++ with Papaya & Vitamin C - 50g (Pack of 2)"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/FOP_34.jpg?v=1759999706&width=1066",
+      "w": 236,
+      "h": 236,
+      "alt": "Radiance+ Dewy Sunscreen In-Vivo Tested with Watermelon & Niacinamide with SPF 50 & PA++++ - 50g(Pack of 2)"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/8_c2640c6d-6788-4df0-93e3-e915d070478c.jpg?v=1759999706&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "Radiance+ Dewy Sunscreen In-Vivo Tested with Watermelon & Niacinamide with SPF 50 & PA++++ - 50g(Pack of 2)"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/FOP_15.jpg?v=1752472421&width=1066",
+      "w": 1066,
+      "h": 0,
+      "alt": "Detan+ Dewy Gel Sunscreen SPF 50+ PA++++ with 2% Kojic-Hyaluron Complex\u2122 & Wild Berries - 50 g(Pack of 2)"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1_FOP.jpg?v=1761205517&width=1450",
+      "w": 1450,
+      "h": 0,
+      "alt": "Detan sunscreen 80% pollution protection tan free skin"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1_Shoot.jpg?v=1741082748&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Illuminate+ Dewy Sunscreen In-Vivo Tested SPF 50+ PA++++ with Wild Berries & Alpha Arbutin - 50 g(Pack of 2)"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/FOP_1.1.jpg?v=1761204851&width=1450",
+      "w": 1450,
+      "h": 0,
+      "alt": "Illuminate+ Dewy Sunscreen In-Vivo Tested SPF 50+ PA++++ with Wild Berries & Alpha Arbutin - 50 g(Pack of 2)"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/Refresh_-Perfume-Body-Mist-Trio.jpg?v=1730698524&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Aqualogica body mist trio with three colorful perfume variants\n"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/61-B8rCOwcL._SL1200.jpg?v=1728461684&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "\nAqualogica perfume body mist set with scent-sational fragrance range\n"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1_c655251b-0d04-4686-aeec-6d5b88fb1dcc.jpg?v=1770199694&width=1450",
+      "w": 236,
+      "h": 236,
+      "alt": "Glow+ Born to Glow - Gift Set with Sling bag & charms"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/2_e9cb09c3-7b78-4f49-ad1d-e3351535c91e.jpg?v=1770199694&width=1450",
+      "w": 236,
+      "h": 236,
+      "alt": "Glow+ Born to Glow - Gift Set with Sling bag & charms"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1_b48ac65d-d135-4746-969f-1753a74b952f.jpg?v=1770199753&width=1450",
+      "w": 236,
+      "h": 236,
+      "alt": "Refresh+ Cherry Blossom Bloom - Hot girl essentials Gift set with Sling bag & charms"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/2_f26da98a-b2d6-47f9-ba68-0faeb56ab6f1.jpg?v=1770199753&width=1450",
+      "w": 236,
+      "h": 236,
+      "alt": "Refresh+ Cherry Blossom Bloom - Hot girl essentials Gift set with Sling bag & charms"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/Photoshoot_010e68b1-06ee-430e-977b-9b5a0594d7db.jpg?v=1745391622&width=1066",
+      "w": 1066,
+      "h": 0,
+      "alt": "Aqualogica cherry blossom body mist with soft floral scent"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/White_BG_3e656e51-2b76-428c-b49c-09a3a20a3558.jpg?v=1745391622&width=1066",
+      "w": 1066,
+      "h": 0,
+      "alt": "Cherry Blossom Bloom Aqualogica mist bottle "
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/2_746b6cc2-61a9-4b14-ac8c-955e49e9f09d.jpg?v=1719309708&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Aqualogica Sweet Summer Kiss body mist with juicy berries and citrus\n"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/mono_c0665daf-d2dd-48bc-bbdb-37a56040ae21.jpg?v=1755510385&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "\nRefresh+ Sweet Summer Kiss body mist bottle and packaging\n"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/shoot_a938da08-e236-4451-94c3-cf8652f0cf2e.jpg?v=1726640760&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "Aqualogica Ocean Breeze body mist with fresh aquatic fragrance\n"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/WhiteBG_96cb46a9-2333-4c99-b101-c6c12faec05b.jpg?v=1726640760&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "\nAqualogica Ocean Breeze perfume blue bottle \n"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/COLOUREDBG_54781015-ca39-4824-b2c1-0ad6763e5493.jpg?v=1722506115&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "Aqualogica mini body mist set with three fragrance variants\n"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/WhiteBg_dd76002b-f915-49a1-8055-85246e5fd502.jpg?v=1739731285&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "\nCompact perfume trio with travel-friendly spray bottles\n"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1_750c25f5-0610-41b9-be07-b8bb76cc3dd5.jpg?v=1719554320&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "Aqualogica Barrier+ Hydra Gel moisturizer jar with avocado"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1_a_1_c62c3c40-647b-4cb0-87dd-7b953c413a24.jpg?v=1719554319&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "Barrier+ hydra gel moisturizer with 5 ceramides "
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1_d98c6493-f486-4055-9b9f-febd0c391c06.jpg?v=1748501209&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "Bright Hydra Gel moisturizer jar with blueberry "
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1a_3b630d4f-7397-4f30-9534-1c386626de02.jpg?v=1748501209&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "Aqualogica Bright Hydra Gel moisturizer 200g jar pack "
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/7_9fe53e0d-c9a7-40bb-a383-31e0613ea814.jpg?v=1720416818&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "Aqualogica oil free moisturizer tube with papaya and vitamin C"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/GLOW_OFM_73f41926-ddae-4fb2-836c-5a93b9705c25.jpg?v=1720416818&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "Aqualogica Glow+ face moisturizer packaging"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/products/46a72227-5da8-4ae6-86a8-5d82d045555__20_a.jpg?v=1701345884&width=1450",
+      "w": 236,
+      "h": 236,
+      "alt": "Aqualogica Glow+ Jell-O moisturizer with bright yellow gel texture"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/products/jello-gel-moisturizer-02.jpg?v=1701345884&width=720",
+      "w": 236,
+      "h": 236,
+      "alt": "Glow jello moisturizer lightweight hydration"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/shoot_36865947-ed18-4078-a052-39278e84825c.jpg?v=1723098766&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "Watermelon Aqualogica moisturizer tube"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/Radiance_OFM.jpg?v=1723098766&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "Radiance+ Oil Free Moisturizer with Watermelon & Niacinamide for Radiant Skin"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/products/02290b-2ab6-46-b3ce-22c58aabad__20_a.jpg?v=1701345778&width=1450",
+      "w": 236,
+      "h": 236,
+      "alt": "Aqualogica Radiance+ Jello moisturizer in pink jar "
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/products/radiance_-jello-moisturizer.jpg?v=1702031274&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "Aqualogica pink moisturizer jar packeging"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1_4be95335-d243-47d5-8d15-0453d358d4fb.jpg?v=1720786184&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Aqualogica moisturizer for oily skin with papaya and vitamin C"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/2_990467b9-34ea-4966-8785-e6e645b84986.jpg?v=1720786184&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Oil free moisturizer benefits for lightweight glow and hydration"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1_4cd6c4c9-07ab-4271-a4dc-fa99b9d82e2e.jpg?v=1723099742&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Aqualogica Radiance+ Oil Free Moisturizer with Watermelon and Niacinamide tubes "
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/2_50caf5f1-3906-4e35-991a-829cb6f447e8.jpg?v=1723099742&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Radiance oil-free moisturizer pack highlighting bright and radiant skin"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/FOP_e90a3de8-c7e3-442e-aacf-6adb6a5644bb.jpg?v=1750929521&width=1066",
+      "w": 1066,
+      "h": 0,
+      "alt": "Glow+ Day & Night Combo"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/2_4591ccb1-bb52-4a45-adb1-ab576e9a6d9d.jpg?v=1750929521&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Glow+ Day & Night Combo"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/FOP_32.jpg?v=1758540193&width=1066",
+      "w": 1066,
+      "h": 0,
+      "alt": "Radiance+ Protect & Glow Duo"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/4_61bb58a0-de74-4c5a-ab2b-79e8b8a11d31.jpg?v=1758540209&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Radiance+ Protect & Glow Duo"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1_a325eb08-5895-4796-99c5-9e740c57e83b.jpg?v=1723099453&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Radiance+ Cleanse & Hydrate Combo (Radiance+ Smoothie Face Wash 100ml + Radiance+ Oil-Free Moisturizer)"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/2_9e6237ac-a872-4dda-aa4e-03f781c01e4c.jpg?v=1723099452&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Radiance+ Cleanse & Hydrate Combo (Radiance+ Smoothie Face Wash 100ml + Radiance+ Oil-Free Moisturizer)"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/2a.jpg?v=1702973615&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "Aqualogica glow smoothie face wash 100ml papaya vitamin C\n"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1_a273ebe9-3a78-4e12-a699-f8ce3e62b6c6.jpg?v=1702973669&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "Glow smoothie face wash brightens hydrates evens skin tone"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/Detan__Smoothie_Face_wash_100ml.jpg?v=1722338309&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "Aqualogica detan face wash 100ml cherry tomato"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/2_199c12ae-8c82-4dd9-9362-c01cb244ea6a.jpg?v=1722338316&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "Detan face wash removes tan brightens skin"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1_2e1f8699-985a-4264-9ebe-d63252fcfb91.jpg?v=1702031696&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "Aqualogica radiance face wash 100ml watermelon"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/2_049aada9-68a4-40e6-930e-b97518bb8ff7.jpg?v=1702031696&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "Radiance face wash tube watermelon display"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/products/illuminate_smoothie_fw-07.jpg?v=1701345622&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Aqualogica illuminate face wash 100ml tube"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/products/illuminate_smoothie_fw-06.jpg?v=1701345622&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Illuminate face wash gently cleanses hydrating"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/products/glow_-smoothie-fw-pack-of-2.jpg?v=1701149190&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Aqualogica glow smoothie face wash 100ml duo pack"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1_8cdf400f-15ea-4c0b-9516-db7a1de41195.jpg?v=1702973387&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Glow face wash skin brightening hydrating benefits "
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/products/detan-smoothie-fw-pack-of-2_1.jpg?v=1701149192&width=1450",
+      "w": 1450,
+      "h": 0,
+      "alt": "Detan+ Smoothie Face Wash - 100ml (Pack of 2)"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/products/radiance_smoothie_face_wash_-_100ml_pack_of_2___1200x1200_3a9d5a7e-6b67-450a-8178-7674ad98cdb5.jpg?v=1701149255&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Radiance+ Smoothie Face Wash - 100ml (Pack of 2)"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1_a053ad00-cdb4-4376-9637-d61872329662.jpg?v=1702726488&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Radiance+ Smoothie Face Wash - 100ml (Pack of 2)"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/FOP_7424ed45-97ad-4f58-ab0d-abeb0b2dbe8d.jpg?v=1750929594&width=1066",
+      "w": 236,
+      "h": 236,
+      "alt": "Everyday Glow+ Combo"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/2_1910c021-e83e-4016-9dfe-ca0ac6af19d5.jpg?v=1750929594&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "Everyday Glow+ Combo"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/FOP_18.jpg?v=1753092585&width=1066",
+      "w": 1066,
+      "h": 0,
+      "alt": "Detan+ Brighter Skin Combo"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/2_51f9af9f-0244-4fb6-a63e-ae9c4a51a1f0.jpg?v=1753092585&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Detan+ Brighter Skin Combo"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/FOP_26.jpg?v=1756459311&width=1066",
+      "w": 1066,
+      "h": 0,
+      "alt": "Radiance+ Cleanse & Protect Combo"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/BOP_20.jpg?v=1756459311&width=1066",
+      "w": 1066,
+      "h": 0,
+      "alt": "Radiance+ Cleanse & Protect Combo"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/FOP_9f989be7-b21a-43bd-b261-d6d0e8d147ce.jpg?v=1779790352&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Glow+ Dewy Skin Combo"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/5_87958857-99fb-4436-b37b-ab41415c8e4a.jpg?v=1751871414&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Glow+ Dewy Skin Combo"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/products/6fd403df-fe7-45a9-a78b-222ec97f69__20_a.jpg?v=1701346095&width=1450",
+      "w": 236,
+      "h": 236,
+      "alt": "Glow+ Concentrate Face Serum 30 ml"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/products/glow_-concentrate-face-serum.jpg?v=1702016651&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "Glow+ Concentrate Face Serum 30 ml"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/products/acf8324d-2df9-450b-8c2-ed540076f60__20_a.jpg?v=1701346066&width=1450",
+      "w": 236,
+      "h": 236,
+      "alt": "Radiance+ Concentrate Face Serum 30 ml"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/products/radiance_-concentrate-face-serum-30ml.jpg?v=1702031907&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "Radiance+ Concentrate Face Serum 30 ml"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/COLOUREDBG.jpg?v=1719215342&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Glow+ 30X* Vitamin C Hydrating Essence Serum- 50ml"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/WhiteBg_26a070b6-b902-4813-8273-ab9df801699c.jpg?v=1719215342&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Glow+ 30X* Vitamin C Hydrating Essence Serum- 50ml"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/products/017572e8-2b1b-4639-950d-c606ae5bb636_1_201_a.jpg?v=1701346041&width=1450",
+      "w": 1450,
+      "h": 0,
+      "alt": "Detan+"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/products/detan_serum-09.png?v=1702545973&width=1450",
+      "w": 1450,
+      "h": 0,
+      "alt": "Detan+ Concentrate Face Serum with Cherry Tomato & Glycolic Acid for Tan Removal - 30ml"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1_0f552c51-fe17-4b69-9982-2e5591436a02.jpg?v=1703058895&width=1450",
+      "w": 1450,
+      "h": 0,
+      "alt": "Radiance+ Juicy Dew Drops 30 ml"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/4_9fb03405-80bf-4234-8ece-66b913a3b290.jpg?v=1703058895&width=720",
+      "w": 720,
+      "h": 0,
+      "alt": "Radiance+ Juicy Dew Drops 30 ml"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/COLOUREDBG_1d35c9c4-ab00-4d33-b270-c00aad6a90b9.jpg?v=1721714111&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Illuminate+ 20x Alpha Arbutin Luminous Essence Serum 50ml"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/WhiteBg_e7bcbf01-b2cc-4ff7-930e-1e9c299f1b89.jpg?v=1721714111&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Illuminate+ 20x Alpha Arbutin Luminous Essence Serum 50ml"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/products/glow__juicy_dew_drop_01.jpg?v=1701349377&width=720",
+      "w": 720,
+      "h": 0,
+      "alt": "Glow+ Juicy Dew Drops 30 ml"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/products/dew-drops-01_1.jpg?v=1701845771&width=940",
+      "w": 940,
+      "h": 0,
+      "alt": "Glow+ Juicy Dew Drops 30 ml"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1a.jpg?v=1701416119&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Glow+ 3-in-1 Delicious Dream Cream with SPF 33+ & PA+++ for Glowing Skin - 50g"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1b.jpg?v=1701416119&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Glow+ 3-in-1 Delicious Dream Cream with SPF 33+ & PA+++ for Glowing Skin - 50g"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/Protect-_-Glow-Duo.jpg?v=1774615166&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Glow+ Protect & Glow Duo"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/2_4bb39794-c428-401a-ba75-194c5275dfc5.jpg?v=1774615344&width=1450",
+      "w": 236,
+      "h": 236,
+      "alt": "Glow+ Protect & Glow Duo"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/Detan_-Skin-Brightening-Combo.jpg?v=1753436435&width=1066",
+      "w": 1066,
+      "h": 0,
+      "alt": "Detan+ Skin Brightening Combo"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/2_71d06ec2-83aa-4f54-a3ec-9d5191d7a8cd.jpg?v=1753436435&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Detan+ Skin Brightening Combo"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/products/own_the_glow_duo.jpg?v=1701692440&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Radiant Skin Glow+ Combo"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/products/glow_face_serum_gel_moisturizer_01_1.jpg?v=1701692440&width=720",
+      "w": 720,
+      "h": 0,
+      "alt": "Radiant Skin Glow+ Combo"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/FOP_21.jpg?v=1754029513&width=1066",
+      "w": 1066,
+      "h": 0,
+      "alt": "Daily Detan Combo"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/2_0727a516-ef19-4435-b725-61bf85f6f107.jpg?v=1754029513&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Daily Detan Combo"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/products/hydrate_refresh_toning_mist_100_ml.jpg?v=1701692124&width=1450",
+      "w": 1450,
+      "h": 0,
+      "alt": "Hydrate+ Refresh Toning Mist, 100 ml"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/products/hydrate_toning-mist.jpg?v=1701692124&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Hydrate+ Refresh Toning Mist, 100 ml"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/Crimson_Candy_Plump__-Lip_balm.jpg?v=1722338065&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Crimson Candy Plump+ Luscious Tinted SPF 20+ Lip Balm with Watermelon & Hyaluronic Acid - 10g"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/products/artboard_2-100_2.jpg?v=1722338073&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Crimson Candy Plump+ Luscious Tinted SPF 20+ Lip Balm with Watermelon & Hyaluronic Acid - 10g"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/Pink_Sorbet_Plump__Lip_balm.jpg?v=1722338000&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Pink Sorbet Plump+ Luscious Tinted SPF 20+ Lip Balm with Berries & Hyaluronic Acid - 10g"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/products/artboard_10-100_3.jpg?v=1722338010&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Pink Sorbet Plump+ Luscious Tinted SPF 20+ Lip Balm with Berries & Hyaluronic Acid - 10g"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/Coral_slush_Plump__Lip_balm.jpg?v=1722338499&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Coral Slush Plump+ Luscious Tinted SPF 20+ Lip Balm with Mango & Hyaluronic Acid - 10g"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/products/artboard_10-100_1.jpg?v=1722338509&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Coral Slush Plump+ Luscious Tinted SPF 20+ Lip Balm with Mango & Hyaluronic Acid - 10g"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/products/4__1200x1200__2.jpg?v=1701149583&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Crimson Candy Plump+ Luscious Tinted Lip Balm - 10 g (Pack of 2)"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1_16.jpg?v=1702732001&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Crimson Candy Plump+ Luscious Tinted Lip Balm - 10 g (Pack of 2)"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/products/5__1200x1200__3.jpg?v=1701149585&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Pink Sorbet Plump+ Luscious Tinted Lip Balm - 10g (Pack of 2)"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1_180f4f09-402a-4107-9760-c219f245285c.jpg?v=1702732061&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Pink Sorbet Plump+ Luscious Tinted Lip Balm - 10g (Pack of 2)"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/products/3__1200x1200__4.jpg?v=1701149581&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Coral Slush Plump+ Luscious Tinted Lip Balm - 10g (Pack of 2)"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1_23.jpg?v=1702732391&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Coral Slush Plump+ Luscious Tinted Lip Balm - 10g (Pack of 2)"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/products/2__1200x1200__3.jpg?v=1701149578&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Plump+ Luscious Lip Balms Combo"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/shoot_d49b493f-6efd-4c18-9e68-0371ae518f8e.jpg?v=1724923299&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Glow+ Silky Body Lotion for 24-Hour Moisturization with Papaya & Vitamin C- 200 ml"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/FOP_with_Band.jpg?v=1724923299&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Glow+ Silky Body Lotion for 24-Hour Moisturization with Papaya & Vitamin C- 200 ml"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/Shoot_64edc2f4-9053-4345-80eb-3bf0830f4792.jpg?v=1714456556&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Radiance+ Silky Body Lotion 200 ml"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1_23a8cd82-081c-4f7a-8383-15b43bbed2a1.jpg?v=1714456556&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Radiance+ Silky Body Lotion 200 ml"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/products/30f4049d-d08a-42ad-80a0-c71a086ea7e9_1_201_a.jpg?v=1701691975&width=1450",
+      "w": 1450,
+      "h": 0,
+      "alt": "Glow+ Squishy Shower Gel with Papaya & Vitamin C for Glowing Skin - 250ml"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/products/glow_squishy_body_wash-09.jpg?v=1701691975&width=1450",
+      "w": 1450,
+      "h": 0,
+      "alt": "Glow+ Squishy Shower Gel with Papaya & Vitamin C for Glowing Skin - 250ml"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/products/348cb0b6-2f4c-45dd-9b9b-04efe905559b_1_201_a_1.jpg?v=1701692359&width=1450",
+      "w": 1450,
+      "h": 0,
+      "alt": "Radiance+ Squishy Shower Gel with Watermelon & Niacinamide for Radiant Skin - 250ml"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/products/radiance_squishy_body_wash-09.jpg?v=1701692359&width=1450",
+      "w": 1450,
+      "h": 0,
+      "alt": "Radiance+ Squishy Shower Gel with Watermelon & Niacinamide for Radiant Skin - 250ml"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/FOP_6.jpg?v=1774616831&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "The Glow Getter Combo"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/6_a874674a-5969-49e5-ba84-e9948bb8f7cf.jpg?v=1774616831&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "The Glow Getter Combo"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/FOP_28.jpg?v=1758021583&width=1066",
+      "w": 1066,
+      "h": 0,
+      "alt": "Bright & Radiant Skin Trio"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/BOP_21.jpg?v=1758021583&width=1066",
+      "w": 1066,
+      "h": 0,
+      "alt": "Bright & Radiant Skin Trio"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/products/1__1200x1200__3.jpg?v=1701149377&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "The Cleanse & Glow Duo"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/products/the-cleanse-_-radiance-duo__1200x1200_0b823c0a-6558-490a-be9a-421b42a8faac.jpg?v=1701149379&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "The Cleanse & Radiance Duo"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/products/2__1200x1200__2.jpg?v=1701149258&width=1450",
+      "w": 1450,
+      "h": 0,
+      "alt": "Glow Head to Toe Combo"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/products/hello-radiant-skin-combo__1200x1200_58364734-e5d3-4546-80e8-83cf4d15d0cc.jpg?v=1701149263&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Hello Radiant Skin Combo ( Glow+ Squishy Shower Gel + Radiance+ Smoothie Face Wash) - 250 ml + 100ml"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/products/radiance_juicy_dew_drops_30_ml_radiance_juicy_dew_drops_30_ml.jpg?v=1701149051&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Radiance+ Juicy Dew Drops-30 ml (Pack of 2)"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/2_cfc80fc9-923d-47bd-b935-a5bf17d8d7fe.jpg?v=1702727941&width=720",
+      "w": 720,
+      "h": 0,
+      "alt": "Radiance+ Juicy Dew Drops-30 ml (Pack of 2)"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/products/glow_juicy_dew_drops_30_ml_glow_juicy_dew_drops_30_ml.jpg?v=1701149049&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Glow+ Juicy Dew Drops - 30 ml (Pack of 2)"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1_8bbc1fee-2d89-43e1-8858-92afa353cf97.jpg?v=1701861279&width=720",
+      "w": 720,
+      "h": 0,
+      "alt": "Glow+ Juicy Dew Drops - 30 ml (Pack of 2)"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/Frame_1000007183_4efe8b40-db6b-4f9c-8b10-e42257202e70.png?v=1748849622&width=1440",
+      "w": 1280,
+      "h": 415,
+      "alt": ""
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/Pouch-02.jpg?v=1738923964&width=1450",
+      "w": 236,
+      "h": 236,
+      "alt": "Refresh+ Body Care Set- Sun Kissed Vanilla"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/Refresh_travel_pouch_01_FOP.png?v=1738923977&width=1450",
+      "w": 236,
+      "h": 236,
+      "alt": "Refresh+ Body Care Set- Sun Kissed Vanilla"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/Sweet-Summer.jpg?v=1754058751&width=940",
+      "w": 236,
+      "h": 236,
+      "alt": "Refresh+ Body Care Set - Sweet Summer Kiss"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/Shoot_8be1ac63-56a0-4cbd-89f9-32c113a3a230.jpg?v=1754058751&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "Refresh+ Body Care Set - Sweet Summer Kiss"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/Shoot_4c6914bb-40bb-421a-aa42-faeb0b73f049.jpg?v=1765796724&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "Refresh+ Body Care Set - Cherry Blossom Bloom"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/mono_77150775-de2d-4746-8a28-3aaabde9704e.jpg?v=1765796724&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "Refresh+ Body Care Set - Cherry Blossom Bloom"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/FOP_3_72734354-c0fd-4953-996a-c21ab94eb4f8.jpg?v=1773221224&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "Glow+ Dewy Gel Sunscreen In-Vivo Tested SPF 50+ PA++++ with Papaya & Vitamin C - 50g (Pack of 3)"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/8_7719d671-b3e8-43d1-bd48-7c8371f6605a.jpg?v=1722337923&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "Aqualogica glow dewy sunscreen stick SPF 50 20g"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/7.jpg?v=1722337923&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "glow sunstick"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/FOP_white_BG_985a257d-94da-4d27-9414-6eac64fa2b90.jpg?v=1781693236&width=1450",
+      "w": 1450,
+      "h": 219,
+      "alt": "Glow+ Dewy Gel Sunscreen - 125 g"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/BOP_210303c9-94b4-4dfc-8f1f-3e5ac35a1bdf.jpg?v=1781693235&width=1450",
+      "w": 1450,
+      "h": 219,
+      "alt": "Glow+ Dewy Gel Sunscreen - 125 g"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/Glow__infused_water_sunscreen.jpg?v=1722337681&width=1200",
+      "w": 1200,
+      "h": 219,
+      "alt": "Vitamin C Sunscreen "
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/shoot_f055527e-ff24-4254-9c15-4166743def4c.jpg?v=1722337689&width=1200",
+      "w": 1200,
+      "h": 219,
+      "alt": "Water Based Sunscreen"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/Artboard2.jpg?v=1717410936&width=1200",
+      "w": 1200,
+      "h": 219,
+      "alt": "Aqualogica detan dewy sunscreen 125g cherry tomato"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1_348461b2-59b4-43a2-a9ac-75fa87430968.jpg?v=1717410936&width=1200",
+      "w": 1200,
+      "h": 219,
+      "alt": "Detan sunscreen SPF 50 prevents sun damage"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/shoot_89aa27aa-6286-411b-abbb-a725b68d9f72.jpg?v=1720516387&width=1200",
+      "w": 1200,
+      "h": 219,
+      "alt": "Aqualogica sunscreen SPF 50 illuminate dewy wild berries 125g"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/With_Band.jpg?v=1720516406&width=1200",
+      "w": 1200,
+      "h": 219,
+      "alt": "Aqualogica illuminate dewy sunscreen tube front back 125g"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1_05309857-9a11-413f-a4be-973c1db97514.jpg?v=1725364755&width=1200",
+      "w": 1200,
+      "h": 219,
+      "alt": "Floral Kiss & Hydration Bliss"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/2_90b81dc6-a8d1-4227-80de-27ecf6cbfea8.jpg?v=1725364757&width=1200",
+      "w": 1200,
+      "h": 219,
+      "alt": "Floral Kiss & Hydration Bliss"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/FOPwhiteBG_9a0a5b7e-1121-434f-b171-a321b6e268c5.jpg?v=1777966557&width=1450",
+      "w": 236,
+      "h": 236,
+      "alt": "Detan+ Dewy Gel Sunscreen SPF 50+ PA++++ with 2% Kojic-Hyaluron Complex\u2122 & Wild Berries - 50 g"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1_0cbb1ed9-7796-4efc-b04d-bdfa871eca21.jpg?v=1777966557&width=1450",
+      "w": 236,
+      "h": 236,
+      "alt": "Detan+ Dewy Gel Sunscreen SPF 50+ PA++++ with 2% Kojic-Hyaluron Complex\u2122 & Wild Berries - 50 g"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/products/glow_mousse_night_gel_01_1.jpg?v=1701692646&width=720",
+      "w": 236,
+      "h": 236,
+      "alt": "Glow+ Mousse Night Gel 50g"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/products/glow_-mousse-night-gel-50g.jpg?v=1701692646&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "Glow+ Mousse Night Gel 50g"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1.3_FOP_c27da70d-b727-4f4e-b843-a85530dc5d03.jpg?v=1770270571&width=1450",
+      "w": 236,
+      "h": 236,
+      "alt": "Love at First Spritz box set with three Aqualogica body mists"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1_a0102ecb-5204-4a33-8862-1013150efb84.jpg?v=1770270571&width=1450",
+      "w": 236,
+      "h": 236,
+      "alt": "Pink gift packaging featuring mini perfume sprays and ribbon "
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/FOP_59dd0007-4ac8-4d3d-9161-66aa662e81b3.jpg?v=1779878556&width=1450",
+      "w": 236,
+      "h": 234,
+      "alt": "Detan+ Cooling Sun Serum (50 g)"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1_89bab656-553b-4bea-aece-495a18c7b887.jpg?v=1779878555&width=1450",
+      "w": 236,
+      "h": 234,
+      "alt": "Detan+ Cooling Sun Serum (50 g)"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1.3_Photoshoot_ca1caeb9-7c4c-4987-b9bc-4762620a04fb.jpg?v=1744010752&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "Aqualogica bright tone up sunscreen SPF 50 blueberry 50g"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1.1_FOP_copy_0339c2ef-cb65-4848-a56b-c1823d517504.jpg?v=1744266638&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "Tone up sunscreen bright range tube display lineup"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/FOPwhiteBG_8b3b7a26-01df-4624-b26e-5e0e52f33d6d.jpg?v=1777979055&width=1450",
+      "w": 236,
+      "h": 236,
+      "alt": "Illuminate+ Dewy Gel Sunscreen SPF 50+ PA++++ with 2% Arbutin-Hyaluron Complex\u2122 & Wild Berries - 50g"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1_eee41127-5546-4702-b7a6-8a87f57de470.jpg?v=1777979055&width=1450",
+      "w": 236,
+      "h": 236,
+      "alt": "Illuminate+ Dewy Gel Sunscreen SPF 50+ PA++++ with 2% Arbutin-Hyaluron Complex\u2122 & Wild Berries - 50g"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1_efe2a5c5-3705-40cf-8e55-eac290b434bc.jpg?v=1701348747&width=1450",
+      "w": 236,
+      "h": 243,
+      "alt": "Hydrate+ Dewy Sunscreen 50g"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/2_e16adde4-f744-4b8f-a2ac-6631b07265e7.jpg?v=1701348747&width=940",
+      "w": 236,
+      "h": 236,
+      "alt": "Hydrate+ Dewy Sunscreen 50g"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/FOP_94895e81-60b1-42bc-9029-9252b2b5d75b.jpg?v=1775046402&width=1450",
+      "w": 236,
+      "h": 234,
+      "alt": "Aqualogica radiance oil control sunscreen SPF 50 watermelon 50g"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/1_afc3fb10-dfd3-441d-ab23-0e484a1b3341.jpg?v=1775046402&width=1450",
+      "w": 236,
+      "h": 234,
+      "alt": "Oil control sunscreen range just got smarter lineup"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/shoot_c210050a-b628-46fd-b9b6-22498cc9bef4.jpg?v=1730719911&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "Aqualogica 5 barrier repair sunscreen SPF 50 avocado 50g"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/With_Band_0b9ee022-b419-4915-87c8-2f348805d1c7.jpg?v=1730719912&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "Barrier repair sunscreen tube front back 50g"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/Photoshoot_2d2fd22b-a2e8-43a3-a665-ea26e4ebc2df.jpg?v=1758784609&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "Radiance+ Dewy Sunscreen In-Vivo Tested with Watermelon & Niacinamide with SPF 50 & PA++++ - 30g"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/8_f67f9259-16c7-4007-b938-9702b1cffc2c.jpg?v=1758784487&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "Radiance+ Dewy Sunscreen In-Vivo Tested with Watermelon & Niacinamide with SPF 50 & PA++++ - 30g"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/shoot_fbb096a2-d097-4f3b-9ef0-26592a476086.jpg?v=1718780805&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "Illuminate+ Dewy Sunscreen In-Vivo Tested SPF 50+ PA++++ with Wild Berries & Alpha Arbutin - 30 g"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/WithPoints.jpg?v=1718780777&width=1200",
+      "w": 236,
+      "h": 236,
+      "alt": "Illuminate+ Dewy Sunscreen In-Vivo Tested SPF 50+ PA++++ with Wild Berries & Alpha Arbutin - 30 g"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/RoshiniM_f873032e-b74a-4029-8003-349dae860688.jpg?v=1701846661&width=488",
+      "w": 1280,
+      "h": 1280,
+      "alt": ""
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/PariSahni.jpg?v=1701846771&width=488",
+      "w": 1280,
+      "h": 1280,
+      "alt": ""
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/AyushiThakkar.png?v=1701846897&width=488",
+      "w": 1280,
+      "h": 1280,
+      "alt": ""
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/ShubhamMalik.png?v=1701847031&width=488",
+      "w": 1280,
+      "h": 1280,
+      "alt": ""
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/Aqualogica-_-Customize-Copy-of-EDD-column-in-listing-page-and-details-_-Shopify-Plus-08-21-2025_03_34_PM.png?v=1755770741&width=2800",
+      "w": 1280,
+      "h": 190,
+      "alt": ""
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/Frame_1000007184.png?v=1747733349&width=506",
+      "w": 506,
+      "h": 324,
+      "alt": ""
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/Image_With_Text_2.png?v=1758013569&width=575",
+      "w": 625,
+      "h": 378,
+      "alt": ""
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/footer_logo_c372eb04-c70d-465d-85ba-0d21a4cdc080.svg?v=1748588339",
+      "w": 237,
+      "h": 68,
+      "alt": ""
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/google-play-logo.png?v=1744366760",
+      "w": 810,
+      "h": 237,
+      "alt": "Download on Android"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/apple-store-logo.png?v=1744366760",
+      "w": 812,
+      "h": 242,
+      "alt": "Download on iOS"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shopifycloud/storefront/assets/payment_icons/visa-b614b878.svg",
+      "w": 38,
+      "h": 24,
+      "alt": "visa"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shopifycloud/storefront/assets/payment_icons/master-f5a74105.svg",
+      "w": 38,
+      "h": 24,
+      "alt": "master"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shopifycloud/storefront/assets/payment_icons/american_express-2bdbf0e2.svg",
+      "w": 38,
+      "h": 24,
+      "alt": "american express"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shopifycloud/storefront/assets/payment_icons/rupay-866b7e37.svg",
+      "w": 38,
+      "h": 24,
+      "alt": "rupay"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shopifycloud/storefront/assets/payment_icons/netbanking-ded12819.svg",
+      "w": 38,
+      "h": 24,
+      "alt": "netbanking"
+    },
+    {
+      "src": "https://aqualogica.in/cdn/shop/files/Aqualogica.gif?v=1773661602&width=112",
+      "w": 112,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.shopify.com/static/images/flags/in.svg?width=32",
+      "w": 32,
+      "h": 0,
+      "alt": "India"
+    },
+    {
+      "src": "https://pdp.gokwik.co/assets/icons/gokwik_gif.gif",
+      "w": 70,
+      "h": 70,
+      "alt": "gokwik_loading_gif"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0670/3287/5233/files/Aqualogica_chatbot_AI.gif?v=1772796968",
+      "w": 252,
+      "h": 266,
+      "alt": "bubble-icon"
+    }
+  ],
+  "bgImgs": [],
+  "fonts": [
+    {
+      "family": "Roboto",
+      "weight": "400"
+    },
+    {
+      "family": "JudgemeStar",
+      "weight": "normal"
+    }
+  ],
+  "annBg": "rgba(0, 0, 0, 0)",
+  "annColor": "rgb(29, 29, 29)",
+  "annText": "Get a free gift on all orders!",
+  "ogSiteName": "Aqualogica",
+  "social": {
+    "facebook": "https://www.facebook.com/aqualogica.in/",
+    "twitter": "https://twitter.com/i/flow/login?redirect_after_login=%2Faqualogica",
+    "instagram": "https://www.instagram.com/aqualogica.in/",
+    "youtube": "https://www.youtube.com/channel/UCUq8lpm2Akn9thoGCMPWpCA"
+  },
+  "bodyBg": "rgb(255, 255, 255)",
+  "bodyColor": "rgb(29, 29, 29)",
+  "bodyFont": "Roboto, sans-serif"
+}

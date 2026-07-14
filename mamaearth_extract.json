@@ -1,0 +1,1025 @@
+{
+  "headerBg": "rgb(255, 255, 255)",
+  "logoSrc": "https://images.mamaearth.in/wysiwyg/mamaearth-logo.png?format=auto&fit=scale",
+  "logoAlt": "logo",
+  "logoSvg": "",
+  "logoLum": null,
+  "logoOpaque": null,
+  "accentCandidates": [
+    "rgb(0, 175, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 174, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(0, 175, 239)",
+    "rgb(1, 168, 230)"
+  ],
+  "images": [
+    {
+      "src": "https://images.mamaearth.in/wysiwyg/mamaearth-logo.png?format=auto&fit=scale",
+      "w": 400,
+      "h": 90,
+      "alt": "logo"
+    },
+    {
+      "src": "https://images.mamaearth.in/wysiwyg/searchPageImages/searchPath.svg",
+      "w": 18,
+      "h": 17,
+      "alt": "mamaearth-search-icon"
+    },
+    {
+      "src": "https://mamaearth.in/",
+      "w": 90,
+      "h": 24,
+      "alt": "Face Wash"
+    },
+    {
+      "src": "https://st-images.honasa.in/Flash_Sale_GIF_8394413e39.gif?width=&qualilty=",
+      "w": 1920,
+      "h": 512,
+      "alt": "WOW"
+    },
+    {
+      "src": "https://st-images.honasa.in/Sunscreen_banner_GIF_06bffadac5.gif?width=&qualilty=",
+      "w": 1920,
+      "h": 512,
+      "alt": "WOW"
+    },
+    {
+      "src": "https://st-images.honasa.in/1920_X512_76806692d6.jpg?format=auto&width=&qualilty=",
+      "w": 1920,
+      "h": 512,
+      "alt": "Light Gel Moisturizer"
+    },
+    {
+      "src": "https://st-images.honasa.in/1920x512_1cbbe983fa.jpg?format=auto&width=&qualilty=",
+      "w": 1920,
+      "h": 512,
+      "alt": "Face Wash"
+    },
+    {
+      "src": "https://images.mamaearth.in/svg/chevron-left-white.svg",
+      "w": 150,
+      "h": 150,
+      "alt": "Prev"
+    },
+    {
+      "src": "https://images.mamaearth.in/svg/chevron-right-white.svg",
+      "w": 150,
+      "h": 150,
+      "alt": "Next"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/v/i/vitamin-c-glow-serum_1.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "vitamin c daily glow face serum"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/1/_/1_156.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth Milky Soft Head to Toe Wash babies oats milk calendula 400ml"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/b/e/beetroot_apc_new_white_bg.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/1/_/1_white_bg_74.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/r/i/rice_fw_fop.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Rice dewy bright face wash 200ml twin pack\r\n"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/u/b/ubtan_fw_fop.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Ubtan natural glow face wash 200ml double pack\r\n"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/v/i/vitamin_c_fw_50g_1.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Vitamin C Daily Glow Sunscreen SPF 50 toxin free sun protection"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/p/d/pdp_fop_12.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/1/_/1_43.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/1/_/1_245.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/1/-/1-with-ingredients_3.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "beetroot face wash splash 100ml\r\n"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/t/e/tea_tree_new.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth"
+    },
+    {
+      "src": "https://images.mamaearth.in/svg/chevron-left-gray.svg",
+      "w": 150,
+      "h": 150,
+      "alt": "Prev"
+    },
+    {
+      "src": "https://images.mamaearth.in/svg/chevron-right-gray.svg",
+      "w": 150,
+      "h": 150,
+      "alt": "Next"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/v/i/vit-c-glow-cream1_1_1.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Face Glow Cream"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/p/r/product_with_ingridents_1.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/v/i/vitamin_c_fw_50g_2.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth Vitamin C Daily Glow Sunscreen SPF 50 toxin-free sun protection"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/1/_/1_188.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Ultra Light Indian Sunscreen SPF 50 PA++++ with Carrot Seed and Turmeric 80g"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/1/-/1-with-ingredients_11.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/1/_/1_197.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Ubtan natural glow face wash 200ml no.1 brand\r\n"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/1/_/1_26.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Baby Rich Moisturizing Ultra Light Sunscreen SPF 50 PA++++ 50g"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/v/i/vitamin_c_foaming_face_wash_1.jpeg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "mamaearth vitamin c foaming face wash"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/1/-/1-with-ingredients_10.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/1/_/1_222.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/s/k/skin-correct-face-serum-with-ingredient_1.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "niacinamide serum\r\n"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/p/d/pdp_5.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/v/i/vitamin-c-glow-serum_1_1_1.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/1/_/1_229.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/1/_/1_192.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Rice face wash with rice milk\r\n"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/1/_/1_220.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Vitamin C face wash 250ml pump bottle turmeric lemon\r\n"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/r/i/rice_apc_new_white_bg.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/m/u/multani_mitti_fw_100g.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Multani Mitti Face Wash Balance excess oil"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/r/i/rice-face-scrub-2_1.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "mamaearth Rice Face Scrub for all skin types"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/b/y/bye_bye_blemishes_2_2.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth Bye Bye Dark Circles removal Cream"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/3/_/3_78.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/w/i/with_claim.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "mamaearth rosemary hair conditioner"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/1/_/1_226.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth lemon anti dandruff shampoo bottle with lemon and aloe vera"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/p/d/pdp_fop_18.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/p/d/pdp_fop_21.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/p/d/pdp_fop_22.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/_/o/_onion-oil-250ml__1_1_1.jpeg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth onion oil"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/1/_/1_49.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/w/i/with-ingredient.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth onion shampoo "
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/3/_/3_75.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/_/f/_foaming-face-wash-for-kids_.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Foaming face wash for kids"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/s/h/shampo_props_ky0ozlvydza60eyc.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "mamaearth baby shampoo 400ml"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/m/i/milky_soft_mineral_based_sunscreen_1.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Milky Soft Mineral Sunscreen SPF 30 PA+++ for babies 80g"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/b/a/baby_massage_oil_200_ml__1200x1200__i0oy2adtieurwcls.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth Soothing Massage Oil "
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/1/_/1_159.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/1/_/1_154.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Milky Soft Baby Body Lotion Oats Milk Calendula 400ml"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/1/_/1_153.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "mamaearth milky soft baby face cream product packaging with milk protein"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/n/o/nourishing-bathing-bars_2_anb6wlrvagej2noa.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Nourishing Bathing Bar Soap For Kids - ( Pack of 5, 75g Each)\r\n"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/b/o/body-wash_probs_ui8gwmtjnj2sahbz.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Deeply Nourishing Body Wash for babies, 400ml\r\n"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/1/_/1_160.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Milky Soft Baby Body Wash Oats Milk Calendula 400ml"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/f/d/fds_9573-props_qwhqvlzshodrynok.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Moisturizing Bathing Bar Soap For Babies, pack of 2*75g\r\n"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/b/a/baby_hair_oil_200_ml_1200x1200__yh1i6qtlgyc253s5.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Nourishing Hair Oil for Babies with Almond and Avocado Oil - 200 ml\r\n"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/p/d/pdp_fop_2.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/r/i/rice_face_serum_pdp.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/f/o/fop_55.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/1/_/1_237.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/r/i/rice_oil-free_face_moisturizer_with_rice_water_niacinamide_for_glass_skin_150_g_fop.png?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/p/d/pdp_fop_19.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/1/_/1_205.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/1/_/1_ivory_glow_white_bg.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/1/_/1_white_bg_63.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/1/_/1_1_.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Kajal for eyes with Vitamin C & Chamomile\r\n"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/1/_/1_white_bg_67.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/1/_/1..._.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/1/_/1_white_bg_62.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/c/r/cranberry_crush_swatch_copy.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/1/_/1_204.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/1/_/1_white_bg_72.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/m/e/men_s_set_of_2_white_bg.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/w/o/women_s_set_of_2_white_bg.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/1/_/1_fop_white_bg_1.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth"
+    },
+    {
+      "src": "https://images.mamaearth.in/catalog/product/1/_/1_white_bg_51.jpg?format=auto&width=400&height=400",
+      "w": 400,
+      "h": 400,
+      "alt": "Mamaearth"
+    },
+    {
+      "src": "https://images.mamaearth.in/wysiwyg/Mobile_home_img.png?format=auto",
+      "w": 0,
+      "h": 0,
+      "alt": "Planted Trees Banner"
+    },
+    {
+      "src": "https://images.mamaearth.in/wysiwyg/desktop_home_img.png?format=auto",
+      "w": 1920,
+      "h": 512,
+      "alt": "Planted Trees Banner"
+    },
+    {
+      "src": "https://images.mamaearth.in/wysiwyg/dermatology-tested-100x100.png",
+      "w": 100,
+      "h": 100,
+      "alt": "Dermatologically Tested"
+    },
+    {
+      "src": "https://images.mamaearth.in/wysiwyg/fda-100x100.jpg",
+      "w": 100,
+      "h": 100,
+      "alt": "FDA Approved"
+    },
+    {
+      "src": "https://images.mamaearth.in/wysiwyg/msafe-100x100.jpg",
+      "w": 100,
+      "h": 100,
+      "alt": "Made Safe Certified"
+    },
+    {
+      "src": "https://images.mamaearth.in/wysiwyg/strip2x.png",
+      "w": 800,
+      "h": 5,
+      "alt": ""
+    },
+    {
+      "src": "https://images.mamaearth.in/wysiwyg/Gina_kPv81T7.jpg",
+      "w": 180,
+      "h": 180,
+      "alt": "Gina"
+    },
+    {
+      "src": "https://images.mamaearth.in/wysiwyg/Waris_Raza_0nBcBhl.jpg",
+      "w": 180,
+      "h": 180,
+      "alt": "Waris Raza"
+    },
+    {
+      "src": "https://images.mamaearth.in/wysiwyg/Manisha_tulV4fo.jpg",
+      "w": 180,
+      "h": 180,
+      "alt": "Manisha"
+    },
+    {
+      "src": "https://images.mamaearth.in/wysiwyg/Tanmaya_Shrivastav_JbDYODv.jpg",
+      "w": 180,
+      "h": 180,
+      "alt": "Tanmay"
+    },
+    {
+      "src": "https://images.mamaearth.in/wysiwyg/Priyanshi_Singh_gHqZqXk.jpg",
+      "w": 180,
+      "h": 180,
+      "alt": "Priyanshi Singh"
+    },
+    {
+      "src": "https://images.mamaearth.in/wysiwyg/Sajal_Goyal_GKFmIuZ.jpg",
+      "w": 180,
+      "h": 180,
+      "alt": "Sajal Goyal"
+    },
+    {
+      "src": "https://images.mamaearth.in/wysiwyg/delivery2x.png",
+      "w": 48,
+      "h": 35,
+      "alt": "Free Shipping"
+    },
+    {
+      "src": "https://images.mamaearth.in/wysiwyg/Group_81512x.png",
+      "w": 43,
+      "h": 43,
+      "alt": "COD Available"
+    },
+    {
+      "src": "https://images.mamaearth.in/wysiwyg/noun_trusted_27146262x_6Ekja92.png",
+      "w": 48,
+      "h": 54,
+      "alt": "100% Payment Protection, Easy Return Policy"
+    },
+    {
+      "src": "https://images.mamaearth.in/png/web-payments.png",
+      "w": 744,
+      "h": 61,
+      "alt": "Available Payment"
+    },
+    {
+      "src": "https://images.mamaearth.in/wysiwyg/dlf2x.png?fit=contain",
+      "w": 0,
+      "h": 0,
+      "alt": "secure payment"
+    },
+    {
+      "src": "https://images.mamaearth.in/wysiwyg/Best-Brand500x5002x.png",
+      "w": 342,
+      "h": 582,
+      "alt": "Economics Times"
+    },
+    {
+      "src": "https://images.mamaearth.in/svg/facebook-gray.svg",
+      "w": 150,
+      "h": 150,
+      "alt": "Facebook"
+    },
+    {
+      "src": "https://images.mamaearth.in/svg/twitter.svg",
+      "w": 139,
+      "h": 150,
+      "alt": "twitter"
+    },
+    {
+      "src": "https://images.mamaearth.in/svg/insta.svg",
+      "w": 129,
+      "h": 150,
+      "alt": "instagram"
+    },
+    {
+      "src": "https://images.mamaearth.in/svg/Youtube.svg",
+      "w": 129,
+      "h": 150,
+      "alt": "youtube"
+    },
+    {
+      "src": "https://images.mamaearth.in/svg/linkedin.svg",
+      "w": 150,
+      "h": 150,
+      "alt": "linkedin"
+    },
+    {
+      "src": "https://images.mamaearth.in/svg/pinterest.svg",
+      "w": 129,
+      "h": 150,
+      "alt": "pinterest"
+    },
+    {
+      "src": "https://images.mamaearth.in/svg/mail.svg",
+      "w": 150,
+      "h": 150,
+      "alt": "Email"
+    },
+    {
+      "src": "https://images.mamaearth.in/wysiwyg/PLAYSTORE18Apr.png",
+      "w": 145,
+      "h": 43,
+      "alt": "playstore"
+    },
+    {
+      "src": "https://images.mamaearth.in/wysiwyg/APPSTORE18Apr.png",
+      "w": 144,
+      "h": 43,
+      "alt": "appstore"
+    },
+    {
+      "src": "https://s3.ap-south-1.amazonaws.com/cdn.limechat.ai/assets/images/mamaearth.gif",
+      "w": 250,
+      "h": 250,
+      "alt": "bubble-icon"
+    }
+  ],
+  "bgImgs": [
+    "https://images.mamaearth.in/wysiwyg/ctgry_background.png"
+  ],
+  "fonts": [
+    {
+      "family": "icomoon",
+      "weight": "normal"
+    },
+    {
+      "family": "Cookie",
+      "weight": "400"
+    },
+    {
+      "family": "Open Sans",
+      "weight": "400"
+    },
+    {
+      "family": "Ionicons",
+      "weight": "normal"
+    }
+  ],
+  "ogSiteName": "Mamaearth | Official Website",
+  "social": {
+    "facebook": "https://www.facebook.com/Mamaearthindia/",
+    "twitter": "https://twitter.com/mamaearthindia?lang=en",
+    "instagram": "https://www.instagram.com/mamaearth.in/?hl=en",
+    "youtube": "https://www.youtube.com/channel/UC5qhqSIcahBKKMEdLPFqeVA"
+  },
+  "bodyBg": "rgb(255, 255, 255)",
+  "bodyColor": "rgb(0, 0, 0)",
+  "bodyFont": "\"Open Sans\", sans-serif"
+}

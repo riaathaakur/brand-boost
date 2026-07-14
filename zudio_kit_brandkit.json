@@ -1,0 +1,83 @@
+{
+  "brand_name": "Zudio",
+  "domain": "zudio.com",
+  "url": "https://www.zudio.com/",
+  "slug": "zudio_kit",
+  "prefix": "ZUD",
+  "colors": {
+    "brand": "#436076",
+    "light": "#e8ebee",
+    "header_bg": "#000000",
+    "header_icon": "#fff",
+    "header_border": "none",
+    "header_dark": true,
+    "body_bg": "#ffffff",
+    "body_text": "#3d4246",
+    "ann_bg": "#111111",
+    "ann_text": "#ffffff"
+  },
+  "typography": {
+    "body_font": "'Jost',system-ui,-apple-system,sans-serif",
+    "font_face_css": "@font-face{font-family:'Jost';src:local('Jost');font-weight:700}\n@font-face{font-family:'Jost';src:local('Jost');font-weight:500}\n@font-face{font-family:'Jost';src:local('Jost');font-weight:700}\n@font-face{font-family:'Jost';src:local('Jost');font-weight:700}\n@font-face{font-family:'Jost';src:local('Jost');font-weight:500}\n@font-face{font-family:'Jost';src:local('Jost');font-weight:700}",
+    "google_font": ""
+  },
+  "cta_radius": "2px",
+  "logo": {
+    "mode": "img",
+    "src": "https://www.zudio.com/cdn/shop/files/logo_300x300.png?v=1613519896",
+    "filter": "filter:brightness(0) invert(1);",
+    "svg": ""
+  },
+  "announcement": "Free delivery on orders above ₹499",
+  "hero": {
+    "image": "",
+    "l1": "EVERYDAY",
+    "l2": "STYLE",
+    "sub": "Trend-forward fashion and essentials designed for daily wear."
+  },
+  "ad": {
+    "eyebrow": "NEW DROP",
+    "l1": "Style For",
+    "l2": "Every Day",
+    "sub": "Fresh fashion picks at value-led prices."
+  },
+  "products": [
+    {
+      "image": "",
+      "name": "Best Seller",
+      "price": "₹1,199"
+    },
+    {
+      "image": "",
+      "name": "New Arrival",
+      "price": "₹899"
+    }
+  ],
+  "showcase_image": "",
+  "instagram": {
+    "handle": "zudio_kit",
+    "images": []
+  },
+  "social": {
+    "instagram": "https://www.instagram.com/myzudio"
+  },
+  "meta": {
+    "platform": "shopify",
+    "tiers": [
+      "static",
+      "ai_digest"
+    ],
+    "ai_applied": [
+      "body_font",
+      "announcement(rejected)",
+      "brand_name",
+      "hero_copy",
+      "ad_copy"
+    ],
+    "weak_after_static": [],
+    "weak_final": [],
+    "ai_notes": "No usable images were provided, so all image indices are null/empty. Brand color left null because Zudio appears visually close to achromatic branding despite blue/green UI accents in candidates; caller can derive black from the site. Logo treatment omitted because logo pixel luminance was measured.",
+    "elapsed_s": 6.3,
+    "images_found": 4
+  }
+}

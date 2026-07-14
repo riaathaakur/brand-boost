@@ -1,0 +1,929 @@
+{
+  "headerBg": "rgb(255, 255, 255)",
+  "logoSrc": "https://goboult.co.in/cdn/shop/files/new_website_logo_3a14c34b-4c3d-473d-8e7a-bf28f8d8db00_500x@2x.png?v=1766048119",
+  "logoAlt": "GOBOULT",
+  "logoSvg": "",
+  "logoLum": 53.93001183431953,
+  "logoOpaque": 0.123779296875,
+  "accentCandidates": [
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)",
+    "rgb(0, 0, 238)"
+  ],
+  "ctaBg": "rgb(26, 26, 26)",
+  "ctaColor": "rgb(255, 255, 255)",
+  "ctaRadius": "6px",
+  "images": [
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0548/8849/7221/files/logo_white_text_blue.png",
+      "w": 1750,
+      "h": 273,
+      "alt": ""
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/new_website_logo_3a14c34b-4c3d-473d-8e7a-bf28f8d8db00_500x@2x.png?v=1766048119",
+      "w": 500,
+      "h": 136,
+      "alt": "GOBOULT"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/TWS_copy_1.png?v=1753888122&width=400",
+      "w": 1280,
+      "h": 1238,
+      "alt": "Black wireless earbuds with charging case with ENC feature"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/headphones_1.png?v=1753888324&width=400",
+      "w": 1280,
+      "h": 1238,
+      "alt": "Black bluetooth wireless headphones "
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/smartwatches_6f6f713d-698b-4d3c-845b-1c2325eab867.png?v=1753697503&width=400",
+      "w": 1280,
+      "h": 1238,
+      "alt": "Smartwatch with silver & gold metal chain"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/speakers_1.png?v=1753712363&width=400",
+      "w": 1280,
+      "h": 1238,
+      "alt": "Black portable bluetooth speaker for travel & parties"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/home_aiudioo_2.png?v=1753888442&width=400",
+      "w": 1280,
+      "h": 1238,
+      "alt": "GoBoult's home audio with subwoofer, speaker, and remote control "
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/powerbanks.png?v=1753712456&width=400",
+      "w": 1280,
+      "h": 1238,
+      "alt": "Goboult's Ampvault v10 powerbankwith 10000 mah power"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/dashcams.png?v=1753712244&width=400",
+      "w": 1280,
+      "h": 1238,
+      "alt": "Black wireless neckband earphones"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/ok_1.png?v=1727444303&width=400",
+      "w": 1280,
+      "h": 1580,
+      "alt": "Buy smartwatch charging cable & black strap from Goboult accessories collection"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0548/8849/7221/files/search-input-icon.png?v=1639981530",
+      "w": 0,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0548/8849/7221/files/search-input-close.png?v=1639981530",
+      "w": 0,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0548/8849/7221/files/new_website_logo_3a14c34b-4c3d-473d-8e7a-bf28f8d8db00.png?v=1766048119",
+      "w": 4485,
+      "h": 1216,
+      "alt": ""
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/TWS_copy_1.png?v=1753888122&width=200",
+      "w": 1280,
+      "h": 1241,
+      "alt": "Black wireless earbuds with charging case with ENC feature"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/headphones_1.png?v=1753888324&width=200",
+      "w": 1280,
+      "h": 1241,
+      "alt": "Black bluetooth wireless headphones "
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/speakers_1.png?v=1753712363&width=200",
+      "w": 1280,
+      "h": 1241,
+      "alt": "Black portable bluetooth speaker for travel & parties"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/home_aiudioo_2.png?v=1753888442&width=200",
+      "w": 1280,
+      "h": 1241,
+      "alt": "GoBoult's home audio with subwoofer, speaker, and remote control "
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/smartwatches_6f6f713d-698b-4d3c-845b-1c2325eab867.png?v=1753697503&width=200",
+      "w": 1280,
+      "h": 1241,
+      "alt": "Smartwatch with silver & gold metal chain"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/powerbanks.png?v=1753712456&width=200",
+      "w": 1280,
+      "h": 1241,
+      "alt": "Goboult's Ampvault v10 powerbankwith 10000 mah power"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/dashcams.png?v=1753712244&width=200",
+      "w": 1280,
+      "h": 1241,
+      "alt": "Black wireless neckband earphones"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/ok_1.png?v=1727444303&width=200",
+      "w": 1280,
+      "h": 1580,
+      "alt": "Buy smartwatch charging cable & black strap from Goboult accessories collection"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/TWS_copy.png?crop=center&height=450&v=1753884728&width=500",
+      "w": 1280,
+      "h": 1152,
+      "alt": ""
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/mustang_horse.png?crop=center&height=450&v=1762926975&width=500",
+      "w": 1280,
+      "h": 1152,
+      "alt": ""
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/smartwatches_6f6f713d-698b-4d3c-845b-1c2325eab867.png?crop=center&height=450&v=1753697503&width=500",
+      "w": 1280,
+      "h": 1152,
+      "alt": "Smartwatch with silver & gold metal chain"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/headphones_9a7dab79-477c-400c-9504-e912886a13ee.png?crop=center&height=450&v=1753712110&width=500",
+      "w": 1280,
+      "h": 1152,
+      "alt": ""
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/speakers_2_e3ccb5a0-9ee0-4723-a8ba-136394c790bb.png?crop=center&height=450&v=1754025178&width=500",
+      "w": 1280,
+      "h": 1152,
+      "alt": ""
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/home_aiudioo.png?crop=center&height=450&v=1753712163&width=500",
+      "w": 1280,
+      "h": 1152,
+      "alt": ""
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/powerbanks.png?crop=center&height=450&v=1753712456&width=500",
+      "w": 1280,
+      "h": 1152,
+      "alt": "Goboult's Ampvault v10 powerbankwith 10000 mah power"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/dashcams.png?crop=center&height=450&v=1753712244&width=500",
+      "w": 1280,
+      "h": 1152,
+      "alt": "Black wireless neckband earphones"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/Group_12026_33e0ca9e-5c6d-4476-a641-bf511c1658b3_1.png?crop=center&height=450&v=1743661733&width=500",
+      "w": 721,
+      "h": 698,
+      "alt": ""
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/Artboard_7_result_3b40a35b-1dfd-46a4-afee-a1b5ca382c95.webp?v=1783516435",
+      "w": 1120,
+      "h": 350,
+      "alt": ""
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/Artboard_2_1__result_354e25f1-1922-4d36-811c-2c28d390b31e.webp?v=1782984497",
+      "w": 1120,
+      "h": 350,
+      "alt": ""
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/Artboard_1_5__result.webp?v=1776432551",
+      "w": 1120,
+      "h": 350,
+      "alt": ""
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/sprint_Artboard_5_result_new.webp?v=1773145540",
+      "w": 1120,
+      "h": 350,
+      "alt": ""
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/muscle_Artboard_2_result_new.webp?v=1772538716",
+      "w": 1120,
+      "h": 350,
+      "alt": ""
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/muscle_Artboard_3_copy_result_new_2f7e6b11-93ce-4a89-924f-cea640e7a168.webp?v=1772448484",
+      "w": 1120,
+      "h": 350,
+      "alt": ""
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/muscle_5760_x_1800_result_new.webp?v=1772448511",
+      "w": 1120,
+      "h": 350,
+      "alt": ""
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/muscle_yujgyj_result_new.webp?v=1772448546",
+      "w": 1120,
+      "h": 350,
+      "alt": ""
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/muscle_Artboard_6_copy_result_new.webp?v=1772448613",
+      "w": 1120,
+      "h": 350,
+      "alt": ""
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/icon_f-03_1_230x.png?v=1758800098",
+      "w": 230,
+      "h": 153,
+      "alt": ""
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/icon_f-02_230x.png?v=1728972689",
+      "w": 230,
+      "h": 153,
+      "alt": ""
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/icon_f-01_230x.png?v=1728972720",
+      "w": 230,
+      "h": 153,
+      "alt": ""
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/Res_Artboard_3_4727ef54-9a06-4b66-9c7f-bb0ee3a5a589.webp?v=1783582613&width=600",
+      "w": 250,
+      "h": 250,
+      "alt": "Goboult Priority Access | Tenet Pro ANC Crimson Red"
+    },
+    {
+      "src": "https://assets.snapmint.com/assets/merchant/mobline_svg.svg",
+      "w": 5,
+      "h": 5,
+      "alt": "snap_arrow"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/Res_webp_Artboard_7.webp?v=1782466193&width=600",
+      "w": 250,
+      "h": 250,
+      "alt": "Mustang\u00ae Official Collab - Racer Apex Blue"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/Res_webp_Artboard_17_copy_4.webp?v=1782466370&width=600",
+      "w": 250,
+      "h": 250,
+      "alt": "Earl Sapphire Blue"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/Res_webp_Artboard_2_copy_2ef0e55c-57e4-44f6-8979-75a5738cf4e0.webp?v=1782909011&width=600",
+      "w": 250,
+      "h": 250,
+      "alt": "Mustang\u00ae Official Collab - Stallion Turbo Orange"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/Res_Artboard_1_b8234f5d-f157-40e6-8bb1-6f723736e465.webp?v=1783582620&width=600",
+      "w": 250,
+      "h": 250,
+      "alt": "Goboult Priority Access | Tenet Pro ANC Olive Green"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/Res_webp_Artboard_1_copy_93d08413-e727-4cca-a796-8dcda3b49545.webp?v=1782907816&width=600",
+      "w": 250,
+      "h": 250,
+      "alt": "Mustang\u00ae Official Collab - Sprint Blaze Red"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/Res_webp_Artboard_11.webp?v=1782467107&width=600",
+      "w": 250,
+      "h": 250,
+      "alt": "Mustang\u00ae Official Collab - Muscle Frost"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/Artboard_2_15.png?v=1753449438&width=800",
+      "w": 715,
+      "h": 1280,
+      "alt": ""
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/Artboard2_1c72fc99-0a53-4650-b909-562f3ce2520c.jpg?v=1766584218&width=400",
+      "w": 1280,
+      "h": 1587,
+      "alt": "Mustang\u00ae Official Collab - Torq Silver"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/Artboard_3_17.png?v=1753449548&width=800",
+      "w": 715,
+      "h": 1280,
+      "alt": ""
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/JetBlack-1.jpg?v=1767812570&width=400",
+      "w": 1280,
+      "h": 1587,
+      "alt": "Jet Black"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/Artboard_4_18.png?v=1753449624&width=800",
+      "w": 715,
+      "h": 1280,
+      "alt": ""
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/BlackMetal-1.jpg?v=1767814158&width=400",
+      "w": 1280,
+      "h": 1587,
+      "alt": "GoBoult Rover Pro Smartwatch in Metal Black"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/Artboard_3_copy_7_6271cf44-1e59-4167-af68-0b3fa86210b2.png?v=1753449495&width=800",
+      "w": 715,
+      "h": 1280,
+      "alt": ""
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/Res_Artboard_2_610c43fc-870c-460c-bd19-c95a6080591e.webp?v=1783582620&width=600",
+      "w": 250,
+      "h": 250,
+      "alt": "Goboult Priority Access | Tenet Pro ANC Frost White"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/Res_webp_Artboard_3_copy_259145b9-ff25-48a8-b098-e81533af073a.webp?v=1782909013&width=600",
+      "w": 250,
+      "h": 250,
+      "alt": "Mustang\u00ae Official Collab - Stallion Nitro Black"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/Res_webp_Artboard_1_copy_2_1f46bca1-e1c6-40c6-a726-54aa96caf8a1.webp?v=1782907816&width=600",
+      "w": 250,
+      "h": 250,
+      "alt": "Mustang\u00ae Official Collab - Sprint Turbo Yellow"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/Res_webp_Artboard_12.webp?v=1782468669&width=600",
+      "w": 250,
+      "h": 250,
+      "alt": "Mustang\u00ae Official Collab - Muscle Black Fury"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/Res_webp_Artboard_3_copy_3.webp?v=1782468670&width=600",
+      "w": 250,
+      "h": 250,
+      "alt": "Tenet Solar Yellow"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0548/8849/7221/files/Res_webp_Rectangle_2_copy.webp",
+      "w": 551,
+      "h": 710,
+      "alt": "Gaming"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0548/8849/7221/files/Rectangle_2_result.webp?v=1783072146",
+      "w": 551,
+      "h": 710,
+      "alt": "Workout"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0548/8849/7221/files/Rectangle_2_copy_2_result.webp?v=1783072147",
+      "w": 551,
+      "h": 710,
+      "alt": "Travel"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0548/8849/7221/files/Rectangle_2_copy_21_result.webp?v=1783072146",
+      "w": 551,
+      "h": 710,
+      "alt": "Audiophile"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/Res_webp_Artboard_3_8ed826f5-e4fe-42ff-bb0c-b4478b383d4f.webp?v=1782723112&width=600",
+      "w": 250,
+      "h": 250,
+      "alt": "Soniq"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/Res_webp_Artboard_20.webp?v=1782475694&width=600",
+      "w": 250,
+      "h": 250,
+      "alt": "Ampvault V20"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/Res_webp_Artboard_1_4d1ba378-9de2-4774-9c2c-04d34adf1083.webp?v=1782723115&width=600",
+      "w": 250,
+      "h": 250,
+      "alt": "Astra"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/Newly_In_Frost.jpg?v=1772538547&width=600",
+      "w": 250,
+      "h": 250,
+      "alt": "Mustang\u00ae Official Collab - Muscle Frost"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/Res_webp_newlyib.webp?v=1782476497&width=600",
+      "w": 250,
+      "h": 250,
+      "alt": "Raven Emerald Green"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/Res_webp_Artboard_1_copy.webp?v=1782723106&width=600",
+      "w": 250,
+      "h": 250,
+      "alt": "Thrux GPS Tracker Smartwatch"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/final_blue_result_new.webp?v=1769608236&width=600",
+      "w": 250,
+      "h": 250,
+      "alt": "Tenet Midnight Blue"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0548/8849/7221/files/01_4054ae26-9321-415a-86f6-58d2b7202398.jpg?v=1766601012&width=50",
+      "w": 50,
+      "h": 62,
+      "alt": "Mustang\u00ae Official Collab - Thunder"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0548/8849/7221/files/k10-Black-1.jpg?v=1768114541&width=50",
+      "w": 50,
+      "h": 62,
+      "alt": "K10"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0548/8849/7221/files/Black-1_d1e50d8f-63c8-4659-bc9e-7bd395828b01.jpg?v=1767815350&width=50",
+      "w": 50,
+      "h": 62,
+      "alt": "Klarity1"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0548/8849/7221/files/Artboard42copy11.png?v=1768116579&width=50",
+      "w": 50,
+      "h": 62,
+      "alt": "Saber"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0548/8849/7221/files/Artboard1_5fca9a06-9cfe-4728-b8ce-ed086673aaad.png?v=1763199577&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Mustang Thunder"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0548/8849/7221/files/Artboard3copy15.png?v=1755934606&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "K10"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0548/8849/7221/files/Artboard_4_copy_2_9915387c-7fd7-4bc3-9605-00e1dcf203b4.png?v=1755934715&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Klarity1"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0548/8849/7221/files/Group13011_0a7321ee-419e-4184-8e4b-f087c73babfd.png?v=1751450096&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Klarity 3"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0548/8849/7221/files/Artboard_3_copy_12.png?v=1755934733&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Klarity 4"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0548/8849/7221/files/Artboard_4_copy_2_9915387c-7fd7-4bc3-9605-00e1dcf203b4.png?v=1755934715&width=300",
+      "w": 300,
+      "h": 0,
+      "alt": "Klarity1"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0548/8849/7221/files/Group13011_0a7321ee-419e-4184-8e4b-f087c73babfd.png?v=1751450096&width=300",
+      "w": 300,
+      "h": 0,
+      "alt": "Klarity 3"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0548/8849/7221/files/Artboard_3_copy_12.png?v=1755934733&width=300",
+      "w": 300,
+      "h": 0,
+      "alt": "Klarity 4"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0548/8849/7221/files/1_111dc56f-9f2c-410e-84c2-6d769f04bbea.jpg?v=1764570244&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Saber"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0548/8849/7221/files/1_e4047a96-e2b6-49a5-be0f-dbddfe22ef85.jpg?v=1764570214&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Saber"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0548/8849/7221/files/1_c46ff785-36cd-4e05-a625-c6732bcf5e45.jpg?v=1764570160&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Saber"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0548/8849/7221/files/1_111dc56f-9f2c-410e-84c2-6d769f04bbea.jpg?v=1764570244&width=300",
+      "w": 300,
+      "h": 0,
+      "alt": "Saber"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0548/8849/7221/files/1_e4047a96-e2b6-49a5-be0f-dbddfe22ef85.jpg?v=1764570214&width=300",
+      "w": 300,
+      "h": 0,
+      "alt": "Saber"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0548/8849/7221/files/1_c46ff785-36cd-4e05-a625-c6732bcf5e45.jpg?v=1764570160&width=300",
+      "w": 300,
+      "h": 0,
+      "alt": "Saber"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/Group_12217_1.png?crop=center&height=800&v=1705916375&width=800",
+      "w": 1280,
+      "h": 475,
+      "alt": "Boult's 1 year Warranty"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/Group_12216_2.png?crop=center&height=800&v=1705936102&width=800",
+      "w": 1280,
+      "h": 473,
+      "alt": "Boult's Quick Delivery"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/Group_12214_1.png?crop=center&height=800&v=1705936135&width=800",
+      "w": 1280,
+      "h": 475,
+      "alt": "Crafted in India"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/Group_12215_1.png?crop=center&height=800&v=1705936154&width=800",
+      "w": 1280,
+      "h": 475,
+      "alt": "100 percent genuine products Boult"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/Group_12142_2.png?v=1705403186&width=120",
+      "w": 1280,
+      "h": 576,
+      "alt": "Paytm Logo"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/Group_12143_1.png?v=1705390330&width=120",
+      "w": 1280,
+      "h": 576,
+      "alt": "Rupay Logo"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/Group_12144_2.png?v=1705390363&width=120",
+      "w": 1280,
+      "h": 576,
+      "alt": "UPI Logo"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/Group_12190.png?v=1705390439&width=120",
+      "w": 1280,
+      "h": 576,
+      "alt": "Google Pay logo"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/Rectangle_18281_eaeb04f3-59fb-447a-95e3-9c60f57cd747.png?v=1705934595&width=120",
+      "w": 1280,
+      "h": 576,
+      "alt": "PhonePe logo"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/Group_12222.png?v=1705934599&width=120",
+      "w": 1280,
+      "h": 576,
+      "alt": "Mastercard logo"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/articles/Ads_9.jpg?v=1781162857",
+      "w": 575,
+      "h": 245,
+      "alt": "GoBoult Bassbox Groove Q12"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/articles/Ads_8_203b122e-af50-46d2-9812-313cfaa63f3a.jpg?v=1781094919",
+      "w": 575,
+      "h": 245,
+      "alt": "GoBoult Mustang Powerbank"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/articles/Ads_7_e98db067-ef70-46c3-a002-022a21f9333f.jpg?v=1781018425",
+      "w": 575,
+      "h": 245,
+      "alt": "GoBoult Mustang AmpVault V20"
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/preview_images/5015fe309f2e4a0bbf4d42efcd6756ff.thumbnail.0000000000_800x.jpg?v=1764767152",
+      "w": 800,
+      "h": 800,
+      "alt": ""
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/preview_images/a5123fa26ffd41fcaee4db0a41285068.thumbnail.0000000000_800x.jpg?v=1764767152",
+      "w": 800,
+      "h": 800,
+      "alt": ""
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/preview_images/1c432534082a4b1fa6c96a920e076768.thumbnail.0000000000_800x.jpg?v=1764767143",
+      "w": 480,
+      "h": 480,
+      "alt": ""
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/preview_images/6aff3b07714e4f68ab8458c693bbeeb2.thumbnail.0000000000_800x.jpg?v=1764767152",
+      "w": 800,
+      "h": 800,
+      "alt": ""
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/preview_images/0750c2fc8b2f4e4a88c9ee2565435b3a.thumbnail.0000000000_800x.jpg?v=1764767151",
+      "w": 800,
+      "h": 800,
+      "alt": ""
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/preview_images/de3b131d2f1b4fc18b54993f0c530f72.thumbnail.0000000000_800x.jpg?v=1764767151",
+      "w": 800,
+      "h": 800,
+      "alt": ""
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/preview_images/dda3add08b9a4a5bb72e630e5c573181.thumbnail.0000000000_800x.jpg?v=1764767151",
+      "w": 800,
+      "h": 800,
+      "alt": ""
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/preview_images/feb363242b4a4a0a931437cfd4abe30e.thumbnail.0000000000_800x.jpg?v=1764767151",
+      "w": 800,
+      "h": 800,
+      "alt": ""
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/Artboard_1_copy_7_332329b1-12d0-4bc2-99a5-a7fb0708241b_90x.png?v=1753712000",
+      "w": 0,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/TWS_copy_90x.png?v=1753884728",
+      "w": 0,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/smartwatches_6f6f713d-698b-4d3c-845b-1c2325eab867_90x.png?v=1753697503",
+      "w": 0,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/headphones_2_90x.png?v=1754025663",
+      "w": 0,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/home_aiudioo_90x.png?v=1753712163",
+      "w": 0,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/speakers_1_90x.png?v=1753712363",
+      "w": 0,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/neckbansd_90x.png?v=1753712204",
+      "w": 0,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/powerbanks_90x.png?v=1753712456",
+      "w": 0,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/dashcams_90x.png?v=1753712244",
+      "w": 0,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://goboult.co.in/cdn/shop/files/Group_12026_33e0ca9e-5c6d-4476-a641-bf511c1658b3_90x.png?v=1706076939",
+      "w": 0,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0548/8849/7221/files/facebook-icon.png?v=1638472503",
+      "w": 67,
+      "h": 66,
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0548/8849/7221/files/instagram-icon.png?v=1638472503",
+      "w": 67,
+      "h": 66,
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0548/8849/7221/files/youtube-icon.png?v=1638472503",
+      "w": 67,
+      "h": 66,
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0548/8849/7221/files/linkedin-icon.png?v=1638472503",
+      "w": 67,
+      "h": 66,
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0576/0178/5918/files/in.png",
+      "w": 250,
+      "h": 167,
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.shopify.com/static/images/flags/bd.svg?width=25",
+      "w": 10240,
+      "h": 7680,
+      "alt": "Bangladesh"
+    },
+    {
+      "src": "https://cdn.shopify.com/static/images/flags/in.svg?width=25",
+      "w": 10240,
+      "h": 7680,
+      "alt": "India"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0576/0178/5918/files/gb.png",
+      "w": 250,
+      "h": 125,
+      "alt": ""
+    },
+    {
+      "src": "https://bat.bing.com/action/0?ti=187009994&Ver=2&mid=789a725c-31d8-4d52-a697-feb5c390702d&bo=1&sid=e0e00d607c4511f1be6a7f3c9ebc5ace&vid=e0e079107c4511f1a6ae9b2272ae5edd&vids=1&msclkid=N&pi=0&lg=en-US&sw=1280&sh=900&sc=24&nwd=1&tl=GoBoult%20%7C%20India%E2%80%99s%20Boldest%20Smart%20Wearable%20Brand&p=https%3A%2F%2Fgoboult.co.in%2F&r=&lt=4355&evt=pageLoad&sv=2&cdb=AQAC&rn=950102",
+      "w": 0,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://bat.bing.com/action/0?ti=97004561&Ver=2&mid=480f7af6-eff9-4ef6-a2a9-235879ff4623&bo=1&sid=e0e00d607c4511f1be6a7f3c9ebc5ace&vid=e0e079107c4511f1a6ae9b2272ae5edd&vids=0&msclkid=N&pi=0&lg=en-US&sw=1280&sh=900&sc=24&nwd=1&tl=GoBoult%20%7C%20India%E2%80%99s%20Boldest%20Smart%20Wearable%20Brand&p=https%3A%2F%2Fgoboult.co.in%2F&r=&lt=4355&evt=pageLoad&sv=2&cdb=AQAC&rn=914110",
+      "w": 0,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://pdp.gokwik.co/assets/icons/gokwik_gif.gif",
+      "w": 70,
+      "h": 70,
+      "alt": "gokwik_loading_gif"
+    }
+  ],
+  "bgImgs": [],
+  "fonts": [
+    {
+      "family": "Assistant",
+      "weight": "400"
+    },
+    {
+      "family": "SF-Pro-Display-Regular",
+      "weight": "normal"
+    },
+    {
+      "family": "SF-Pro-Display-Medium",
+      "weight": "500"
+    },
+    {
+      "family": "SF-Pro-Display-Semibold",
+      "weight": "600"
+    },
+    {
+      "family": "SF-Pro-Display-Bold",
+      "weight": "bold"
+    },
+    {
+      "family": "SF-Pro-Display-Black",
+      "weight": "900"
+    },
+    {
+      "family": "swiper-icons",
+      "weight": "400"
+    },
+    {
+      "family": "JudgemeStar",
+      "weight": "normal"
+    }
+  ],
+  "annBg": "rgba(0, 0, 0, 0)",
+  "annColor": "rgba(18, 18, 18, 0.75)",
+  "annText": "\ud83d\udd25Tenet Pro with 32dB ANC live. Pre-Book Now!",
+  "ogSiteName": "GOBOULT",
+  "social": {
+    "facebook": "https://www.facebook.com/BoultAudio",
+    "instagram": "https://www.instagram.com/boultaudio/",
+    "x.com": "https://x.com/BoultAudio",
+    "youtube": "https://www.youtube.com/channel/UCOCNHH7nJUMmfszksZVWRUQ"
+  },
+  "bodyBg": "rgb(255, 255, 255)",
+  "bodyColor": "rgba(18, 18, 18, 0.75)",
+  "bodyFont": "SF-Pro-Display-Regular"
+}

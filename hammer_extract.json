@@ -1,0 +1,1567 @@
+{
+  "headerBg": "rgb(255, 255, 255)",
+  "logoSrc": "https://hammeronline.in/cdn/shop/files/white_logo_fafb8257-3c2a-483a-8fde-352a63ac57d2.png?v=1690803062&width=280",
+  "logoAlt": "Hammer White logo",
+  "logoSvg": "",
+  "logoLum": 239.24882004089983,
+  "logoOpaque": 0.318359375,
+  "accentCandidates": [
+    "rgb(255, 219, 76)",
+    "rgb(255, 219, 76)",
+    "rgb(130, 148, 96)",
+    "rgb(255, 219, 76)",
+    "rgb(130, 148, 96)",
+    "rgb(130, 148, 96)",
+    "rgb(255, 219, 76)",
+    "rgb(255, 219, 76)",
+    "rgb(130, 148, 96)",
+    "rgb(255, 219, 76)",
+    "rgb(255, 219, 76)",
+    "rgb(255, 219, 76)"
+  ],
+  "ctaBg": "rgb(255, 219, 76)",
+  "ctaColor": "rgb(0, 0, 0)",
+  "ctaRadius": "50px",
+  "images": [
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/1_Blacknew5_50x.webp?v=1691058069",
+      "w": 50,
+      "h": 50,
+      "alt": "Smartwatch"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/HammerActive2.0Plusbluetoothcallingsmartwtach_small.webp?v=1702704266",
+      "w": 100,
+      "h": 100,
+      "alt": "Active 2.0 Plus"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/bluetoothcallingsmartwatch_448b8ab6-eb37-433b-8836-f8b5952651a4_small.webp?v=1701243515",
+      "w": 100,
+      "h": 100,
+      "alt": "Active 3.0"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/smartwatchwithcamera_musiccontrol_39cc96cb-f283-4b75-8249-46e2c2f78562_small.webp?v=1697529328",
+      "w": 100,
+      "h": 100,
+      "alt": "Ultra Classic"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/HammerArcticBluetoothCallingSmartwatch_small.webp?v=1698904546",
+      "w": 100,
+      "h": 100,
+      "alt": "Arctic"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/HammerLuxorBluetoothCallingSmartwatch_small.webp?v=1694839498",
+      "w": 100,
+      "h": 100,
+      "alt": "Luxor"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Bluetooth_calling_smartwatch_440ef5de-99cb-46f7-b3d2-87d647290b70_small.webp?v=1726898153",
+      "w": 100,
+      "h": 100,
+      "alt": "Polar"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/WEBPwine-gold_small.webp?v=1701345718",
+      "w": 100,
+      "h": 100,
+      "alt": "Robust"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Hammerglidebluetoothcallingsmartwatch_1_small.webp?v=1694851875",
+      "w": 100,
+      "h": 100,
+      "alt": "Glide"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/HammerCycloneSmartwatchwithbluetoothcallingfeature_small.webp?v=1701149739",
+      "w": 100,
+      "h": 100,
+      "alt": "Cyclone"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/active_small.webp?v=1694245614",
+      "w": 100,
+      "h": 100,
+      "alt": "Active"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/HammerActive2.0Ultra_small.webp?v=1694850852",
+      "w": 100,
+      "h": 100,
+      "alt": "Active 2.0 Ultra"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/HammerAce3.0_small.webp?v=1694859602",
+      "w": 100,
+      "h": 100,
+      "alt": "Ace 3.0"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Hammer_G_Shots_Bluetooth_Gaming_earbuds_50x.webp?v=1691493385",
+      "w": 50,
+      "h": 50,
+      "alt": "True Wireless Earbuds"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/BestHammerScreenTWSEarbuds_small.webp?v=1713940395",
+      "w": 100,
+      "h": 100,
+      "alt": "Screen TWS"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Untitled-1_9cbe0132-f16e-4161-960a-737f858c8a9c_small.webp?v=1758094548",
+      "w": 100,
+      "h": 100,
+      "alt": "Aura"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/HammerAirflowFlex_small.webp?v=1780034839",
+      "w": 100,
+      "h": 100,
+      "alt": "Airflow Flex"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/hammer_ultrapods_small.webp?v=1758102070",
+      "w": 100,
+      "h": 100,
+      "alt": "Ultra Pods"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/HammerBestTWSEarbuds_9b2a199f-cdd1-41d2-9884-c0fa51110f3c_small.webp?v=1715673856",
+      "w": 100,
+      "h": 100,
+      "alt": "Aero Max"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/HammerAirflowPlusBluetoothEarbuds_small.webp?v=1692357498",
+      "w": 100,
+      "h": 100,
+      "alt": "Airflow Plus"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/1_100f79c7-0347-4416-8277-dbec09de5c0c_small.webp?v=1767160182",
+      "w": 100,
+      "h": 100,
+      "alt": "Airflow Neo"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Artboard1_small.png?v=1769863657",
+      "w": 100,
+      "h": 100,
+      "alt": "Airflow GO"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Arcadetrulywirelessearphones_small.webp?v=1703742741",
+      "w": 100,
+      "h": 100,
+      "alt": "Arcade"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/HammerSolitudeBluetoothEarbuds_small.webp?v=1700478512",
+      "w": 100,
+      "h": 100,
+      "alt": "Solitude"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/HammerBash2.0Headphones_50x.webp?v=1690436990",
+      "w": 50,
+      "h": 50,
+      "alt": "Headphones"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Hammer_Bluetooth_Headphones_329fa3fe-cb02-42fa-8d7d-dcf60a0704bd_small.webp?v=1725877338",
+      "w": 100,
+      "h": 100,
+      "alt": "Bash Pro"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Best_Gaming_Headphones_small.webp?v=1726897555",
+      "w": 100,
+      "h": 100,
+      "alt": "Blaze"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/HammerBluetoothHeadphones_small.webp?v=1695284815",
+      "w": 100,
+      "h": 100,
+      "alt": "Bash Max"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Bash_2.0_Bluetooth_Headphones_small.webp?v=1726899059",
+      "w": 100,
+      "h": 100,
+      "alt": "Bash 2.0"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/bash_small.webp?v=1694255685",
+      "w": 100,
+      "h": 100,
+      "alt": "Bash "
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Untitled-1.jpg_bg_4_small.webp?v=1758188941",
+      "w": 100,
+      "h": 100,
+      "alt": "Vibe"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/1_4e9471a8-196e-4909-800f-bfaaa3658f7e_small.webp?v=1758189427",
+      "w": 100,
+      "h": 100,
+      "alt": "Vivid"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/1st-image_50x.webp?v=1691493674",
+      "w": 50,
+      "h": 50,
+      "alt": "Electric Toothbrush"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/ultraflowblue_small.webp?v=1694417566",
+      "w": 100,
+      "h": 100,
+      "alt": "Ultra Flow"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/electrictoothbrush_small.webp?v=1695636592",
+      "w": 100,
+      "h": 100,
+      "alt": "Ultra Flow 2.0"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/fLOW-2.0-black_small.png?v=1694415683",
+      "w": 100,
+      "h": 100,
+      "alt": "Flow 2.0 "
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/flow-lite-black_small.webp?v=1694416726",
+      "w": 100,
+      "h": 100,
+      "alt": "Flow Lite"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/ultraflow-plus_small.webp?v=1694417395",
+      "w": 100,
+      "h": 100,
+      "alt": "Ultra Flow Plus "
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/smash-wireless-speaker_50x.webp?v=1692281565",
+      "w": 50,
+      "h": 50,
+      "alt": "Speaker"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/hammerdrop_small.webp?v=1758784329",
+      "w": 100,
+      "h": 100,
+      "alt": "Drop"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/hammerboomsoundbar_small.webp?v=1748072061",
+      "w": 100,
+      "h": 100,
+      "alt": "Boom"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Bluetooth_Sound_Bar_small.webp?v=1726899226",
+      "w": 100,
+      "h": 100,
+      "alt": "BeatBox"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Untitled-1_1_small.webp?v=1773024290",
+      "w": 100,
+      "h": 100,
+      "alt": "Drop Go"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Black_small.webp?v=1755520271",
+      "w": 100,
+      "h": 100,
+      "alt": "Wave "
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/sunrise2_small.webp?v=1773298807",
+      "w": 100,
+      "h": 100,
+      "alt": "Drop Sunrise"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/nova_50x.webp?v=1744624679",
+      "w": 50,
+      "h": 50,
+      "alt": "Wired Earphones"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/HammerNovafirst_small.webp?v=1744624679",
+      "w": 100,
+      "h": 100,
+      "alt": "Nova"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Hammer_Nova_2_small.webp?v=1770797146",
+      "w": 100,
+      "h": 100,
+      "alt": "Nova 2"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/3.5MM_Wired_earphone_small.webp?v=1764587960",
+      "w": 100,
+      "h": 100,
+      "alt": "3.5mm Earphone"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/HammerNailWiredEarphones_small.webp?v=1712226455",
+      "w": 100,
+      "h": 100,
+      "alt": "Nail"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/1stImage_Final_small.webp?v=1752316685",
+      "w": 100,
+      "h": 100,
+      "alt": "Type C to 3.5mm OTG"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/hammer-pd-adaptoer-bb_50x.webp?v=1689315660",
+      "w": 50,
+      "h": 59,
+      "alt": "Charging Essentials"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/1st_Image_1_copy_small.webp?v=1758188023",
+      "w": 100,
+      "h": 100,
+      "alt": "Power Strip"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Fast_C_type_Charger_small.webp?v=1726921833",
+      "w": 100,
+      "h": 100,
+      "alt": "45W GaN Charger"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/GaNCharger_20f45e0c-21dd-425a-b31a-1a6b51fd17e3_small.webp?v=1719484130",
+      "w": 100,
+      "h": 100,
+      "alt": "65W GaN Charger"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/dsds1_1_small.webp?v=1758112979",
+      "w": 100,
+      "h": 100,
+      "alt": "36W GaN Charger"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/PortablePowerBank_small.webp?v=1710228893",
+      "w": 100,
+      "h": 100,
+      "alt": "Ultra Charge"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/HammerUltraChargePowerbank20k_small.webp?v=1746605976",
+      "w": 100,
+      "h": 100,
+      "alt": "Ultra Charge 20K"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Untitled-3_small.webp?v=1755172197",
+      "w": 100,
+      "h": 100,
+      "alt": "Ultra Charge MagSafe"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/100W_Fast_Charging_Cabel_small.webp?v=1726897365",
+      "w": 100,
+      "h": 100,
+      "alt": "100W Type C to C"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Cable_65_small.webp?v=1726548585",
+      "w": 100,
+      "h": 100,
+      "alt": "65W Type C to C"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/bestusbtoCcable100W_72f4eabe-b0c4-41f0-89ea-f8b71e7c3912_small.webp?v=1740382831",
+      "w": 100,
+      "h": 100,
+      "alt": "100W A to C"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Hammer_type_c_to_lightning_cable_for_all_apple_devices_small.webp?v=1742205246",
+      "w": 100,
+      "h": 100,
+      "alt": "27W C to L "
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Hammer_60W_Silicone_Cable_small.webp?v=1764588716",
+      "w": 100,
+      "h": 100,
+      "alt": "60W CTC Silicone"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Hammer60wCable_3_small.webp?v=1747653910",
+      "w": 100,
+      "h": 100,
+      "alt": "60W C to C"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Artboard_2_1_small.webp?v=1778482953",
+      "w": 100,
+      "h": 98,
+      "alt": "PD 20W Type C"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/HammerCharger_small.webp?v=1748071893",
+      "w": 100,
+      "h": 100,
+      "alt": "15W Dual USB"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/1st_Image_Final_small.png?v=1751646501",
+      "w": 100,
+      "h": 100,
+      "alt": "Type C - USB 3.0 OTG"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/1stimage_Final_small.png?v=1751632965",
+      "w": 100,
+      "h": 100,
+      "alt": "USB 3.0  - Type C OTG"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Twist-Neckband_50x.webp?v=1689417849",
+      "w": 50,
+      "h": 50,
+      "alt": "Neckbands"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/BluetoothNeckbands_small.webp?v=1712578539",
+      "w": 100,
+      "h": 100,
+      "alt": "Splendor"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/1_8a7fc0fc-a2b9-4763-8bf6-c597426184f9_small.webp?v=1775478891",
+      "w": 100,
+      "h": 100,
+      "alt": "Splendor 2"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/HammerTwistBluetoothNecknband_small.jpg?v=1686136320",
+      "w": 100,
+      "h": 100,
+      "alt": "Twist"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/HammerBluetoothneckband_889b7aab-2fdc-465e-88dd-1ba96b08ff01_small.jpg?v=1701850526",
+      "w": 100,
+      "h": 100,
+      "alt": "Sting 3.0"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Hammer_Active_2.0_Bluetooth_Calling_msartwatch_50x.webp?v=1691049644",
+      "w": 50,
+      "h": 59,
+      "alt": "Combo"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/BestHeadphonesCombo_small.webp?v=1716899896",
+      "w": 100,
+      "h": 100,
+      "alt": "Bash Max + Ace 2.0"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/BestBlueSmartwatch_small.webp?v=1716896330",
+      "w": 100,
+      "h": 100,
+      "alt": "Active 2.0 + Mini Pods"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/BestANCCombo_small.webp?v=1716898823",
+      "w": 100,
+      "h": 100,
+      "alt": "AeroMax + Ace 2.0"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/SmartwatchesCombos_small.webp?v=1716900062",
+      "w": 100,
+      "h": 100,
+      "alt": "Conquer + Stellar"
+    },
+    {
+      "src": "https://fastrr-boost-ui.pickrr.com/assets/images/boost_button/upi_options.svg",
+      "w": 42,
+      "h": 17,
+      "alt": "Google Pay | Phone Pay | UPI"
+    },
+    {
+      "src": "https://fastrr-boost-ui.pickrr.com/assets/images/boost_button/right_arrow.svg",
+      "w": 7,
+      "h": 12,
+      "alt": "right_arrow"
+    },
+    {
+      "src": "https://fastrr-boost-ui.pickrr.com/assets/images/boost_button/powered_by.svg",
+      "w": 82,
+      "h": 9,
+      "alt": ""
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/hAMMER_lOGO_GOOOGLE.png?v=1641298293&width=280",
+      "w": 140,
+      "h": 58,
+      "alt": "Hammer Lifestyle - Smartwatches, TWS"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/hAMMER_lOGO_GOOOGLE.png?v=1641298293&width=220",
+      "w": 110,
+      "h": 45,
+      "alt": "Hammer Lifestyle - Smartwatches, TWS"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/white_logo_fafb8257-3c2a-483a-8fde-352a63ac57d2.png?v=1690803062&width=280",
+      "w": 140,
+      "h": 24,
+      "alt": "Hammer White logo"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/white_logo_fafb8257-3c2a-483a-8fde-352a63ac57d2.png?v=1690803062&width=220",
+      "w": 110,
+      "h": 19,
+      "alt": "Hammer White logo"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/HammerActive2.0Plusbluetoothcallingsmartwtach.webp?v=1702704266&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Hammer Active 2.0 Plus bluetooth calling watch"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/bluetoothcallingsmartwatch_448b8ab6-eb37-433b-8836-f8b5952651a4.webp?v=1701243515&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "round dial smartwatch"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/smartwatchwithcamera_musiccontrol_39cc96cb-f283-4b75-8249-46e2c2f78562.webp?v=1697529328&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Best Bluetooth Smart watch"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/HammerArcticBluetoothCallingSmartwatch.webp?v=1698904546&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "bt calling smartwatch"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/HammerLuxorBluetoothCallingSmartwatch.webp?v=1694839498&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "calling watch"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Bluetooth_calling_smartwatch_440ef5de-99cb-46f7-b3d2-87d647290b70.webp?v=1726898153&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Bluetooth calling watch"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/WEBPwine-gold.webp?v=1701345718&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "best calling smartwatch"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Hammerglidebluetoothcallingsmartwatch_1.webp?v=1694851875&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Hammer Glide Bluetooth Calling Smartwatch"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/HammerCycloneSmartwatchwithbluetoothcallingfeature.webp?v=1701149739&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "bluetooth calling smart watch in india"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/active.webp?v=1694245614&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Hammer active round shaped bluetooth calling smartwatch"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/HammerActive2.0Ultra.webp?v=1694850852&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Bluetooth Calling Smartwatch"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/HammerAce3.0.webp?v=1694859602&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Bluetooth Calling Smartwatch"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/BestHammerScreenTWSEarbuds.webp?v=1713940395&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Best Hammer Screen Tws Earbuds"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Untitled-1_9cbe0132-f16e-4161-960a-737f858c8a9c.webp?v=1758094548&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Hammer Aura Wireless Ear Buds with 32dB ANC, 4-Mic ENC,50H Playtime"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/HammerAirflowFlex.webp?v=1780034839&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Blue wireless earbuds with charging case on a white background, featuring the 'HAMMER' brand."
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/hammer_ultrapods.webp?v=1758102070&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Blue wireless earbuds in a charging case"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/HammerBestTWSEarbuds_9b2a199f-cdd1-41d2-9884-c0fa51110f3c.webp?v=1715673856&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Hammer Best TWS Earbuds"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/HammerAirflowPlusBluetoothEarbuds.webp?v=1692357498&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Hammer Airflow plus Bluetooth Earbuds"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/1_100f79c7-0347-4416-8277-dbec09de5c0c.webp?v=1767160182&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Hammer Airflow Neo TWS - 80H Playtime, 13mm Titanium Driver, ENC with 2 MEMS Mics"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Artboard1.png?v=1769863657&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "HAMMER Airflow Go Earbuds with 80H Playtime, 13mm Titanium Driver, 40ms Gaming Mode (Grey)"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Arcadetrulywirelessearphones.webp?v=1703742741&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Hammer Arcade Truly Wireless Bluetooth Gaming Earbuds"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/HammerSolitudeBluetoothEarbuds.webp?v=1700478512&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Hammer Solitude Bluetooth Earbuds"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Hammer_Bluetooth_Headphones_329fa3fe-cb02-42fa-8d7d-dcf60a0704bd.webp?v=1725877338&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Hammer Wireless Bluetooth Headphones"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Best_Gaming_Headphones.webp?v=1726897555&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Best Gaming Headphones"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/HammerBluetoothHeadphones.webp?v=1695284815&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "sports wireless earphones"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Bash_2.0_Bluetooth_Headphones.webp?v=1726899059&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Hammer Bash 2.0 Best Bluetooth Headphones"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/bash.webp?v=1694255685&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Wireless Bluetooth Earbuds"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Untitled-1.jpg_bg_4.webp?v=1758188941&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Hammer Vibe ENC Bluetooth Gaming Headphone Long Play Time"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/1_4e9471a8-196e-4909-800f-bfaaa3658f7e.webp?v=1758189427&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Hammer Bash Vivid ANC Wireless Bluetooth Over-Ear Headphones with 23 dB 70h Playtime, Type-C Fast Charging, Foldable Black"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/ultraflowblue.webp?v=1694417566&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Hammer Electric toothbrush"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/electrictoothbrush.webp?v=1695636592&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Hammer Flow 2.0 Electric Toothbrush"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/fLOW-2.0-black.png?v=1694415683&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Hammer flow 2.0 electric toothbrush"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/flow-lite-black.webp?v=1694416726&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "electronic toothbrush"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/ultraflow-plus.webp?v=1694417395&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Hammer Ultra Flow Plus Electric toothbrush"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/hammerdrop.webp?v=1758784329&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Hammer Drop 5W Bluetooth Wireless Speaker with Twin Pairing"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/hammerboomsoundbar.webp?v=1748072061&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Hammer Boom 30W Bluetooth Speaker with RGB Lights and Dual Passive Radiators"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Bluetooth_Sound_Bar.webp?v=1726899226&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Bluetooth Soundbar"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Untitled-1_1.webp?v=1773024290&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "HAMMER Drop Go Portable Bluetooth Speaker | 5W RMS Output | Up to 32H Playtime | Beige"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Black.webp?v=1755520271&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Hammer Wave 10W Bluetooth Speaker Upto 8 Hours Playtime, USB Port, Type-C with Hanging Loop"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/sunrise2.webp?v=1773298807&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "HAMMER Drop Sunrise 5W Portable Speaker with Bluetooth 6.0 & Up to 32H Playtime Beige"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/HammerNovafirst.webp?v=1744624679&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Hammer Nova Universal Type-C Earphones with Metallic Built Earbuds, Powerful Bass & Lightweight"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Hammer_Nova_2.webp?v=1770797146&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Hammer Nova 2 wired Earphones"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/3.5MM_Wired_earphone.webp?v=1764587960&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Hammer 3.5mm wired earphone"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/HammerNailWiredEarphones.webp?v=1712226455&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Hammer Nail Wired Earphones"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/1stImage_Final.webp?v=1752316685&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "HAMMER Type-C to 3.5mm Audio Jack Connector Adapter with DAC Compatible with Type C Devices (Black)"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/1st_Image_1_copy.webp?v=1758188023&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "HAMMER Power Strip with 3 Universal Sockets with Child Security, 2 USB Ports and 2 Type C 20w PD, Mobile Holder, 2300W with 1.5 Meter Cable White"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Fast_C_type_Charger.webp?v=1726921833&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Hammer Gan Charger 45W Dual USB-C (Type C) Fast Charger"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/GaNCharger_20f45e0c-21dd-425a-b31a-1a6b51fd17e3.webp?v=1719484130&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "GaN Chargers"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/dsds1_1.webp?v=1758112979&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Hammer 36W Fast GaN Charger, Dual USB-C, Compatible with iPhone, Samsung Mobiles & Laptop, With C to C Cable (Black)"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/PortablePowerBank.webp?v=1710228893&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Hammer Portable Power Bank"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/HammerUltraChargePowerbank20k.webp?v=1746605976&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Hammer Ultra Charge 20k mAh 22.5W Power Bank with 3 Output, 2 Input Ports and Multiple Layers of Protection"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Untitled-3.webp?v=1755172197&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Hammer Ultra ChargeZ30 MagSafe 22.5W 10000 mAh Power Bank (Black)"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/100W_Fast_Charging_Cabel.webp?v=1726897365&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "100W Fast Charging Cabel"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Cable_65.webp?v=1726548585&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "hammer 65 watt cable"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/bestusbtoCcable100W_72f4eabe-b0c4-41f0-89ea-f8b71e7c3912.webp?v=1740382831&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "HAMMER 100W USB Type C Data Sync Fast Charging Cable for OnePlus Smartphones And Compatible With All Type C Devices"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Hammer_type_c_to_lightning_cable_for_all_apple_devices.webp?v=1742205246&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Hammer 27W Fast Charging Type-C to Lightning Cable with 8 pins, pure copper for all Apple Devices(Inc iPad)"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Hammer_60W_Silicone_Cable.webp?v=1764588716&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "60W Silicone Type C to Type C Cable "
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Hammer60wCable_3.webp?v=1747653910&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Hammer 60W Type C to C PD Fast Charging Braided 1.2 Meter Cable, Compatible with all C-Type Enabled Devices"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Artboard_2_1.webp?v=1778482953&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Hammer PD 20W Type C Travel Adapter with Fast Charging"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/HammerCharger.webp?v=1748071893&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Hammer 15W Charger"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/1st_Image_Final.png?v=1751646501&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "HAMMER USB Type C Female to USB Male OTG Adapter with 5 Gbps High-Speed Data Transfer (Grey)"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/1stimage_Final.png?v=1751632965&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "HAMMER USB 3.0 to Type C OTG Adaptor, High Speed Data Transfer, Compatible for All Type C Devices ,USB HUB (Black)"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/BluetoothNeckbands.webp?v=1712578539&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Bluetooth Neckband"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/1_8a7fc0fc-a2b9-4763-8bf6-c597426184f9.webp?v=1775478891&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "HAMMER Splendor 2 Bluetooth Neckband V6.0 & ENC with 50H Playtime (Black)"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/HammerTwistBluetoothNecknband.jpg?v=1686136320&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Hammer Twist In- Ear Bluetooth Neckband "
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/HammerBluetoothneckband_889b7aab-2fdc-465e-88dd-1ba96b08ff01.jpg?v=1701850526&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "hammer sting 3 in-ear wireless bluetooth neckband "
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/BestHeadphonesCombo.webp?v=1716899896&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Hammer Best Bluetooth Headphones & Smartwatches"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/BestBlueSmartwatch.webp?v=1716896330&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Bluetooth calling smartwatches combos "
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/BestANCCombo.webp?v=1716898823&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Best ANC Earbuds Combo"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/SmartwatchesCombos.webp?v=1716900062&width=100",
+      "w": 100,
+      "h": 0,
+      "alt": "Earbuds and Watches Combos"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/hammer_magsafe.webp?v=1758202170&width=1920",
+      "w": 960,
+      "h": 400,
+      "alt": ""
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/hammer_magsafe_power.webp?v=1758202173&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/hammer_wave_speaker_new.webp?v=1758202964&width=1920",
+      "w": 960,
+      "h": 400,
+      "alt": ""
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/wave_n.webp?v=1758202961&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/hammer_tws_banner.jpg?v=1756384856&width=1920",
+      "w": 960,
+      "h": 400,
+      "alt": "hammer tws banner"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/active_2_plus.webp?v=1756445663&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "hammer sceeen tws"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/boom.webp?v=1758200723&width=1920",
+      "w": 960,
+      "h": 400,
+      "alt": ""
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/BOOM_BANNER_Hammer.webp?v=1758200873&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Hammer_best_bluetooth_headphones_cee245c5-1f89-4f52-85e0-8ee1785383be.webp?v=1726300542&width=1920",
+      "w": 960,
+      "h": 400,
+      "alt": "Hammer Best Bluetooth Headphones"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Bash_Pro_ANC_Bluetooth_Headphones.webp?v=1724838958&width=1200",
+      "w": 1200,
+      "h": 0,
+      "alt": "Hammer ANC Bluetooth Headphones"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/1_100f79c7-0347-4416-8277-dbec09de5c0c.webp?v=1767160182&width=1080",
+      "w": 499,
+      "h": 499,
+      "alt": ""
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/GaNCharger_20f45e0c-21dd-425a-b31a-1a6b51fd17e3.webp?v=1719484130&width=1080",
+      "w": 499,
+      "h": 499,
+      "alt": "GaN Chargers"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/BestHammerScreenTWSEarbuds.webp?v=1713940395&width=1080",
+      "w": 499,
+      "h": 499,
+      "alt": "Best Hammer Screen Tws Earbuds"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/1_4e9471a8-196e-4909-800f-bfaaa3658f7e.webp?v=1758189427&width=1080",
+      "w": 499,
+      "h": 499,
+      "alt": ""
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/hammer_ultrapods.webp?v=1758102070&width=1080",
+      "w": 499,
+      "h": 499,
+      "alt": "Blue wireless earbuds in a charging case"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/hammerdrop.webp?v=1758784329&width=1080",
+      "w": 499,
+      "h": 499,
+      "alt": ""
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Black.webp?v=1755520271&width=1080",
+      "w": 499,
+      "h": 499,
+      "alt": ""
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Untitled-1_9cbe0132-f16e-4161-960a-737f858c8a9c.webp?v=1758094548&width=1080",
+      "w": 499,
+      "h": 499,
+      "alt": ""
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Aura.jpg?v=1758172897&width=1920",
+      "w": 1000,
+      "h": 1000,
+      "alt": ""
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/aura_TWS.jpg?v=1758172901&width=352",
+      "w": 352,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/boom_Wireless_speaker.webp?v=1758173488&width=1920",
+      "w": 1000,
+      "h": 1000,
+      "alt": ""
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/boom_Wireless_speaker_30w.webp?v=1758173517&width=352",
+      "w": 352,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/36w_charger.webp?v=1758175276&width=1920",
+      "w": 1000,
+      "h": 1000,
+      "alt": "36W Gan charger"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/36w_gan_charger.webp?v=1758175277&width=352",
+      "w": 352,
+      "h": 0,
+      "alt": "36Watt Charger with advanced PD technology "
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/hammer_vibe_anc_headphones.webp?v=1758176220&width=1920",
+      "w": 1000,
+      "h": 1000,
+      "alt": "hammer bash vivid anc headphones"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/hammer_vibe_anc_headphones_s.webp?v=1758176413&width=352",
+      "w": 352,
+      "h": 0,
+      "alt": "anc headphones upto 23db"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/magsafe_powerbank.webp?v=1758175622&width=1920",
+      "w": 1280,
+      "h": 1280,
+      "alt": ""
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/magsafe_wireless_powerbank.webp?v=1758175625&width=352",
+      "w": 352,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Hammer-ultraflow.webp?v=1689314697&width=1920",
+      "w": 456,
+      "h": 456,
+      "alt": "Hammer-ultraflow-electric-toothbrush"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Hammer-ultraflow-toothbrush-bm.webp?v=1689314784&width=352",
+      "w": 352,
+      "h": 0,
+      "alt": "Hammer Electric Toothbrush"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/screen_tws.webp?v=1758178053&width=1920",
+      "w": 1280,
+      "h": 1280,
+      "alt": ""
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/hammer_screen_tws_74593ed0-cb41-4c18-bcc6-a29d47a71ac8.webp?v=1758178053&width=352",
+      "w": 352,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/hammer-bash-headphone.webp?v=1689314697&width=1920",
+      "w": 440,
+      "h": 440,
+      "alt": "Hammer best headphones"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Hammer-bash-2-headphone-bm.webp?v=1689314785&width=352",
+      "w": 352,
+      "h": 0,
+      "alt": "Hammer bash 2 bluetooth headphone"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/hammer_active_2_plus.webp?v=1758178392&width=1920",
+      "w": 1000,
+      "h": 1000,
+      "alt": ""
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/hammer_active_2_plus_watch.webp?v=1758178398&width=352",
+      "w": 352,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/hammer_beatbox_soundbar_e86b33e4-39e0-4ae2-84d8-5d74199730d2.webp?v=1758178722&width=1920",
+      "w": 1280,
+      "h": 1280,
+      "alt": "Soundbar with RGB lighting effects "
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/hammer_beatbox_soundbar_24w.webp?v=1758178724&width=352",
+      "w": 352,
+      "h": 0,
+      "alt": "hammer beatbox soundbar"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/hammer_drop_speaker_5W_new.webp?v=1758181005&width=1920",
+      "w": 1280,
+      "h": 1280,
+      "alt": ""
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/hammer_drop_speaker.webp?v=1758181007&width=352",
+      "w": 352,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/hammer_splendor_neckband.webp?v=1758181316&width=1920",
+      "w": 1920,
+      "h": 264,
+      "alt": ""
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/hammer_splendor_neckband_nw.webp?v=1758181338&width=352",
+      "w": 352,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Hammer_PD_Adaptor.webp?v=1689315642&width=1920",
+      "w": 1920,
+      "h": 264,
+      "alt": "Hammer PD Fast Charging Adaptor"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/hammer-pd-adaptoer-bb.webp?v=1689315660&width=352",
+      "w": 352,
+      "h": 0,
+      "alt": "Hammer Fast Charging Charger"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Hammer_flow_lite.webp?v=1689315641&width=1920",
+      "w": 1920,
+      "h": 264,
+      "alt": "hammer Toothbrush"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/hammer-flow-lite-toothbrush-bb.webp?v=1689315659&width=352",
+      "w": 352,
+      "h": 0,
+      "alt": "hammer smart Electric ToothBrush"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Hammer_Flow_2.webp?v=1689315642&width=1920",
+      "w": 1920,
+      "h": 264,
+      "alt": "Hammer Flow 2 Toothbrush"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/hammer-flow-2-toothbrush-bb.webp?v=1689315659&width=352",
+      "w": 352,
+      "h": 0,
+      "alt": "Hammer Flow 2.0 Electric Toothbrush"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/HammerActive2.0Plusbluetoothcallingsmartwtach.webp?v=1702704266&width=1080",
+      "w": 499,
+      "h": 499,
+      "alt": "Hammer Active 2.0 Plus bluetooth calling watch"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/HammerCycloneSmartwatchwithbluetoothcallingfeature.webp?v=1701149739&width=1080",
+      "w": 499,
+      "h": 499,
+      "alt": "bluetooth calling smart watch in india"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Untitled-1_1.webp?v=1773024290&width=1080",
+      "w": 499,
+      "h": 499,
+      "alt": ""
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/HammerBluetoothHeadphones.webp?v=1695284815&width=1080",
+      "w": 499,
+      "h": 499,
+      "alt": "sports wireless earphones"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/HammerBestTWSEarbuds_9b2a199f-cdd1-41d2-9884-c0fa51110f3c.webp?v=1715673856&width=1080",
+      "w": 499,
+      "h": 499,
+      "alt": "Hammer Best TWS Earbuds"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/sunrise2.webp?v=1773298807&width=1080",
+      "w": 499,
+      "h": 499,
+      "alt": ""
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/BluetoothNeckbands.webp?v=1712578539&width=1080",
+      "w": 499,
+      "h": 499,
+      "alt": "Bluetooth Neckband"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/hammer_active_2_plus_new.webp?v=1758201883&width=1920",
+      "w": 1280,
+      "h": 706,
+      "alt": ""
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/active_2_plus_watch_nw.webp?v=1758201885&width=352",
+      "w": 352,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/hammer_bash_pro.webp?v=1758191620&width=1920",
+      "w": 1280,
+      "h": 706,
+      "alt": ""
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/hammer_best_anc_headphones.webp?v=1758191618&width=352",
+      "w": 352,
+      "h": 0,
+      "alt": ""
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/hammer_aero_max.webp?v=1758191890&width=1920",
+      "w": 1280,
+      "h": 706,
+      "alt": "best bluetooth earbuds"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/hammer_aero_max_tws.webp?v=1758191887&width=352",
+      "w": 352,
+      "h": 0,
+      "alt": "best wireless earbuds"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/best_tootbrush.webp?v=1701930907&width=1920",
+      "w": 1920,
+      "h": 0,
+      "alt": "Smart Electric Toothbrush"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Hammer_Electric_Toothbrush_2.webp?v=1701930907&width=352",
+      "w": 352,
+      "h": 0,
+      "alt": "Hammer Electric Toothbrushes"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/t/59/assets/plus-icon.png?v=28554644070930708431719315108",
+      "w": 24,
+      "h": 24,
+      "alt": "Plus"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/t/59/assets/slider-arrow.png?v=68248083749647047571719315108",
+      "w": 11,
+      "h": 19,
+      "alt": "Left"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/best_calling_smartwatch.webp?v=1690871945&width=1920",
+      "w": 1280,
+      "h": 263,
+      "alt": "Super Amoled Display Watch"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Hammer_Amoled_Smartwatch.webp?v=1690871945&width=1920",
+      "w": 1280,
+      "h": 263,
+      "alt": "Hammer Amoled Display Watch"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/AMAZon.webp?v=1690871270&width=720",
+      "w": 150,
+      "h": 75,
+      "alt": "HammerxAmazon"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Flipkart.webp?v=1690871269&width=720",
+      "w": 150,
+      "h": 75,
+      "alt": "HammerxFlipkart"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Myntra.webp?v=1690871270&width=720",
+      "w": 150,
+      "h": 75,
+      "alt": "HammerxMyntra"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Reliance_Digital.webp?v=1690871269&width=720",
+      "w": 150,
+      "h": 75,
+      "alt": "HammerxReliance Digital"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Tata_Cliq.webp?v=1690871268&width=720",
+      "w": 150,
+      "h": 75,
+      "alt": "HammerxTata Cliq"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/CRED.webp?v=1690871270&width=720",
+      "w": 150,
+      "h": 75,
+      "alt": "HammerxCred"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/NYKAA.webp?v=1690871270&width=720",
+      "w": 150,
+      "h": 75,
+      "alt": "HammerxNykaa"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Croma.webp?v=1690871269&width=720",
+      "w": 150,
+      "h": 75,
+      "alt": "HammerxCroma"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/BLINKIT.webp?v=1690871270&width=720",
+      "w": 150,
+      "h": 75,
+      "alt": "HammerxBlinkit"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/articles/The_Chain-Strap_Smartwatch_Look_That_s_Trending_in_2025_post.png?v=1753137258&width=1080",
+      "w": 422,
+      "h": 422,
+      "alt": "Chain-Strap Smartwatch Look That\u2019s Trending in 2025"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/articles/powerbank.png?v=1753137577&width=1080",
+      "w": 422,
+      "h": 422,
+      "alt": "Power Bank Buying Guide 2025: What You Must Know"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/articles/smart_watch_post.png?v=1753139017&width=1080",
+      "w": 422,
+      "h": 422,
+      "alt": "From Fitness to Fashion: Why Women Are Choosing Smart Digital Watches"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/articles/toothbrush_2_post.png?v=1753139223&width=1080",
+      "w": 422,
+      "h": 422,
+      "alt": "Top Features That Make Electric Toothbrushes Smarter Than Ever in 2025"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/articles/post_hammer_speaker_1080-1080.png?v=1753139467&width=1080",
+      "w": 422,
+      "h": 422,
+      "alt": "5 Speaker Features You Didn\u2019t Know You Needed: A Game-Changer for Audio Lovers"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Your_Story.webp?v=1690871628&width=720",
+      "w": 150,
+      "h": 75,
+      "alt": "HammerxYour Story"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/INC42.webp?v=1690871628&width=720",
+      "w": 150,
+      "h": 75,
+      "alt": "HammerxINC42"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Times_OF_India.webp?v=1690871628&width=720",
+      "w": 150,
+      "h": 75,
+      "alt": "HammerxTimes of India"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/univarta.webp?v=1690871628&width=720",
+      "w": 150,
+      "h": 75,
+      "alt": "Hammer X UNI"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/ANI.webp?v=1690871627&width=720",
+      "w": 150,
+      "h": 75,
+      "alt": "Hammer X ANI"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/adgully.webp?v=1690871627&width=720",
+      "w": 150,
+      "h": 75,
+      "alt": "Hammer X Adgully"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/DAINIK_JAGRAN.webp?v=1690871628&width=720",
+      "w": 150,
+      "h": 75,
+      "alt": "Hammer X Danik Jagran"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Gadgets_Now.webp?v=1690871627&width=720",
+      "w": 150,
+      "h": 75,
+      "alt": "Hammer X Gadgets Now"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Hindustan_Times.webp?v=1690871628&width=720",
+      "w": 150,
+      "h": 75,
+      "alt": "Hammer X Hindustan Times"
+    },
+    {
+      "src": "https://hammeronline.in/cdn/shop/files/Financial_Express.webp?v=1690871627&width=720",
+      "w": 150,
+      "h": 75,
+      "alt": "Hammer X Financial Express"
+    },
+    {
+      "src": "https://pdp.gokwik.co/assets/icons/gokwik_gif.gif",
+      "w": 70,
+      "h": 70,
+      "alt": "gokwik_loading_gif"
+    },
+    {
+      "src": "https://assets-cdn.fealtyx.com/logos/gift-card-icon.svg",
+      "w": 128,
+      "h": 128,
+      "alt": "Floating Icon"
+    },
+    {
+      "src": "https://assets-cdn.fealtyx.com/logos/image_kuendGx5.png",
+      "w": 1000,
+      "h": 318,
+      "alt": "Hammer Logo"
+    },
+    {
+      "src": "https://assets-cdn.useunloq.com/shopify_app/gift_cards_wide.webp",
+      "w": 1456,
+      "h": 512,
+      "alt": ""
+    },
+    {
+      "src": "https://assets-cdn.useunloq.com/logos/unloq-logo-grey.svg",
+      "w": 0,
+      "h": 0,
+      "alt": "Unloq"
+    }
+  ],
+  "bgImgs": [],
+  "fonts": [
+    {
+      "family": "Poppins",
+      "weight": "600"
+    },
+    {
+      "family": "swiper-icons",
+      "weight": "400"
+    },
+    {
+      "family": "JudgemeStar",
+      "weight": "normal"
+    }
+  ],
+  "annBg": "rgb(15, 15, 15)",
+  "annColor": "rgb(255, 255, 255)",
+  "annText": "Pause slideshow",
+  "ogSiteName": "Hammer",
+  "social": {
+    "instagram": "https://www.instagram.com/hammerlifestyle_/",
+    "facebook": "https://www.facebook.com/HammerLifestyle",
+    "youtube": "https://www.youtube.com/channel/UC_mxCd3tf3VshVQiSuALgGQ/videos?view_as=subscriber",
+    "twitter": "https://twitter.com/HammerLifestyle"
+  },
+  "bodyBg": "rgb(255, 255, 255)",
+  "bodyColor": "rgb(0, 0, 0)",
+  "bodyFont": "Poppins, sans-serif"
+}

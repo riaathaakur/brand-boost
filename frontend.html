@@ -1,0 +1,713 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Brand Boost — tracking page studio</title>
+<style>
+:root{
+  --bg:#0c0e11; --panel:#13161b; --panel-2:#191d24; --line:#252b35;
+  --text:#e8eaf0; --dim:#8b93a3; --faint:#565e6e;
+  --accent:#7c5cff; --accent-2:#c6f24e; --danger:#ff5b5b;
+  --mono:ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--text);min-height:100vh;
+  font-family:system-ui,-apple-system,'Segoe UI',sans-serif}
+.wrap{max-width:1200px;margin:0 auto;padding:28px 24px 60px}
+
+header{display:flex;align-items:baseline;gap:14px;margin-bottom:34px}
+.mark{font-size:15px;font-weight:900;letter-spacing:.22em}
+.mark b{color:var(--accent-2)}
+.tag{font-family:var(--mono);font-size:11px;color:var(--faint)}
+
+.grid{display:grid;grid-template-columns:minmax(340px,1fr) minmax(320px,470px);
+  gap:24px;align-items:start}
+/* Figma-style triptych: a slim Layers list and a wider Properties inspector
+   flank the phone preview, so an element's controls always sit next to
+   whichever side the seller is looking at. */
+.grid.edit{grid-template-columns:340px 210px minmax(300px,1fr) 300px}
+.wrap.wide{max-width:1620px}
+@media(max-width:1500px){.grid.edit{grid-template-columns:230px minmax(280px,1fr) 300px}
+  .grid.edit .left-col{display:none}}
+@media(max-width:1100px){.grid.edit{grid-template-columns:1fr 1fr}
+  .phone-col{grid-column:1/-1}}
+@media(max-width:900px){.grid,.grid.edit{grid-template-columns:1fr}}
+
+/* ---- customize side panel ---- */
+.editor{display:none;background:var(--panel);border:1px solid var(--line);
+  border-radius:14px;overflow:hidden;position:sticky;top:28px}
+.editor.on{display:block}
+.ed-head{display:flex;justify-content:space-between;align-items:center;
+  padding:14px 16px;border-bottom:1px solid var(--line)}
+.ed-title{font-size:13px;font-weight:900;letter-spacing:.14em}
+.ed-title b{color:var(--accent-2)}
+.ed-reset{font-family:var(--mono);font-size:10px;color:var(--dim);background:none;
+  border:1px solid var(--line);border-radius:7px;padding:5px 10px;cursor:pointer}
+.ed-reset:hover{color:var(--danger);border-color:var(--danger)}
+.ed-body{padding:14px 16px;display:grid;gap:18px;max-height:66vh;overflow-y:auto}
+.ed-k{font-family:var(--mono);font-size:10px;color:var(--faint);
+  text-transform:uppercase;letter-spacing:.12em;margin-bottom:8px}
+.sec-row{display:flex;align-items:center;gap:7px;padding:7px 9px;
+  border:1px solid var(--line);border-radius:8px;margin-bottom:6px;
+  background:var(--panel-2);cursor:pointer;transition:border-color .12s}
+.sec-row:hover{border-color:var(--dim)}
+.sec-row.sel{border-color:var(--accent);background:rgba(124,92,255,.14)}
+.theme-row{margin-bottom:10px}
+.sec-name{flex:1;font-size:11.5px;font-weight:600;white-space:nowrap;
+  overflow:hidden;text-overflow:ellipsis}
+.fld-input{width:100%;background:var(--panel-2);border:1px solid var(--line);
+  color:var(--text);border-radius:8px;padding:8px 10px;font-size:12px}
+.fld-select{width:100%;background:var(--panel-2);color:var(--text);
+  border:1px solid var(--line);border-radius:8px;padding:8px;font-size:12px}
+.hint{font-family:var(--mono);font-size:11px;color:var(--faint);line-height:1.6}
+.sec-btn{background:none;border:none;color:var(--faint);cursor:pointer;
+  font-size:12px;padding:2px 4px;line-height:1}
+.sec-btn:hover{color:var(--text)}
+.sec-btn.del:hover{color:var(--danger)}
+.ed-addrow{display:flex;gap:6px;margin-top:4px}
+.ed-addrow select{flex:1;background:var(--panel-2);color:var(--text);
+  border:1px solid var(--line);border-radius:8px;padding:7px 8px;font-size:11px}
+.ed-addrow button,.ed-banner-btn{background:none;border:1px solid var(--line);
+  color:var(--dim);border-radius:8px;padding:7px 12px;font-size:11px;
+  font-weight:700;cursor:pointer;font-family:var(--mono)}
+.ed-addrow button:hover,.ed-banner-btn:hover{color:var(--accent-2);
+  border-color:var(--accent-2)}
+.ed-banner-btn{width:100%;margin-top:6px}
+.banner-form{display:none;gap:6px;margin-top:8px;flex-direction:column}
+.banner-form.on{display:flex}
+.banner-form input{background:var(--panel-2);border:1px solid var(--line);
+  color:var(--text);border-radius:8px;padding:8px 10px;font-size:12px}
+.col-row{display:flex;align-items:center;justify-content:space-between;
+  margin-bottom:8px}
+.col-row label{font-size:11.5px;font-weight:600;color:var(--text)}
+.col-row .cwrap{display:flex;align-items:center;gap:8px}
+.col-row .chex{font-family:var(--mono);font-size:10px;color:var(--dim)}
+.col-row input[type=color]{width:34px;height:26px;border:1px solid var(--line);
+  border-radius:6px;background:var(--panel-2);padding:1px;cursor:pointer}
+.logo-drop{display:flex;align-items:center;gap:10px}
+.logo-prev{width:64px;height:34px;border:1px dashed var(--line);border-radius:8px;
+  background:#fff;display:flex;align-items:center;justify-content:center;overflow:hidden}
+.logo-prev img{max-width:100%;max-height:100%}
+.logo-prev span{font-size:9px;color:#999;font-family:var(--mono)}
+.logo-btns{display:flex;flex-direction:column;gap:5px}
+.logo-btns button{background:none;border:1px solid var(--line);color:var(--dim);
+  border-radius:7px;padding:6px 10px;font-size:10px;font-family:var(--mono);
+  cursor:pointer;text-align:left}
+.logo-btns button:hover{color:var(--text);border-color:var(--dim)}
+.ed-foot{padding:12px 16px;border-top:1px solid var(--line);display:flex;gap:8px}
+.ed-apply{flex:1;background:var(--accent);color:#fff;border:none;border-radius:9px;
+  padding:11px;font-size:12px;font-weight:800;letter-spacing:.08em;cursor:pointer}
+.ed-apply:disabled{opacity:.45;cursor:wait}
+.ed-msg{font-family:var(--mono);font-size:10px;color:var(--faint);
+  padding:0 16px 12px;display:none}
+.ed-msg.on{display:block}
+.ed-msg.err{color:var(--danger)}
+
+h1{font-size:clamp(26px,3.4vw,38px);font-weight:900;line-height:1.05;
+  letter-spacing:-.02em;margin-bottom:10px}
+h1 em{font-style:normal;color:var(--accent)}
+.sub{color:var(--dim);font-size:13.5px;line-height:1.55;max-width:46ch;margin-bottom:24px}
+
+.bar{display:flex;gap:10px}
+.bar input{flex:1;min-width:0;background:var(--panel);border:1px solid var(--line);
+  color:var(--text);border-radius:10px;padding:14px 16px;font-size:14px;
+  font-family:var(--mono);outline:none;transition:border-color .15s}
+.bar input:focus{border-color:var(--accent)}
+.bar button{background:var(--accent);color:#fff;border:none;border-radius:10px;
+  padding:14px 22px;font-size:13px;font-weight:800;letter-spacing:.06em;
+  cursor:pointer;transition:transform .12s,opacity .12s}
+.bar button:hover{transform:translateY(-1px)}
+.bar button:disabled{opacity:.45;cursor:wait;transform:none}
+/* The Figma-style edit layout squeezes this column to 260px — the input
+   and button no longer fit side by side, so stack them instead of letting
+   the button overflow into the Layers panel. */
+.grid.edit .left-col .bar{flex-direction:column}
+.grid.edit .left-col .bar button{width:100%}
+
+.chips{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
+.chip{font-family:var(--mono);font-size:11px;color:var(--dim);
+  border:1px solid var(--line);border-radius:999px;padding:5px 12px;
+  cursor:pointer;background:transparent;transition:.12s}
+.chip:hover{color:var(--accent-2);border-color:var(--accent-2)}
+
+.status{display:none;margin-top:22px;font-family:var(--mono);font-size:12px;
+  color:var(--dim);align-items:center;gap:10px}
+.status.on{display:flex}
+.dot{width:8px;height:8px;border-radius:50%;background:var(--accent-2);
+  animation:pulse 1s infinite alternate}
+@keyframes pulse{from{opacity:.25}to{opacity:1}}
+
+.err{display:none;margin-top:22px;border:1px solid var(--danger);
+  border-radius:10px;padding:12px 14px;font-family:var(--mono);font-size:12px;
+  color:var(--danger)}
+.err.on{display:block}
+
+.report{display:none;margin-top:26px;background:var(--panel);
+  border:1px solid var(--line);border-radius:14px;overflow:hidden}
+.report.on{display:block}
+.rp-head{display:flex;align-items:center;justify-content:space-between;
+  padding:16px 18px;border-bottom:1px solid var(--line)}
+.rp-brand{font-size:17px;font-weight:900}
+.rp-badges{display:flex;gap:6px}
+.badge{font-family:var(--mono);font-size:10px;padding:4px 10px;
+  border-radius:999px;border:1px solid var(--line);color:var(--dim)}
+.badge.hit{color:var(--accent-2);border-color:#3a4d19}
+.rp-body{padding:16px 18px;display:grid;gap:14px}
+.row{display:flex;justify-content:space-between;align-items:center;gap:12px}
+.k{font-family:var(--mono);font-size:11px;color:var(--faint);
+  text-transform:uppercase;letter-spacing:.1em}
+.v{font-family:var(--mono);font-size:12px;color:var(--text);text-align:right}
+.swatches{display:flex;gap:6px}
+.sw{width:26px;height:26px;border-radius:7px;border:1px solid rgba(255,255,255,.14)}
+.pipeline{border:1px solid var(--line);border-radius:10px;overflow:hidden}
+.pl-row{display:flex;align-items:center;gap:10px;padding:9px 12px;
+  font-family:var(--mono);font-size:11px}
+.pl-row+.pl-row{border-top:1px solid var(--line)}
+.pl-dot{width:7px;height:7px;border-radius:50%;flex-shrink:0}
+.pl-row.ran .pl-dot{background:var(--accent-2)}
+.pl-row.paid .pl-dot{background:var(--accent)}
+.pl-row.skip{opacity:.38}
+.pl-row.skip .pl-dot{background:transparent;border:1px solid var(--faint)}
+.pl-name{flex:1;color:var(--text)}
+.pl-row.skip .pl-name{color:var(--dim)}
+.pl-why{color:var(--faint);font-size:10px}
+.pl-cost{color:var(--dim);text-align:right;min-width:70px}
+.pl-row.paid .pl-cost{color:var(--accent)}
+.pl-total{display:flex;justify-content:space-between;padding:10px 12px;
+  border-top:1px solid var(--line);background:var(--panel-2);
+  font-family:var(--mono);font-size:11px}
+.pl-total b{color:var(--accent-2)}
+.rp-foot{display:flex;gap:10px;padding:14px 18px;border-top:1px solid var(--line)}
+.rp-foot a,.rp-foot button{font-family:var(--mono);font-size:11px;
+  color:var(--dim);background:none;border:1px solid var(--line);
+  border-radius:8px;padding:8px 14px;cursor:pointer;text-decoration:none;
+  transition:.12s}
+.rp-foot a:hover,.rp-foot button:hover{color:var(--text);border-color:var(--dim)}
+
+.phone-col{position:sticky;top:28px}
+.phone{background:var(--panel);border:1px solid var(--line);border-radius:34px;
+  padding:14px;box-shadow:0 30px 80px rgba(0,0,0,.5)}
+.notch{width:110px;height:20px;background:var(--bg);border-radius:0 0 14px 14px;
+  margin:-14px auto 6px}
+.screen{border-radius:22px;overflow:hidden;background:#fff;height:72vh;
+  min-height:480px;position:relative}
+.screen iframe{width:100%;height:100%;border:none;display:block}
+.empty{position:absolute;inset:0;display:flex;flex-direction:column;gap:10px;
+  align-items:center;justify-content:center;background:var(--panel-2);
+  color:var(--faint);font-family:var(--mono);font-size:12px;text-align:center;
+  padding:0 30px;line-height:1.7}
+.empty .big{font-size:34px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="mark">BRAND<b>BOOST</b></div>
+    <div class="tag">tracking page studio · no browser, no guesswork · <span id="build"></span></div>
+  </header>
+
+  <div class="grid">
+    <div class="left-col">
+      <h1>Any store URL in.<br>Their <em>branded</em> tracking page out.</h1>
+      <p class="sub">Static extraction first — CSS variables, button rules, logo
+        pixels, live Shopify catalogue. The model is consulted only for
+        semantics, and web search only when confidence is still low. Cached per
+        domain after the first run.</p>
+
+      <form class="bar" id="form">
+        <input id="url" type="text" placeholder="https://yourstore.in" autocomplete="off" spellcheck="false">
+        <button id="go" type="submit">GENERATE</button>
+      </form>
+      <div class="chips" id="chips">
+        <button type="button" class="chip">mamaearth.in</button>
+        <button type="button" class="chip">hammeronline.in</button>
+        <button type="button" class="chip">boat-lifestyle.com</button>
+        <button type="button" class="chip">zudio.com</button>
+      </div>
+
+      <div class="status" id="status"><span class="dot"></span><span id="statusTxt"></span></div>
+      <div class="err" id="err"></div>
+
+      <div class="report" id="report">
+        <div class="rp-head">
+          <div class="rp-brand" id="rBrand">—</div>
+          <div class="rp-badges">
+            <span class="badge" id="rCached">fresh</span>
+            <span class="badge" id="rTime">0s</span>
+            <span class="badge hit" id="rCostBadge">$0</span>
+          </div>
+        </div>
+        <div class="rp-body">
+          <div class="row"><span class="k">Palette</span>
+            <span class="swatches" id="rSwatches"></span></div>
+          <div class="row"><span class="k">Font</span><span class="v" id="rFont">—</span></div>
+          <div class="row"><span class="k">Logo</span><span class="v" id="rLogo">—</span></div>
+          <div class="row"><span class="k">Assets</span><span class="v" id="rAssets">—</span></div>
+          <div>
+            <div class="k" style="margin-bottom:8px">Pipeline · how far the search went</div>
+            <div class="pipeline" id="rPipeline"></div>
+          </div>
+          <div class="row"><span class="k">AI resolved</span><span class="v" id="rAi">—</span></div>
+        </div>
+        <div class="rp-foot">
+          <a id="rOpen" href="#" target="_blank" rel="noopener">open full page ↗</a>
+          <button type="button" id="rForce">re-extract (skip cache)</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="editor" id="layers">
+      <div class="ed-head">
+        <div class="ed-title">LAY<b>ERS</b></div>
+        <button type="button" class="ed-reset" id="edReset">reset all</button>
+      </div>
+      <div class="ed-body" style="max-height:none">
+        <div>
+          <div class="ed-k">Elements · click to edit, ↑↓ reorders, × removes</div>
+          <div id="edCurNote" style="display:none;font-family:var(--mono);
+            font-size:10px;color:var(--accent-2);line-height:1.5;
+            margin-bottom:8px"></div>
+          <div class="sec-row theme-row" id="themeRow"><span class="sec-name">🎨 Theme — colors, logo, font</span></div>
+          <div id="edSections"></div>
+          <div class="ed-addrow">
+            <select id="edAddSel"></select>
+            <button type="button" id="edAdd">+ add</button>
+          </div>
+          <button type="button" class="ed-banner-btn" id="edBannerBtn">+ custom text banner</button>
+          <div class="banner-form" id="bannerForm">
+            <input id="bnTitle" type="text" maxlength="60" placeholder="Banner title — e.g. DIWALI SALE">
+            <input id="bnText" type="text" maxlength="200" placeholder="Banner text — e.g. Extra 10% off prepaid orders">
+            <div class="ed-addrow">
+              <button type="button" id="bnOk" style="flex:1">add banner</button>
+              <button type="button" id="bnCancel">cancel</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="phone-col">
+      <div class="phone">
+        <div class="notch"></div>
+        <div class="screen">
+          <div class="empty" id="empty">
+            <div class="big">⟡</div>
+            <div>the tracking page renders here<br>paste a store URL to begin</div>
+          </div>
+          <iframe id="frame" title="tracking page preview"></iframe>
+        </div>
+      </div>
+    </div>
+
+    <div class="editor" id="props">
+      <div class="ed-head">
+        <div class="ed-title" id="propsTitle">THEME</div>
+      </div>
+      <div class="ed-body" id="propsBody"></div>
+      <div class="ed-msg" id="edMsg"></div>
+      <div class="ed-foot">
+        <button type="button" class="ed-apply" id="edApply">APPLY TO PAGE →</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+(function(){
+  // Injected by server.py at serve time. If a later /api response carries a
+  // different stamp, THIS tab is running old code — reload it, keeping the URL.
+  const UI_STAMP='__UI_STAMP__';
+  const $ = id => document.getElementById(id);
+  $('build').textContent='build '+(UI_STAMP.length>4?UI_STAMP.slice(-4):UI_STAMP);
+  const form=$('form'), input=$('url'), go=$('go'), status=$('status'),
+        statusTxt=$('statusTxt'), err=$('err'), report=$('report'),
+        frame=$('frame'), empty=$('empty');
+  let lastUrl='';
+
+  // Honest staging: we cannot stream pipeline progress over one GET, so the
+  // ticker describes the tiers generically; the report shows what ACTUALLY ran.
+  const STAGES=['fetching homepage + stylesheets…','mining colours, fonts, logo pixels…',
+                'checking the store catalogue…','asking the model (only what static missed)…',
+                'validating + assembling the kit…'];
+  let stageTimer=null;
+
+  function setBusy(on){
+    go.disabled=on; status.classList.toggle('on',on);
+    if(on){ let i=0; statusTxt.textContent=STAGES[0];
+      stageTimer=setInterval(()=>{ i=Math.min(i+1,STAGES.length-1);
+        statusTxt.textContent=STAGES[i]; },1800);
+    } else clearInterval(stageTimer);
+  }
+  function fail(msg){ err.textContent=msg; err.classList.add('on'); }
+
+  function paint(r){
+    report.classList.add('on');
+    $('rBrand').textContent=r.brand_name;
+    $('rCached').textContent=r.meta.cached?'cached':'fresh';
+    $('rCached').className='badge'+(r.meta.cached?' hit':'');
+    $('rTime').textContent=(r.meta.elapsed_s||0)+'s';
+    const c=r.colors;
+    $('rSwatches').innerHTML=[c.brand,c.header_bg,c.body_bg,c.ann_bg]
+      .map(x=>'<span class="sw" title="'+x+'" style="background:'+x+'"></span>').join('');
+    $('rFont').textContent=(r.typography.body_font||'').split(',')[0].replace(/'/g,'')
+      +(r.typography.google_font?' · via google fonts':'');
+    $('rLogo').textContent=r.logo;
+    const s=r.social||{};
+    $('rAssets').textContent=r.products+' products · hero '+(r.hero?'✓':'—')
+      +' · ig '+(s.ig_posts?s.ig_posts+' posts'+(s.ig_followers?' ('+s.ig_followers+')':''):r.instagram)
+      +' · fb '+(s.fb?'✓'+(s.fb_likes?' ('+s.fb_likes+')':''):'—');
+    paintPipeline(r.meta);
+    $('rAi').textContent=(r.meta.ai_applied||[]).join(', ')||'nothing needed';
+    $('rOpen').href=r.page;
+    frame.src=r.page+'?t='+Date.now()+'&edit=1';
+    empty.style.display='none';
+    initEditor(r.slug);
+  }
+
+  // Every stage the pipeline COULD run, in escalation order. `skipWhy` explains
+  // a stage that didn't run — skipped stages are the cost win, show them.
+  const TIER_DEFS=[
+    {id:'static',           name:'1 · static extraction',  skipWhy:''},
+    {id:'proxy_fetch',      name:'1b · proxy fetch (scrapingdog, 1cr)',
+     skipWhy:'direct fetch was rich enough'},
+    {id:'shopify_products', name:'1c · shopify catalogue',
+     skipWhy:'not shopify / no usable feed'},
+    {id:'social_scrape',    name:'1d · fb + ig posts (scrapingdog, 15cr/req)',
+     skipWhy:'no fb/ig handles found'},
+    {id:'ai_digest',        name:'2 · ai digest (gpt-5.4)', paid:true,
+     skipWhy:'ai disabled'},
+    {id:'ai_web_search',    name:'3 · ai + web search',     paid:true,
+     skipWhy:'confidence already high'},
+    {id:'ai_image_vet',     name:'4 · ai image vetting (pick↔judge loop)', paid:true,
+     skipWhy:'fresh runs only'},
+    {id:'ai_curate',        name:'5 · ai section curation (loops)', paid:true,
+     skipWhy:'gateway off'},
+  ];
+  function money(u){
+    if(u===null||u===undefined) return '';
+    if(u===0) return 'free';
+    return '$'+(u<0.01?u.toFixed(4):u.toFixed(3));
+  }
+  function paintPipeline(m){
+    const ran=new Set(m.tiers||[]);
+    const per=(m.cost&&m.cost.per_tier_usd)||{};
+    const rows=TIER_DEFS.map(t=>{
+      const did=ran.has(t.id);
+      const cls='pl-row '+(did?(t.paid?'ran paid':'ran'):'skip');
+      const tok=t.id==='ai_digest'?m.tokens_digest
+               :t.id==='ai_web_search'?m.tokens_web
+               :t.id==='ai_curate'?m.tokens_curate
+               :t.id==='ai_image_vet'?m.tokens_vet:null;
+      const loops=t.id==='ai_image_vet'?m.vet_loops:0;
+      const why=did
+        ?(tok?(tok.input||0)+' in / '+(tok.output||0)+' out'
+              +(loops?' · '+loops+' calls':'')
+             :t.id==='social_scrape'?(m.social_requests||0)+' req / '+(m.social_credits||0)+' credits'
+             :'')
+        :(t.skipWhy?'skipped — '+t.skipWhy:'');
+      const cost=did?money(per[t.id]||0):'—';
+      return '<div class="'+cls+'"><span class="pl-dot"></span>'
+        +'<span class="pl-name">'+t.name+'</span>'
+        +'<span class="pl-why">'+why+'</span>'
+        +'<span class="pl-cost">'+cost+'</span></div>';
+    }).join('');
+    const total=(m.cost&&m.cost.total_usd)||0;
+    document.getElementById('rCostBadge').textContent=
+      (total?money(total):'free')+' est';
+    const cachedNote=m.cached?' · this view: $0 (cached)':'';
+    document.getElementById('rPipeline').innerHTML=rows
+      +'<div class="pl-total"><span>estimated cost of this kit'+cachedNote
+      +'</span><b>'+(total?money(total):'free')+'</b></div>';
+  }
+
+  async function generate(force){
+    const url=input.value.trim();
+    if(!url) return;
+    lastUrl=url;
+    err.classList.remove('on'); setBusy(true);
+    try{
+      const q='/api/generate?url='+encodeURIComponent(url)+(force?'&force=1':'');
+      const res=await fetch(q);
+      const r=await res.json();
+      if(r.ui_stamp && r.ui_stamp!==UI_STAMP){
+        // Stale tab: old JS can't render the new panels. Reload with the
+        // typed URL carried over so the run resumes automatically.
+        location.href='/?u='+encodeURIComponent(url);
+        return;
+      }
+      if(!r.ok){ fail(r.error||'generation failed'); return; }
+      paint(r);
+    }catch(e){ fail('server unreachable — is server.py running?'); }
+    finally{ setBusy(false); }
+  }
+
+  // ---------- customize panels: Layers (left) + Properties (right) ----------
+  const layers=$('layers'), props=$('props');
+  let ED={slug:'',labels:{},available:[],sections:[],colors:{},logo_data:'',
+    kitColors:{},copy:{},defaults:{},font:'',fontOptions:[],selected:'theme'};
+  const ALL_COLOR_KEYS=['brand','header_bg','body_bg','ann_bg','ann_text'];
+  // Per-section-type editable fields. `text` fields live in custom.copy,
+  // `color` fields in custom.colors — same storage the old always-on Colors
+  // panel used, just shown contextually now that a section is selected
+  // instead of all at once.
+  const SECTION_FIELDS={
+    ann: [
+      {key:'ann_copy', label:'Promo text', type:'text', maxlength:120},
+      {key:'ann_cta', label:'Button label', type:'text', maxlength:24},
+      {key:'ann_bg', label:'Background color', type:'color'},
+      {key:'ann_text', label:'Text color', type:'color'},
+    ],
+    hero: [
+      {key:'hero_l1', label:'Heading line 1', type:'text', maxlength:40},
+      {key:'hero_l2', label:'Heading line 2', type:'text', maxlength:40},
+      {key:'hero_sub', label:'Subtext', type:'text', maxlength:80},
+    ],
+    ad: [
+      {key:'ad_eyebrow', label:'Eyebrow label', type:'text', maxlength:24},
+      {key:'ad_l1', label:'Headline line 1', type:'text', maxlength:24},
+      {key:'ad_l2', label:'Headline line 2', type:'text', maxlength:24},
+      {key:'ad_sub', label:'Subtext', type:'text', maxlength:60},
+    ],
+  };
+  const THEME_COLOR_MAP=[['brand','Brand / accent'],['header_bg','Header background'],
+    ['body_bg','Page background']];
+
+  async function initEditor(slug){
+    try{
+      const r=await(await fetch('/api/kit?slug='+encodeURIComponent(slug))).json();
+      if(!r.ok) return;
+      ED.slug=slug; ED.labels=r.labels||{}; ED.available=r.available||[];
+      ED.kitColors={brand:r.colors.brand,header_bg:r.colors.header_bg,
+        body_bg:r.colors.body_bg,ann_bg:r.colors.ann_bg,ann_text:r.colors.ann_text};
+      ED.fontOptions=r.font_options||[]; ED.defaults=r.defaults||{};
+      const c=r.custom||{}, cur=r.curated||{};
+      ED.sections=(c.sections&&c.sections.length)?c.sections.slice()
+        :(cur.ok&&cur.sections&&cur.sections.length)
+          ?cur.sections.map(id=>({id:id}))
+          :ED.available.map(id=>({id:id}));
+      ED.curNote=(cur.ok&&cur.notes)?cur.notes:'';
+      ED.colors=Object.assign({},c.colors||{});
+      ED.logo_data=c.logo_data||'';
+      ED.copy=Object.assign({},(cur.ok&&cur.copy)?cur.copy:{},c.copy||{});
+      ED.font=c.font||'';
+      ED.selected='theme';
+      renderSections(); renderProps();
+      const note=$('edCurNote');
+      note.textContent=ED.curNote?'✦ ai curation: '+ED.curNote:'';
+      note.style.display=ED.curNote?'block':'none';
+      document.querySelector('.grid').classList.add('edit');
+      document.querySelector('.wrap').classList.add('wide');
+      layers.classList.add('on'); props.classList.add('on');
+    }catch(e){/* editor is optional chrome; never break the run report */}
+  }
+  function secLabel(s){
+    if(s.id.indexOf('banner:')===0) return '★ '+(s.title||'custom banner');
+    return ED.labels[s.id]||s.id;
+  }
+  function selectItem(id){
+    ED.selected=id;
+    $('themeRow').classList.toggle('sel',id==='theme');
+    document.querySelectorAll('#edSections .sec-row').forEach(r=>
+      r.classList.toggle('sel',r.dataset.id===id));
+    renderProps();
+    if(id!=='theme'&&frame.contentWindow){
+      frame.contentWindow.postMessage(
+        {source:'brandboost-editor',type:'highlight-section',id:id},'*');
+    }
+  }
+  function renderSections(){
+    const box=$('edSections'); box.innerHTML='';
+    ED.sections.forEach((s,i)=>{
+      const row=document.createElement('div');
+      row.className='sec-row'+(ED.selected===s.id?' sel':'');
+      row.dataset.id=s.id;
+      row.innerHTML='<span class="sec-name"></span>'
+        +'<button type="button" class="sec-btn up" title="move up">↑</button>'
+        +'<button type="button" class="sec-btn dn" title="move down">↓</button>'
+        +'<button type="button" class="sec-btn del" title="remove">×</button>';
+      row.querySelector('.sec-name').textContent=secLabel(s);
+      row.addEventListener('click',e=>{ if(!e.target.closest('.sec-btn')) selectItem(s.id); });
+      row.querySelector('.up').onclick=e=>{e.stopPropagation(); if(i>0){
+        ED.sections.splice(i-1,0,ED.sections.splice(i,1)[0]); renderSections(); }};
+      row.querySelector('.dn').onclick=e=>{e.stopPropagation(); if(i<ED.sections.length-1){
+        ED.sections.splice(i+1,0,ED.sections.splice(i,1)[0]); renderSections(); }};
+      row.querySelector('.del').onclick=e=>{e.stopPropagation();
+        ED.sections.splice(i,1);
+        if(ED.selected===s.id) ED.selected='theme';
+        renderSections(); renderProps(); };
+      box.appendChild(row);
+    });
+    $('themeRow').classList.toggle('sel',ED.selected==='theme');
+    const sel=$('edAddSel'); sel.innerHTML='';
+    const present=new Set(ED.sections.map(s=>s.id));
+    ED.available.filter(id=>!present.has(id)).forEach(id=>{
+      const o=document.createElement('option');
+      o.value=id; o.textContent=ED.labels[id]||id; sel.appendChild(o);
+    });
+    sel.disabled=!sel.options.length;
+  }
+  function renderLogo(){
+    const el=$('logoPrev'); if(!el) return;
+    el.innerHTML=ED.logo_data
+      ?'<img src="'+ED.logo_data+'" alt="custom logo">':'<span>extracted</span>';
+  }
+  function renderThemeColors(){
+    const box=$('themeColors'); if(!box) return;
+    box.innerHTML=THEME_COLOR_MAP.map(([k,label])=>{
+      const val=ED.colors[k]||ED.kitColors[k]||'#000000';
+      return '<div class="col-row"><label>'+label+'</label><span class="cwrap">'
+        +'<span class="chex" id="hx_'+k+'">'+val+'</span>'
+        +'<input type="color" id="f_'+k+'" value="'+val+'"></span></div>';
+    }).join('');
+    THEME_COLOR_MAP.forEach(([k])=>{
+      $('f_'+k).addEventListener('input',()=>{
+        ED.colors[k]=$('f_'+k).value; $('hx_'+k).textContent=$('f_'+k).value; });
+    });
+  }
+  function esc(s){ return String(s).replace(/"/g,'&quot;'); }
+  function renderProps(){
+    const body=$('propsBody'), title=$('propsTitle');
+    body.innerHTML='';
+    if(ED.selected==='theme'){
+      title.textContent='THEME';
+      body.innerHTML=
+        '<div><div class="ed-k">Color scheme</div><div id="themeColors"></div></div>'
+        +'<div><div class="ed-k">Typeface</div><select class="fld-select" id="fFont">'
+        +'<option value="">site default</option>'
+        +ED.fontOptions.map(f=>'<option value="'+f.key+'">'+f.label+'</option>').join('')
+        +'</select></div>'
+        +'<div><div class="ed-k">Logo</div><div class="logo-drop">'
+        +'<div class="logo-prev" id="logoPrev"><span>current</span></div>'
+        +'<div class="logo-btns"><button type="button" id="logoPick">upload png / jpg / webp</button>'
+        +'<button type="button" id="logoClear">use extracted logo</button></div>'
+        +'<input type="file" id="logoFile" accept="image/png,image/jpeg,image/webp" style="display:none">'
+        +'</div></div>';
+      renderThemeColors(); renderLogo();
+      $('fFont').value=ED.font||'';
+      $('fFont').addEventListener('change',e=>{ED.font=e.target.value;});
+      $('logoPick').onclick=()=>$('logoFile').click();
+      $('logoFile').addEventListener('change',()=>{
+        const f=$('logoFile').files[0]; if(!f) return;
+        if(f.size>550000){edMsg('logo too large — keep it under 500KB',true);return;}
+        const rd=new FileReader();
+        rd.onload=()=>{ED.logo_data=rd.result;renderLogo();};
+        rd.readAsDataURL(f);
+      });
+      $('logoClear').onclick=()=>{ED.logo_data='';$('logoFile').value='';renderLogo();};
+      return;
+    }
+    const sec=ED.sections.find(s=>s.id===ED.selected);
+    if(sec&&sec.id.indexOf('banner:')===0){
+      title.textContent='CUSTOM BANNER';
+      body.innerHTML=
+        '<div><div class="ed-k">Title</div>'
+        +'<input class="fld-input" id="pfBnTitle" type="text" maxlength="60" value="'
+        +esc(sec.title||'')+'"></div>'
+        +'<div><div class="ed-k">Text</div>'
+        +'<input class="fld-input" id="pfBnText" type="text" maxlength="200" value="'
+        +esc(sec.text||'')+'"></div>';
+      $('pfBnTitle').addEventListener('input',e=>{sec.title=e.target.value;renderSections();});
+      $('pfBnText').addEventListener('input',e=>{sec.text=e.target.value;});
+      return;
+    }
+    const fields=SECTION_FIELDS[ED.selected]||[];
+    title.textContent=(ED.labels[ED.selected]||ED.selected).toUpperCase();
+    if(!fields.length){
+      body.innerHTML='<div class="hint">No design options for this section yet — '
+        +'use the Layers panel to reorder or remove it.</div>';
+      return;
+    }
+    body.innerHTML=fields.map(f=>{
+      if(f.type==='color'){
+        const val=ED.colors[f.key]||ED.kitColors[f.key]||'#000000';
+        return '<div class="col-row"><label>'+f.label+'</label><span class="cwrap">'
+          +'<span class="chex" id="hx_'+f.key+'">'+val+'</span>'
+          +'<input type="color" id="f_'+f.key+'" value="'+val+'"></span></div>';
+      }
+      const val=ED.copy[f.key]||'';
+      const ph=ED.defaults[f.key]||'';
+      return '<div style="margin-bottom:10px"><div class="ed-k" style="margin-bottom:4px">'
+        +f.label+'</div><input class="fld-input" id="f_'+f.key+'" type="text" maxlength="'
+        +(f.maxlength||120)+'" placeholder="'+esc(ph)+'" value="'+esc(val)+'"></div>';
+    }).join('');
+    fields.forEach(f=>{
+      const el=$('f_'+f.key);
+      if(f.type==='color'){
+        el.addEventListener('input',()=>{
+          ED.colors[f.key]=el.value; $('hx_'+f.key).textContent=el.value; });
+      } else {
+        el.addEventListener('input',()=>{ED.copy[f.key]=el.value;});
+      }
+    });
+  }
+  $('themeRow').addEventListener('click',()=>selectItem('theme'));
+  $('edAdd').onclick=()=>{ const sel=$('edAddSel');
+    if(sel.value){ED.sections.push({id:sel.value});renderSections();} };
+  $('edBannerBtn').onclick=()=>$('bannerForm').classList.toggle('on');
+  $('bnCancel').onclick=()=>$('bannerForm').classList.remove('on');
+  $('bnOk').onclick=()=>{
+    const t=$('bnTitle').value.trim(), x=$('bnText').value.trim();
+    if(!t&&!x) return;
+    const id='banner:'+Math.random().toString(36).slice(2,8);
+    ED.sections.push({id:id,title:t,text:x});
+    $('bnTitle').value=''; $('bnText').value='';
+    $('bannerForm').classList.remove('on'); renderSections();
+    selectItem(id);
+  };
+  function edMsg(t,isErr){
+    const m=$('edMsg'); m.textContent=t;
+    m.className='ed-msg on'+(isErr?' err':'');
+    if(!isErr) setTimeout(()=>m.classList.remove('on'),4000);
+  }
+  async function saveCustom(custom){
+    const b=$('edApply'); b.disabled=true;
+    try{
+      const res=await fetch('/api/customize',{method:'POST',
+        headers:{'Content-Type':'application/json'},
+        body:JSON.stringify({slug:ED.slug,custom:custom})});
+      const r=await res.json();
+      if(!r.ok){edMsg(r.error||'save failed',true);return false;}
+      frame.src='/page/'+ED.slug+'?t='+Date.now()+'&edit=1';
+      edMsg('applied ✓ — preview refreshed');
+      return true;
+    }catch(e){edMsg('server unreachable',true);return false;}
+    finally{b.disabled=false;}
+  }
+  $('edApply').onclick=()=>{
+    const colors={};
+    ALL_COLOR_KEYS.forEach(k=>{
+      const v=ED.colors[k]; if(v&&v!==ED.kitColors[k])colors[k]=v; });
+    const custom={sections:ED.sections};
+    if(Object.keys(colors).length)custom.colors=colors;
+    if(ED.logo_data)custom.logo_data=ED.logo_data;
+    const copy={};
+    Object.keys(ED.copy).forEach(k=>{ if(ED.copy[k]&&ED.copy[k].trim())copy[k]=ED.copy[k].trim(); });
+    if(Object.keys(copy).length)custom.copy=copy;
+    if(ED.font)custom.font=ED.font;
+    saveCustom(custom);
+  };
+  $('edReset').onclick=async()=>{ if(await saveCustom(null)) initEditor(ED.slug); };
+
+  // Click-to-select: the tracking page (loaded with ?edit=1) posts the
+  // clicked section's id up to us; we mirror the selection here too, so
+  // clicking either the preview or the Layers list drives the same state.
+  window.addEventListener('message',e=>{
+    if(e.source!==frame.contentWindow) return;
+    const d=e.data||{};
+    if(d.source!=='brandboost'||d.type!=='select-section') return;
+    selectItem(d.id);
+  });
+
+  form.addEventListener('submit',e=>{e.preventDefault();generate(false);});
+  $('rForce').addEventListener('click',()=>{input.value=lastUrl;generate(true);});
+  document.querySelectorAll('.chip').forEach(ch=>
+    ch.addEventListener('click',()=>{input.value=ch.textContent;generate(false);}));
+
+  // Arriving from a stale-tab reload: resume the run that triggered it.
+  const carried=new URLSearchParams(location.search).get('u');
+  if(carried){ input.value=carried; generate(false); }
+})();
+</script>
+</body>
+</html>
