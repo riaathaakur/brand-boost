@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: brand-boost
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: python3 server.py
+    envVars:
+      - key: SR_AI_GATEWAY_KEY
+        sync: false
+      - key: SCRAPINGDOG_API_KEY
+        sync: false
+      - key: SCRAPINGDOG_DYNAMIC
+        value: "false"

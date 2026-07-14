@@ -37,7 +37,7 @@ CACHE = os.path.join(ROOT, ".cache")
 os.makedirs(CACHE, exist_ok=True)
 IMG_CACHE = os.path.join(CACHE, "img")
 os.makedirs(IMG_CACHE, exist_ok=True)
-PORT = 8765
+PORT = int(os.environ.get("PORT", 8765))
 
 # Only Meta's CDNs may be proxied — they send
 # Cross-Origin-Resource-Policy: same-origin, so the browser cannot hotlink
