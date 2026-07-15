@@ -28,8 +28,13 @@ header{display:flex;align-items:baseline;gap:14px;margin-bottom:34px}
    whichever side the seller is looking at. */
 .grid.edit{grid-template-columns:340px 210px minmax(300px,1fr) 300px}
 .wrap.wide{max-width:1620px}
+/* Narrower than 1500px, the 4-column triptych + url bar no longer fit
+   side by side — stack the url bar / report column as its own full-width
+   row above Layers/Phone/Properties instead of hiding it. Losing the
+   ability to start a new generation while editing is worse than a
+   slightly taller page. */
 @media(max-width:1500px){.grid.edit{grid-template-columns:230px minmax(280px,1fr) 300px}
-  .grid.edit .left-col{display:none}}
+  .grid.edit .left-col{grid-column:1/-1;order:-1}}
 @media(max-width:1100px){.grid.edit{grid-template-columns:1fr 1fr}
   .phone-col{grid-column:1/-1}}
 @media(max-width:900px){.grid,.grid.edit{grid-template-columns:1fr}}
