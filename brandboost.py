@@ -705,10 +705,14 @@ def select_images(data):
 # Step 4 — HTML build (structure baked in; only the skin changes per brand)
 # ----------------------------------------------------------------------------
 def img_tag(src, cls="", style="", alt="", fallback=None):
-    """Never emoji. Fallback is a neutral grey div."""
+    """Never emoji. Fallback is a neutral grey div. No loading="lazy" — this
+    is a single self-contained page, not an infinite feed, and native lazy
+    loading only fires on a genuine viewport/visibility signal that doesn't
+    reliably arrive for every embedding context (e.g. an iframe preview) —
+    better to always load eagerly than risk a banner that never appears."""
     src = _safe_url(src)
     if src:
-        return ('<img src="%s" alt="%s" class="%s" style="%s" loading="lazy" '
+        return ('<img src="%s" alt="%s" class="%s" style="%s" '
                 'onerror="this.style.display=\'none\'">' % (_e(src), _e(alt), cls, style))
     return '<div class="%s" style="background:#f0f0f0;%s"></div>' % (cls, style)
 
@@ -1035,7 +1039,7 @@ def _ig_section(v, picks, slug, social, logo_src):
             open_a = '<a class="ig-cell" href="%s" target="_blank" rel="noopener">' % _e(link) \
                 if link else '<div class="ig-cell">'
             close_a = "</a>" if link else "</div>"
-            cells.append('%s<img src="%s" alt="" loading="lazy" '
+            cells.append('%s<img src="%s" alt="" '
                          'onerror="this.style.display=\'none\'">%s%s%s'
                          % (open_a, _e(img), stats, vid, close_a))
         if cells:
@@ -1059,7 +1063,7 @@ def _ig_section(v, picks, slug, social, logo_src):
     if len(ig_imgs) < 3:
         return ""
     ig_cells = "".join(
-        '<div class="ig-cell"><img src="%s" alt="" loading="lazy"></div>'
+        '<div class="ig-cell"><img src="%s" alt=""></div>'
         % _e(_safe_url(u)) for u in ig_imgs)
     ig_avatar = ('<img class="ig-av" src="%s" alt="">' % _e(logo_src)) if logo_src \
         else '<div class="ig-av" style="background:%s"></div>' % v["brand"]
@@ -1091,7 +1095,7 @@ def _fb_section(social, logo_src):
         pimg = proxy_img(p.get("image"))
         posts_html += ('<div class="fb-post"><div class="fb-post-t">%s</div>%s%s</div>' % (
             _e(p.get("text") or ""),
-            ('<img src="%s" alt="" loading="lazy" '
+            ('<img src="%s" alt="" '
              'onerror="this.style.display=\'none\'">' % _e(pimg)) if pimg else "",
             ('<div class="fb-stats">%s</div>' % "".join(
                 '<span>%s</span>' % s for s in stats)) if stats else ""))

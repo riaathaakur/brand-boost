@@ -371,6 +371,8 @@ h1 em{font-style:normal;color:var(--accent)}
     {id:'static',           name:'1 · static extraction',  skipWhy:''},
     {id:'proxy_fetch',      name:'1b · proxy fetch (scrapingdog, 1cr)',
      skipWhy:'direct fetch was rich enough'},
+    {id:'proxy_fetch_dynamic', name:'1b2 · dynamic JS re-fetch (scrapingdog, 5cr)', paid:true,
+     skipWhy:'static parse already usable'},
     {id:'shopify_products', name:'1c · shopify catalogue',
      skipWhy:'not shopify / no usable feed'},
     {id:'social_scrape',    name:'1d · fb + ig posts (scrapingdog, 15cr/req)',

@@ -637,18 +637,20 @@ PROXY_TIMEOUT = 60
 MIN_GOOD_IMAGES = 6
 
 
-def fetch_via_proxy(url):
+def fetch_via_proxy(url, force_dynamic=False):
     """Homepage HTML via ScrapingDog, '' when unconfigured or unhelpful.
     SCRAPINGDOG_DYNAMIC=true turns on JS rendering (5x credits) for SPA-heavy
-    seller bases — default off per cost policy."""
+    seller bases — default off per cost policy. `force_dynamic` overrides that
+    for one call only (see the tier 0c escalation below) — it never changes
+    the global cost policy for every other site."""
     key = os.environ.get("SCRAPINGDOG_API_KEY")
     if not key:
         return ""
+    dynamic = force_dynamic or os.environ.get("SCRAPINGDOG_DYNAMIC") == "true"
     try:
         r = requests.get(SCRAPINGDOG_URL, timeout=PROXY_TIMEOUT, params={
             "api_key": key, "url": url,
-            "dynamic": "true" if os.environ.get("SCRAPINGDOG_DYNAMIC") == "true"
-                       else "false"})
+            "dynamic": "true" if dynamic else "false"})
     except requests.RequestException:
         return ""
     # A proxy error page is worse than nothing — only accept a real document.
@@ -839,6 +841,8 @@ def _cost_summary(meta):
         "static": 0.0,
         "proxy_fetch": round(_proxy_credits() * USD_PER_CREDIT, 4)
                        if "proxy_fetch" in ran else None,
+        "proxy_fetch_dynamic": round(5 * USD_PER_CREDIT, 4)
+                               if "proxy_fetch_dynamic" in ran else None,
         "shopify_products": 0.0 if "shopify_products" in ran else None,
         "ai_digest": _tier_usd(meta.get("tokens_digest"))
                      if "ai_digest" in ran else None,
@@ -890,6 +894,27 @@ def run(url, slug, use_ai=True):
                 meta["proxy_adopted"] = False
     if data is None:
         raise direct_error
+
+    # Tier 0c — dynamic (JS-rendered) re-fetch, only when even the static
+    # proxy parse came back near-empty. A React/Next.js headless storefront
+    # renders its whole header client-side — no amount of non-JS re-fetching
+    # will ever see the logo, so this is the one case worth actually paying
+    # the 5x-credit dynamic tier for. Scoped to just this one request; it
+    # never flips the global SCRAPINGDOG_DYNAMIC cost policy for every site.
+    if _extraction_poor(data) and os.environ.get("SCRAPINGDOG_DYNAMIC") != "true" \
+            and os.environ.get("SCRAPINGDOG_API_KEY"):
+        dynamic_html = fetch_via_proxy(url, force_dynamic=True)
+        if dynamic_html:
+            meta["tiers"].append("proxy_fetch_dynamic")
+            try:
+                ddata, dprods = extract_static(url, html_text=dynamic_html)
+            except requests.RequestException:
+                ddata = None
+            if ddata is not None and _richness(ddata) > _richness(data):
+                data, kit_products = ddata, dprods
+                meta["proxy_dynamic_adopted"] = True
+            else:
+                meta["proxy_dynamic_adopted"] = False
 
     meta["platform"] = data["platform"]
 
